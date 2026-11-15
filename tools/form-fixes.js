@@ -222,13 +222,10 @@ function ilpFix() {
 export default {
   // ---------------- NEW BUSINESS ----------------
   'AMENDMENET - NBZ-FRQAM': {
-    drop: [{ page: 1, key: 'signDate' }], // that box is "Change Commencement Date"
+    // The address boxes are not filled from the customer's details on this form: they stay blank as typed-in items.
+    drop: [{ page: 1, key: 'signDate' }, ...['address1', 'address2', 'address3', 'postcode', 'town', 'state', 'country', 'cityLine'].map(key => ({ page: 1, key }))], // signDate box is "Change Commencement Date"
     lines: [{ page: 1, line: 12, key: 'ownerName', ifDiff: 'laName' }],
-    rows: [
-      { page: 1, row: 23, key: 'address1' },
-      { page: 1, row: 24, key: 'address2' },
-      { page: 1, row: 29, key: 'signDate' },
-    ],
+    rows: [{ page: 1, row: 29, key: 'signDate' }],
   },
   'CLINICAL ABSTRACT': {
     // Parent / guardian block (patient under 18): the policyowner, only when not the patient.
