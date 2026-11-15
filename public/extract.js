@@ -97,17 +97,17 @@ async function recognise(worker, image, psm) {
 // tables are found from their grid lines and every cell is read on its own, enlarged.
 function gridOf(canvas) {
   const W = canvas.width, H = canvas.height, px = canvas.getContext('2d').getImageData(0, 0, W, H).data;
-  const dark = (x, y) => { const o = (y * W + x) * 4; return px[o] * 0.3 + px[o + 1] * 0.59 + px[o + 2] * 0.11 < 190; };
+  const dark = (x, y) => { const o = (y * W + x) * 4; return px[o] * 0.3 + px[o + 1] * 0.59 + px[o + 2] * 0.11 < 205; };
   const x0 = Math.round(W * 0.115), x1 = Math.round(W * 0.88);
   const ys = []; let prev = -9;
   for (let y = 0; y < H; y++) { // horizontal grid lines: long dark runs across the table area
     let n = 0; for (let x = x0; x < x1; x++) if (dark(x, y)) n++;
-    if (n > (x1 - x0) * 0.6) { if (y - prev <= 2) ys[ys.length - 1] = (ys.at(-1) * 2 + y) / 3; else ys.push(y); prev = y; }
+    if (n > (x1 - x0) * 0.5) { if (y - prev <= 2) ys[ys.length - 1] = (ys.at(-1) * 2 + y) / 3; else ys.push(y); prev = y; }
   }
   const rows = []; // neighbouring lines a table-row apart
-  for (let i = 0; i + 1 < ys.length; i++) { const h = ys[i + 1] - ys[i]; if (h >= 12 && h <= 60) rows.push([ys[i], ys[i + 1]]); }
+  for (let i = 0; i + 1 < ys.length; i++) { const h = ys[i + 1] - ys[i]; if (h >= W * 0.0065 && h <= W * 0.033) rows.push([ys[i], ys[i + 1]]); }
   // vertical grid lines through a stretch of rows -> column edges
-  const edgesThrough = (ra, rb, share = 0.88) => {
+  const edgesThrough = (ra, rb, share = 0.8) => {
     const edges = [];
     for (let x = Math.round(W * 0.08); x < Math.round(W * 0.95); x++) {
       let n = 0; for (let y = Math.round(ra) + 3; y < Math.round(rb) - 3; y++) if (dark(x, y)) n++;
@@ -354,7 +354,7 @@ const ROLES = [
   [/\b(policy ?owner|proposer|pemegang polisi|customer|applicant|claimant|payor|pencadang)/i, 'owner'],
 ];
 const roleOf = s => (ROLES.find(([re]) => re.test(s)) || [])[1] || null;
-const ROLE_WORDS = /\b(nominee|penama|beneficiar(y|ies)|trustee|pemegang amanah|life (to be )?assured|insured person|policy ?owner|proposer|patient|customer|applicant|claimant|agent|witness)('?s)?\b|\b(of|for|the|details?|particulars|maklumat|butiran)\b|\(?\s*[12](st|nd)?\s*\)?|#/gi;
+const ROLE_WORDS = /\b(nominee|penama|beneficiar(y|ies)|trustee|pemegang amanah|life (to be )?assured|insured person|policy ?owner|proposer|patient|customer|applicant|claimant|agent|witness)('?s)?\b|\b(of|for|the|details?|particulars|maklumat|butiran)\b|\(?\s*[1-4](st|nd|rd|th)?\s*\)?|#/gi;
 const PERSON_PART = { ownerName: 'Name', ownerNric: 'Nric', ownerDob: 'Dob', ownerGender: 'Gender', relationship: 'Relationship',
   mobile: 'Mobile', address1: 'Address', postcode: 'Postcode', town: 'Town', share: 'Share', ownerNationality: 'Nationality' };
 const ANY_SECTION = new Set(['policyNo', 'proposalNo', 'planName']);
@@ -377,7 +377,7 @@ function labelKey(label, section) {
   let sec = section;
   const role = roleOf(label);
   if (role) {
-    const num = +((label.match(/\b([12])(st|nd)?\b/) || [])[1] || (section && section.role === role ? section.n : 1));
+    const num = +((label.match(/\b([1-4])(st|nd|rd|th)?\b/) || [])[1] || (section && section.role === role ? section.n : 1));
     sec = { role, n: num };
   }
   let key = baseKey(label);
@@ -471,7 +471,7 @@ export function parseDetails(text) {
     }
     // Nominee / trustee blocks typed or pasted above or below the printout ("NOMINEE 1:" ...): read them as well.
     // Only the typed block is re-read (up to the printout when it sits above it), never the printout itself.
-    const heading = l => /^(nominee|trustee|penama)s?\s*\(?\s*[12]\s*\)?\s*[:\-]?\s*$/i.test(l);
+    const heading = l => /^(nominee|trustee|penama)s?\s*\(?\s*[1-4]\s*\)?\s*[:\-]?\s*$/i.test(l);
     const pdi = lines.findIndex(l => /policy detail information/i.test(l));
     const ni = lines.findIndex(heading);
     if (ni >= 0) {
@@ -535,8 +535,8 @@ export function parseDetails(text) {
     const role = roleOf(line);
     const isHeading = role && line.length < 70 && !/[:=]\s*\S/.test(line) && !NRIC_RE.test(line);
     if (isHeading) {
-      const explicit = (line.match(/\b([12])(st|nd)?\b/) || [])[1];
-      counts[role] = explicit ? +explicit : Math.min((counts[role] || 0) + 1, 2);
+      const explicit = (line.match(/\b([1-4])(st|nd|rd|th)?\b/) || [])[1];
+      counts[role] = explicit ? +explicit : Math.min((counts[role] || 0) + 1, role === 'nominee' ? 4 : 2);
       section = { role, n: counts[role] };
       if (role !== 'owner' && firstOther === lines.length) firstOther = i;
       return;

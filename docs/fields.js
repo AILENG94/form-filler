@@ -145,7 +145,7 @@ export const FIELDS = [
   { key: 'claimAmount', label: 'Claim Amount (RM)', group: 'claim', match: ['amount claimed', 'claim amount', 'total amount claimed'] },
 
   // Nominees and trustees (built below)
-  ...personFields('nominee', 'Nominee', [1, 2], true),
+  ...personFields('nominee', 'Nominee', [1, 2, 3, 4], true),
   ...personFields('trustee', 'Trustee', [1, 2], false),
   // Consent signers on "Trustee / Nominee / Parent" signature blocks: the trustee if appointed, else the nominee.
   ...[1, 2].flatMap(n => ['Name', 'Nric', 'Dob', 'Mobile', 'Relationship'].map(p => ({

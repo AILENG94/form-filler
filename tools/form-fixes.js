@@ -69,8 +69,8 @@ function nominationPeople() {
     person(2, 'nominee', 2, { name: [7, 8, 9], nric: 11, expiry: 12, share: 13, male: 15, dob: 17, nat: 19, addr: [22, 23, 24], postcode: 25, town: 26, country: 27 }, 613.4),
     person(4, 'trustee', 1, { name: [6, 7, 8], nric: 9, expiry: 10, dob: 11, male: 12, nat: 14, tel: 20, hp: 23, addr: [26, [27, 28], 29], postcode: 30, town: 31, country: 32 }),
     person(4, 'trustee', 2, { name: [33, 34, 35], nric: 36, expiry: 37, dob: 40, male: 38, nat: 41, tel: 47, hp: 50, addr: [53, 54, 55], postcode: 56, town: 57, country: 58 }),
-    block(2, 'Nominee 3', { name: [28, 29, 30], nric: 32, expiry: 33, share: 34, male: 36, dob: 38, nat: 40, addr: [43, 44, 45], postcode: 46, town: 47, country: 48 }, 372.6),
-    block(2, 'Nominee 4', { name: [49, 50, 51], nric: 53, expiry: 54, share: 55, male: 57, dob: 59, nat: 61, addr: [73, 74, 75], postcode: 76, town: 77, country: 78 }, 144.6),
+    person(2, 'nominee', 3, { name: [28, 29, 30], nric: 32, expiry: 33, share: 34, male: 36, dob: 38, nat: 40, addr: [43, 44, 45], postcode: 46, town: 47, country: 48 }, 372.6),
+    person(2, 'nominee', 4, { name: [49, 50, 51], nric: 53, expiry: 54, share: 55, male: 57, dob: 59, nat: 61, addr: [73, 74, 75], postcode: 76, town: 77, country: 78 }, 144.6),
     block(3, "Witness to Proposer's declaration", { name: [9, 10], nric: 11, expiry: 12, dob: 14, addr: [15, 16, 17], postcode: 18, town: 19, country: 20 }),
     block(5, 'Witness to consent', { name: [6, 7], nric: 8, expiry: 9, dob: 10, addr: [11, 12, 13], postcode: 14, town: 15, country: 16 }),
     // trustee extras: country of birth and the telephone type (Handphone is ticked automatically)
