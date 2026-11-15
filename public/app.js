@@ -10,7 +10,7 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = new URL('./lib/pdf.worker.mjs', import.
 const $ = s => document.querySelector(s);
 const state = {
   categories: [], cat: 0, form: null, pdf: null, bytes: null,
-  layout: [], customer: {}, used: new Set(),
+  layout: [], customer: {}, used: new Set(), ownAddress: {}, pendingSame: new Set(),
   scale: 1.4, preview: false, pages: [],
 };
 
@@ -222,13 +222,28 @@ function applyDetails(text, source) {
   const found = parseDetails(text);
   // With a form open, take only the details that form asks for.
   const all = Object.keys(found);
-  const keys = state.form ? all.filter(k => state.used.has(k)) : all;
+  const keys = (state.form ? all.filter(k => state.used.has(k)) : all).filter(k => !/SameAddress$/.test(k));
   for (const k of keys) { state.customer[k] = found[k]; tidy(k); }
   for (const k of keys) applyDerived(k);
+  // The customer's own address is remembered (even if this form has no address box) for "same with life assured" nominees.
+  for (const k of ['address1', 'address2', 'address3', 'postcode', 'town', 'state', 'country']) if (found[k]) state.ownAddress[k] = found[k];
+  // "Address: same with life assured" -> copy the customer's own address into that nominee / trustee. A nominee whose
+  // address is not known yet is remembered and filled as soon as the customer's address is read (either order works).
+  for (const k of all.filter(k => /SameAddress$/.test(k))) state.pendingSame.add(k.replace(/SameAddress$/, ''));
+  const own = { ...state.ownAddress };
+  for (const x of ['address1', 'address2', 'address3', 'postcode', 'town', 'country']) if (state.customer[x]) own[x] = state.customer[x];
+  let sameNote = '';
+  if (own.address1 || own.postcode) {
+    const copy = { Address: own.address1, Address2: own.address2, Address3: own.address3, Postcode: own.postcode, Town: own.town, Country: own.country || 'Malaysia' };
+    for (const p of state.pendingSame) for (const [part, v] of Object.entries(copy)) if (v && state.used.has(p + part)) state.customer[p + part] = v;
+    if (state.pendingSame.size) sameNote = ` Address filled for ${[...state.pendingSame].map(p => p.replace(/^./, c => c.toUpperCase()).replace(/(\d)$/, ' $1')).join(', ')} (same as life assured).`;
+    state.pendingSame.clear();
+  } else if (state.pendingSame.size) sameNote = ' The address is "same as life assured": also paste or upload the life assured address and it will be filled in.';
   writeFields(); redraw();
-  const skipped = all.length - keys.length;
-  const note = skipped ? ` ${skipped} other detail(s) not used on this form were ignored.` : '';
+  const skipped = all.filter(k => !/SameAddress$/.test(k)).length - keys.length;
+  const note = (skipped > 0 ? ` ${skipped} other detail(s) not used on this form were ignored.` : '') + sameNote;
   if (keys.length) toast(`Filled ${keys.length} field(s) from ${source}: ${keys.map(k => (FIELD_BY_KEY[k]?.label || k).replace(/\.$/, '')).join(', ')}.${note} Please check them.`);
+  else if (sameNote.includes('(same as life assured)')) toast(sameNote.trim());
   else if (skipped) toast(`None of the details found in ${source} are used on this form.${note}`, true);
   else toast(`No customer details recognised in ${source}. You can correct the text and click "Populate details".`, true);
 }

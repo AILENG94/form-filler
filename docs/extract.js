@@ -323,6 +323,7 @@ function validate(key, raw) {
     }
     return digits >= 8 ? kept.join(' ') : '';
   }
+  if (/Nationality$/.test(key) && /^(malaysia|malaysian|warganegara|wn)\b/i.test(v)) return 'Malaysian';
   if (/Name$|^town$|^state$|^country$|Nationality$/.test(key)) return /\d/.test(v) || !/[a-z]{2}/i.test(v) ? '' : v;
   if (/No$/.test(key)) { // the first number only ("1032466327 | Smart Health Protector …")
     const m = v.match(/[A-Za-z]{0,3}\d[\d-]{5,}\d/);
@@ -355,7 +356,7 @@ const ROLES = [
 const roleOf = s => (ROLES.find(([re]) => re.test(s)) || [])[1] || null;
 const ROLE_WORDS = /\b(nominee|penama|beneficiar(y|ies)|trustee|pemegang amanah|life (to be )?assured|insured person|policy ?owner|proposer|patient|customer|applicant|claimant|agent|witness)('?s)?\b|\b(of|for|the|details?|particulars|maklumat|butiran)\b|\(?\s*[12](st|nd)?\s*\)?|#/gi;
 const PERSON_PART = { ownerName: 'Name', ownerNric: 'Nric', ownerDob: 'Dob', ownerGender: 'Gender', relationship: 'Relationship',
-  mobile: 'Mobile', address1: 'Address', postcode: 'Postcode', town: 'Town', share: 'Share' };
+  mobile: 'Mobile', address1: 'Address', postcode: 'Postcode', town: 'Town', share: 'Share', ownerNationality: 'Nationality' };
 const ANY_SECTION = new Set(['policyNo', 'proposalNo', 'planName']);
 
 // Customer-detail key for a plain label ("Name", "NRIC No.", "P/N"), before taking the section into account.
@@ -596,5 +597,9 @@ export function parseDetails(text) {
     if (out.laGender && !out.ownerGender) out.ownerGender = out.laGender;
   }
   if (!out.ownerGender) { if (/\bLELAKI\b/.test(all)) out.ownerGender = 'Male'; else if (/\bPEREMPUAN\b/.test(all)) out.ownerGender = 'Female'; }
+  // "Address: same with life assured" for a nominee / trustee is not an address but a request to copy the customer's own
+  for (const k of Object.keys(out)) {
+    if (/^(nominee|trustee)\dAddress$/.test(k) && /^(address\s*)?\(?\s*(same\s+(as|with)|sama\s+dengan)\b/i.test(out[k])) { delete out[k]; out[k.replace(/Address$/, 'SameAddress')] = 'Yes'; }
+  }
   return out;
 }
