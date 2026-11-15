@@ -371,4 +371,21 @@ const saveAgent = () => { try { localStorage.setItem(AGENT_STORE, JSON.stringify
   try { saved = JSON.parse(localStorage.getItem(AGENT_STORE) || '{}'); } catch {}
   for (const k of agentKeys) { const v = saved[k] || defaults[k]; if (v) state.customer[k] = v; }
 }
+// Web version: your agent details are not part of the published app, so they are entered once here and remembered on this device only.
+if (STATIC) {
+  const box = document.createElement('details');
+  box.className = 'paste'; box.id = 'agentSetup'; box.open = !agentKeys.some(k => state.customer[k]);
+  box.innerHTML = '<summary>My agent details (enter once - saved on this device only)</summary><div class="fields" style="margin-top:8px"></div>';
+  const grid = box.querySelector('.fields');
+  for (const k of agentKeys) {
+    const row = document.createElement('div'); row.className = 'row';
+    row.innerHTML = `<label>${esc(FIELD_BY_KEY[k].label)}</label><input data-agent="${k}" value="${esc(state.customer[k] || '')}">`;
+    grid.append(row);
+  }
+  box.addEventListener('input', e => {
+    const k = e.target.dataset.agent; if (!k) return;
+    state.customer[k] = e.target.value; saveAgent(); writeFields(); redraw();
+  });
+  $('#drop').before(box);
+}
 loadForms().catch(e => toast('Could not reach the Form Filler server: ' + e.message, true));
