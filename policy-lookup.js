@@ -1,14 +1,29 @@
 // Looks a policy up in the "Individual Policy Summary" workbook (GE ePartner export), by policy number.
 // The file is read on this computer only and re-read whenever it changes.
 import fs from 'fs';
+import path from 'path';
 import ExcelJS from 'exceljs';
 import { splitAddress, splitNominees } from './public/address.js';
 
 // Where the policy workbook is: the POLICY_FILE environment variable, else the first line of policy-file.txt (local only, not published).
 const fileSetting = () => { try { return fs.readFileSync(new URL('./policy-file.txt', import.meta.url), 'utf8').split('\n')[0].trim(); } catch { return ''; } };
-export const POLICY_FILE = process.env.POLICY_FILE || fileSetting() || 'Individual Policy Summary.xlsx';
+const CONFIGURED = process.env.POLICY_FILE || fileSetting() || 'Individual Policy Summary.xlsx';
 
-let cache = null; // { mtime, byPolicy: Map, gender: Map }
+// The newest "Individual Policy Summary - ....xlsx" in the same folder is used, so a freshly exported file is picked up automatically.
+const NAME = /^Individual Policy Summary - .*\.xlsx$/i;
+function newestPolicyFile() {
+  try {
+    const dir = path.dirname(CONFIGURED);
+    const files = fs.readdirSync(dir)
+      .filter(f => NAME.test(f) && !/UPDATED/i.test(f))
+      .map(f => ({ file: path.join(dir, f), t: fs.statSync(path.join(dir, f)).mtimeMs }))
+      .sort((a, b) => b.t - a.t);
+    return files.length ? files[0].file : CONFIGURED;
+  } catch { return CONFIGURED; }
+}
+export let POLICY_FILE = newestPolicyFile();
+
+let cache = null; // { file, mtime, byPolicy: Map, gender: Map }
 
 const val = v => (v && typeof v === 'object' && 'result' in v ? v.result : v);
 const text = v => { v = val(v); return v == null ? '' : String(v).trim(); };
@@ -19,8 +34,9 @@ const fmtDate = v => {
 };
 
 async function load() {
+  POLICY_FILE = newestPolicyFile();
   const stat = fs.statSync(POLICY_FILE);
-  if (cache && cache.mtime === stat.mtimeMs) return cache;
+  if (cache && cache.file === POLICY_FILE && cache.mtime === stat.mtimeMs) return cache;
   const wb = new ExcelJS.Workbook();
   await wb.xlsx.load(fs.readFileSync(POLICY_FILE)); // a copy in memory, so Excel can keep the file open
   const sheetRows = (name, headerRow = 1) => {
@@ -45,7 +61,7 @@ async function load() {
     const g = text(r['Gender']);
     if (g) gender.set(`${text(r['Life Assured']).toUpperCase()}|${fmtDate(r['Date of Birth'])}`, g);
   }
-  cache = { mtime: stat.mtimeMs, byPolicy, gender };
+  cache = { file: POLICY_FILE, mtime: stat.mtimeMs, byPolicy, gender };
   return cache;
 }
 

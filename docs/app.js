@@ -383,6 +383,6 @@ const saveAgent = () => { try { localStorage.setItem(AGENT_STORE, JSON.stringify
   if (!STATIC) { try { defaults = (await import('./agent-defaults.js')).default || {}; } catch {} }
   try { saved = JSON.parse(localStorage.getItem(AGENT_STORE) || '{}'); } catch {}
   for (const k of agentKeys) { const v = saved[k] || defaults[k]; if (v) state.customer[k] = v; }
-  if (STATIC) { const l = document.querySelector('.lookup'); if (l) l.hidden = true; }
+  if (STATIC) { const l = document.querySelector('.lookup'); if (l) l.innerHTML = '<b>Retrieve from policy summary</b><div class="upload-status">Only on the computer version (it reads the policy Excel on that computer). Here, upload the policy enquiry picture / PDF instead.</div>'; }
 }
 loadForms().catch(e => toast('Could not reach the Form Filler server: ' + e.message, true));
