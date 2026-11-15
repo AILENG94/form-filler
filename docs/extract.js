@@ -469,10 +469,14 @@ export function parseDetails(text) {
       if (role === 'la2') { out.la2Name = name; out.la2Nric = id; continue; } // a second life assured (e.g. the policyholder on a child's policy)
       out[role + 'Name'] = name; out[role + 'Gender'] = gender; out[role + 'Nric'] = id; out[role + 'Dob'] = dob;
     }
-    // Nominee / trustee blocks typed or pasted below the printout ("NOMINEE 1:" ...): read them as well.
-    const ni = lines.findIndex(l => /^(nominee|trustee|penama)s?\s*\(?\s*[12]\s*\)?\s*[:\-]?\s*$/i.test(l));
+    // Nominee / trustee blocks typed or pasted above or below the printout ("NOMINEE 1:" ...): read them as well.
+    // Only the typed block is re-read (up to the printout when it sits above it), never the printout itself.
+    const heading = l => /^(nominee|trustee|penama)s?\s*\(?\s*[12]\s*\)?\s*[:\-]?\s*$/i.test(l);
+    const pdi = lines.findIndex(l => /policy detail information/i.test(l));
+    const ni = lines.findIndex(heading);
     if (ni >= 0) {
-      const sub = parseDetails(lines.slice(ni).join('\n'));
+      const block = ni < pdi ? lines.slice(ni, pdi) : lines.slice(ni);
+      const sub = parseDetails(block.join('\n'));
       for (const k of Object.keys(sub)) if (/^(nominee|trustee)\d/.test(k) && !(k in out)) out[k] = sub[k];
     }
     // Page 2, "PAYER DETAILS": the proposer's mobile, e-mail and address (the policy enquiry has no address elsewhere).
