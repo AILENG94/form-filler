@@ -1,0 +1,16 @@
+import fs from 'fs'; import path from 'path'; import { pathToFileURL } from 'url';
+import { createCanvas } from '@napi-rs/canvas';
+const kit = await import('./layout-kit.js');
+const [sub, pg, x0, y0, x1, y1, out] = process.argv.slice(2);
+const form = kit.allForms().find(f => f.file.includes(sub));
+const pdf = await kit.openPdf(form);
+const page = await pdf.getPage(+pg);
+const S = 2.2, vp = page.getViewport({ scale: S });
+const canvas = createCanvas(vp.width, vp.height);
+await page.render({ canvasContext: canvas.getContext('2d'), viewport: vp }).promise;
+const X = x => x * S, Y = y => (page.view[3] - y) * S;
+const c2 = createCanvas((+x1 - +x0) * S, (+y0 - +y1) * S);
+c2.getContext('2d').drawImage(canvas, X(+x0), Y(+y0), (+x1 - +x0) * S, (+y0 - +y1) * S, 0, 0, (+x1 - +x0) * S, (+y0 - +y1) * S);
+fs.mkdirSync(path.dirname(out), { recursive: true });
+fs.writeFileSync(out, c2.toBuffer('image/png'));
+process.exit(0);

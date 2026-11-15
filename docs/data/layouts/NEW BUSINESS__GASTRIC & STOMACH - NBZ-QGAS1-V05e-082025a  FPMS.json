@@ -1,0 +1,1502 @@
+{
+ "form": "NEW BUSINESS/GASTRIC & STOMACH - NBZ-QGAS1-V05e-082025a  FPMS.pdf",
+ "saved": "2026-11-01T19:24:54.624Z",
+ "fields": [
+  {
+   "key": "proposalNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 79,
+     "w": 14.5
+    },
+    {
+     "x": 93.5,
+     "w": 14.5
+    },
+    {
+     "x": 108,
+     "w": 14.5
+    },
+    {
+     "x": 122.5,
+     "w": 14.5
+    },
+    {
+     "x": 137,
+     "w": 14
+    },
+    {
+     "x": 151,
+     "w": 14.5
+    },
+    {
+     "x": 165.5,
+     "w": 14.5
+    },
+    {
+     "x": 180,
+     "w": 14.5
+    },
+    {
+     "x": 194.5,
+     "w": 14.5
+    },
+    {
+     "x": 209,
+     "w": 14
+    }
+   ],
+   "y": 755.7203999999999,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 335,
+     "w": 14.5
+    },
+    {
+     "x": 349.5,
+     "w": 14.5
+    },
+    {
+     "x": 364,
+     "w": 14
+    },
+    {
+     "x": 378,
+     "w": 14.5
+    },
+    {
+     "x": 392.5,
+     "w": 14.5
+    },
+    {
+     "x": 407,
+     "w": 14.5
+    },
+    {
+     "x": 436,
+     "w": 14
+    },
+    {
+     "x": 450,
+     "w": 14.5
+    },
+    {
+     "x": 479,
+     "w": 14.5
+    },
+    {
+     "x": 493.5,
+     "w": 14.5
+    },
+    {
+     "x": 508,
+     "w": 14
+    },
+    {
+     "x": 522,
+     "w": 14.5
+    }
+   ],
+   "y": 755.7203999999999,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 79,
+     "w": 14.5
+    },
+    {
+     "x": 93.5,
+     "w": 14.5
+    },
+    {
+     "x": 108,
+     "w": 14.5
+    },
+    {
+     "x": 122.5,
+     "w": 14.5
+    },
+    {
+     "x": 137,
+     "w": 14
+    },
+    {
+     "x": 151,
+     "w": 14.5
+    },
+    {
+     "x": 165.5,
+     "w": 14.5
+    },
+    {
+     "x": 180,
+     "w": 14.5
+    },
+    {
+     "x": 194.5,
+     "w": 14.5
+    },
+    {
+     "x": 209,
+     "w": 14
+    }
+   ],
+   "y": 734.1204,
+   "h": 15.599999999999909
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 137.98009679891865,
+   "y": 547.0004,
+   "w": 411.49990320108134,
+   "size": 9
+  },
+  {
+   "key": "proposalNo",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 100.5,
+     "w": 14.5
+    },
+    {
+     "x": 115,
+     "w": 14
+    },
+    {
+     "x": 129,
+     "w": 14.5
+    },
+    {
+     "x": 143.5,
+     "w": 14.5
+    },
+    {
+     "x": 158,
+     "w": 14.5
+    },
+    {
+     "x": 172.5,
+     "w": 14.5
+    },
+    {
+     "x": 187,
+     "w": 14
+    },
+    {
+     "x": 201,
+     "w": 14.5
+    },
+    {
+     "x": 215.5,
+     "w": 14.5
+    },
+    {
+     "x": 230,
+     "w": 14.5
+    }
+   ],
+   "y": 772.5204,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "policyNo",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 387,
+     "w": 14.5
+    },
+    {
+     "x": 401.5,
+     "w": 14.5
+    },
+    {
+     "x": 416,
+     "w": 14
+    },
+    {
+     "x": 430,
+     "w": 14.5
+    },
+    {
+     "x": 444.5,
+     "w": 14.5
+    },
+    {
+     "x": 459,
+     "w": 14.5
+    },
+    {
+     "x": 473.5,
+     "w": 14.5
+    },
+    {
+     "x": 488,
+     "w": 14
+    },
+    {
+     "x": 502,
+     "w": 14.5
+    },
+    {
+     "x": 516.5,
+     "w": 14.5
+    }
+   ],
+   "y": 772.5204,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "proposalNo",
+   "page": 3,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 99.5,
+     "w": 14.5
+    },
+    {
+     "x": 114,
+     "w": 14.5
+    },
+    {
+     "x": 128.5,
+     "w": 14
+    },
+    {
+     "x": 142.5,
+     "w": 14.5
+    },
+    {
+     "x": 157,
+     "w": 14.5
+    },
+    {
+     "x": 171.5,
+     "w": 14.5
+    },
+    {
+     "x": 186,
+     "w": 14.5
+    },
+    {
+     "x": 200.5,
+     "w": 14
+    },
+    {
+     "x": 214.5,
+     "w": 14.5
+    },
+    {
+     "x": 229,
+     "w": 14.5
+    }
+   ],
+   "y": 773.3604,
+   "h": 15.599999999999909
+  },
+  {
+   "key": "policyNo",
+   "page": 3,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 386,
+     "w": 14.5
+    },
+    {
+     "x": 400.5,
+     "w": 14.5
+    },
+    {
+     "x": 415,
+     "w": 14
+    },
+    {
+     "x": 429,
+     "w": 14.5
+    },
+    {
+     "x": 443.5,
+     "w": 14.5
+    },
+    {
+     "x": 458,
+     "w": 14.5
+    },
+    {
+     "x": 472.5,
+     "w": 14.5
+    },
+    {
+     "x": 487,
+     "w": 14
+    },
+    {
+     "x": 501,
+     "w": 14.5
+    },
+    {
+     "x": 515.5,
+     "w": 14.5
+    }
+   ],
+   "y": 773.3604,
+   "h": 15.599999999999909
+  },
+  {
+   "key": "signDate",
+   "page": 3,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 233.5,
+     "w": 14.5
+    },
+    {
+     "x": 248,
+     "w": 14
+    },
+    {
+     "x": 276.5,
+     "w": 14.5
+    },
+    {
+     "x": 291,
+     "w": 14.5
+    },
+    {
+     "x": 320,
+     "w": 14
+    },
+    {
+     "x": 334,
+     "w": 14.5
+    },
+    {
+     "x": 348.5,
+     "w": 14.5
+    },
+    {
+     "x": 363,
+     "w": 14.5
+    }
+   ],
+   "y": 671.0004,
+   "h": 14.279999999999973
+  },
+  {
+   "key": "agentName",
+   "page": 3,
+   "type": "text",
+   "x": 370.05990204146485,
+   "y": 513.7604,
+   "w": 136.22009795853512,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 3,
+   "type": "text",
+   "x": 382.89991706248736,
+   "y": 496.1204,
+   "w": 123.38008293751261,
+   "size": 9
+  },
+  {
+   "key": "agentAddress",
+   "page": 3,
+   "type": "text",
+   "x": 377.52,
+   "y": 477.8804,
+   "w": 126.75999999999999,
+   "size": 9
+  },
+  {
+   "key": "agentAddress2",
+   "page": 3,
+   "type": "text",
+   "x": 347.15999999999997,
+   "y": 464.9204,
+   "w": 157.12,
+   "size": 9
+  },
+  {
+   "key": "agentCityLine",
+   "page": 3,
+   "type": "text",
+   "x": 347.15999999999997,
+   "y": 452.2004,
+   "w": 157.12,
+   "size": 9
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Old NRIC/BC/Passport No",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 335,
+     "w": 14.5
+    },
+    {
+     "x": 349.5,
+     "w": 14.5
+    },
+    {
+     "x": 364,
+     "w": 14
+    },
+    {
+     "x": 378,
+     "w": 14.5
+    },
+    {
+     "x": 392.5,
+     "w": 14.5
+    },
+    {
+     "x": 407,
+     "w": 14.5
+    },
+    {
+     "x": 421.5,
+     "w": 14.5
+    },
+    {
+     "x": 436,
+     "w": 14
+    },
+    {
+     "x": 450,
+     "w": 14.5
+    },
+    {
+     "x": 464.5,
+     "w": 14.5
+    },
+    {
+     "x": 479,
+     "w": 14.5
+    },
+    {
+     "x": 493.5,
+     "w": 14.5
+    },
+    {
+     "x": 508,
+     "w": 14
+    },
+    {
+     "x": 522,
+     "w": 14.5
+    },
+    {
+     "x": 536.5,
+     "w": 14.5
+    },
+    {
+     "x": 551,
+     "w": 14.5
+    }
+   ],
+   "y": 734.1204,
+   "h": 15.599999999999909,
+   "key": "q_old_nric_bc_passport_no"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "2. When did you first experience symptoms?",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 56.5,
+     "w": 14
+    },
+    {
+     "x": 70.5,
+     "w": 14.5
+    },
+    {
+     "x": 99.5,
+     "w": 14.5
+    },
+    {
+     "x": 114,
+     "w": 14
+    },
+    {
+     "x": 142.5,
+     "w": 14.5
+    },
+    {
+     "x": 157,
+     "w": 14.5
+    },
+    {
+     "x": 171.5,
+     "w": 14.5
+    },
+    {
+     "x": 186,
+     "w": 14
+    }
+   ],
+   "y": 377.4804,
+   "h": 14.160000000000025,
+   "key": "q_2_when_did_you_first_experience_symptoms"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "3. When was the last attack?",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 56.5,
+     "w": 14
+    },
+    {
+     "x": 70.5,
+     "w": 14.5
+    },
+    {
+     "x": 99.5,
+     "w": 14.5
+    },
+    {
+     "x": 114,
+     "w": 14
+    },
+    {
+     "x": 142.5,
+     "w": 14.5
+    },
+    {
+     "x": 157,
+     "w": 14.5
+    },
+    {
+     "x": 171.5,
+     "w": 14.5
+    },
+    {
+     "x": 186,
+     "w": 14
+    }
+   ],
+   "y": 339.6804,
+   "h": 14.159999999999968,
+   "key": "q_3_when_was_the_last_attack"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "4. How many attacks (pain) have you had in a year?",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 57,
+     "w": 14.5
+    },
+    {
+     "x": 71.5,
+     "w": 14.5
+    },
+    {
+     "x": 86,
+     "w": 14
+    }
+   ],
+   "y": 301.8804,
+   "h": 14.159999999999968,
+   "key": "q_4_how_many_attacks_pain_have_you_55r1pd"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 184.21599999999998,
+   "y": 271.6164,
+   "size": 5.56800000000003,
+   "when": "Yes",
+   "item": {
+    "label": "Vomiting of blood (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_vomiting_of_blood_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 223.21599999999998,
+   "y": 271.6164,
+   "size": 5.56800000000003,
+   "when": "No",
+   "item": {
+    "label": "Vomiting of blood (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_vomiting_of_blood_column_3_row_1"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 57.215999999999994,
+   "y": 218.3364,
+   "size": 5.568000000000007,
+   "when": "Yes",
+   "item": {
+    "label": "Did you seek any medical advice for this condition? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_seek_any_medical_advice__6qipn5"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 96.216,
+   "y": 218.3364,
+   "size": 5.568000000000007,
+   "when": "No",
+   "item": {
+    "label": "Did you seek any medical advice for this condition? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_seek_any_medical_advice__1bviqtu"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 58.168000000000006,
+   "y": 456.6684,
+   "size": 5.663999999999987,
+   "when": "Yes",
+   "item": {
+    "label": "Has any further treatment or investigation been discussed or contemplated? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_has_any_further_treatment_or_inv_idskfn"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 97.418,
+   "y": 456.6684,
+   "size": 5.663999999999987,
+   "when": "No",
+   "item": {
+    "label": "Has any further treatment or investigation been discussed or contemplated? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_has_any_further_treatment_or_inv_1nislmc"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 58.21600000000001,
+   "y": 356.57640000000004,
+   "size": 5.567999999999984,
+   "when": "Yes",
+   "item": {
+    "label": "Are you currently receiving any kind of treatment or medication? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_are_you_currently_receiving_any__1bu060k"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 97.46600000000001,
+   "y": 356.57640000000004,
+   "size": 5.567999999999984,
+   "when": "No",
+   "item": {
+    "label": "Are you currently receiving any kind of treatment or medication? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_are_you_currently_receiving_any__hxw585"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 58.21599999999999,
+   "y": 261.5364,
+   "size": 5.56800000000003,
+   "when": "Yes",
+   "item": {
+    "label": "Did you undergo any operation or were you being advised to do so? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_undergo_any_operation_or_utjl8d"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 97.46599999999998,
+   "y": 261.5364,
+   "size": 5.56800000000003,
+   "when": "No",
+   "item": {
+    "label": "Did you undergo any operation or were you being advised to do so? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_undergo_any_operation_or_xfkfy"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 58.168000000000006,
+   "y": 166.2684,
+   "size": 5.663999999999987,
+   "when": "Yes",
+   "item": {
+    "label": "Is there any other underlying disease and/or new medical conditions been told Dr.? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_is_there_any_other_underlying_di_1vihwda"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 97.418,
+   "y": 166.2684,
+   "size": 5.663999999999987,
+   "when": "No",
+   "item": {
+    "label": "Is there any other underlying disease and/or new medical conditions been told Dr.? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_is_there_any_other_underlying_di_11mdvkv"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 48,
+   "y": 149.05,
+   "w": 202,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Doctor, hospital or clinic (row 1)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_docto_grs41z"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 256,
+   "y": 149.05,
+   "w": 79,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Date of consultation (row 1)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_date__lb3ytx"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 341,
+   "y": 149.05,
+   "w": 205,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Treatment prescribed (row 1)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_treat_abvys"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 48,
+   "y": 121.80000000000001,
+   "w": 202,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Doctor, hospital or clinic (row 2)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_docto_grs42u"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 256,
+   "y": 121.80000000000001,
+   "w": 79,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Date of consultation (row 2)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_date__lb3yus"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 341,
+   "y": 121.80000000000001,
+   "w": 205,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Treatment prescribed (row 2)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_treat_abvzn"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 48,
+   "y": 94.45,
+   "w": 202,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Doctor, hospital or clinic (row 3)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_docto_grs43p"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 256,
+   "y": 94.45,
+   "w": 79,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Date of consultation (row 3)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_date__lb3yvn"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 341,
+   "y": 94.45,
+   "w": 205,
+   "size": 8.5,
+   "item": {
+    "label": "6. Doctors / specialists seen – Treatment prescribed (row 3)",
+    "kind": "text"
+   },
+   "key": "q_6_doctors_specialists_seen_treat_abw0i"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 44,
+   "y": 561.8,
+   "w": 171,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Doctor, hospital or clinic (row 1)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_doctor_hos_97gp27"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 221,
+   "y": 561.8,
+   "w": 68,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Date of admission (row 1)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_date_of_ad_dihgz5"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 295,
+   "y": 561.8,
+   "w": 67,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Duration of admission (row 1)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_duration_o_1viyop7"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 368,
+   "y": 561.8,
+   "w": 175,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Treatment prescribed (row 1)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_treatment__bnwwz0"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 44,
+   "y": 532.7,
+   "w": 171,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Doctor, hospital or clinic (row 2)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_doctor_hos_97gp32"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 221,
+   "y": 532.7,
+   "w": 68,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Date of admission (row 2)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_date_of_ad_dihh00"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 295,
+   "y": 532.7,
+   "w": 67,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Duration of admission (row 2)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_duration_o_1viyoq2"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 368,
+   "y": 532.7,
+   "w": 175,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Treatment prescribed (row 2)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_treatment__bnwwzv"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 44,
+   "y": 503.35,
+   "w": 171,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Doctor, hospital or clinic (row 3)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_doctor_hos_97gp3x"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 221,
+   "y": 503.35,
+   "w": 68,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Date of admission (row 3)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_date_of_ad_dihh0v"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 295,
+   "y": 503.35,
+   "w": 67,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Duration of admission (row 3)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_duration_o_1viyoqx"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 368,
+   "y": 503.35,
+   "w": 175,
+   "size": 8.5,
+   "item": {
+    "label": "8. Hospital admissions – Treatment prescribed (row 3)",
+    "kind": "text"
+   },
+   "key": "q_8_hospital_admissions_treatment__bnwx0q"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 184.7,
+   "y": 252.7,
+   "size": 5.6000000000000005,
+   "when": "Yes",
+   "item": {
+    "label": "5(b). Passing out blood in stool",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_5_b_passing_out_blood_in_stool"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 223.7,
+   "y": 252.7,
+   "size": 5.6000000000000005,
+   "when": "No",
+   "item": {
+    "label": "5(b). Passing out blood in stool",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_5_b_passing_out_blood_in_stool"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 58.21599999999999,
+   "y": 724.1364,
+   "size": 5.56800000000003,
+   "when": "Yes",
+   "item": {
+    "label": "7. Have you ever had any tests or investigations done?",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_7_have_you_ever_had_any_tests_or_175n9zl"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 97.46599999999998,
+   "y": 724.1364,
+   "size": 5.56800000000003,
+   "when": "No",
+   "item": {
+    "label": "7. Have you ever had any tests or investigations done?",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_7_have_you_ever_had_any_tests_or_175n9zl"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 58.167999999999985,
+   "y": 629.2284,
+   "size": 5.6640000000000335,
+   "when": "Yes",
+   "item": {
+    "label": "8. Have you ever been hospitalised or admitted to hospital for this condition?",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_8_have_you_ever_been_hospitalise_15dvibx"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 97.41799999999998,
+   "y": 629.2284,
+   "size": 5.6640000000000335,
+   "when": "No",
+   "item": {
+    "label": "8. Have you ever been hospitalised or admitted to hospital for this condition?",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_8_have_you_ever_been_hospitalise_15dvibx"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 44.879999999999995,
+   "y": 449.6804,
+   "w": 500.08000000000004,
+   "size": 9,
+   "item": {
+    "label": "1. Nature of the condition (line 1)",
+    "kind": "text"
+   },
+   "key": "q_1_nature_of_the_condition_line_1"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 44.879999999999995,
+   "y": 435.7604,
+   "w": 500.08000000000004,
+   "size": 9,
+   "item": {
+    "label": "1. Nature of the condition (line 2)",
+    "kind": "text"
+   },
+   "key": "q_1_nature_of_the_condition_line_2"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 44.879999999999995,
+   "y": 421.6004,
+   "w": 500.08000000000004,
+   "size": 9,
+   "item": {
+    "label": "1. Nature of the condition (line 3)",
+    "kind": "text"
+   },
+   "key": "q_1_nature_of_the_condition_line_3"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 693.4004,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "7. Details of the tests done and the results (line 1)",
+    "kind": "text"
+   },
+   "key": "q_7_details_of_the_tests_done_and__twi8ng"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 679.4804,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "7. Details of the tests done and the results (line 2)",
+    "kind": "text"
+   },
+   "key": "q_7_details_of_the_tests_done_and__twi8ob"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 665.2004,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "7. Details of the tests done and the results (line 3)",
+    "kind": "text"
+   },
+   "key": "q_7_details_of_the_tests_done_and__twi8p6"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 422.3204,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "9. Further treatment or investigation – details (line 1)",
+    "kind": "text"
+   },
+   "key": "q_9_further_treatment_or_investiga_ypjo5v"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 408.4004,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "9. Further treatment or investigation – details (line 2)",
+    "kind": "text"
+   },
+   "key": "q_9_further_treatment_or_investiga_ypjo6q"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 394.2404,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "9. Further treatment or investigation – details (line 3)",
+    "kind": "text"
+   },
+   "key": "q_9_further_treatment_or_investiga_ypjo7l"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 327.2804,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "10. Current treatment or medication – details (line 1)",
+    "kind": "text"
+   },
+   "key": "q_10_current_treatment_or_medicati_kyuibf"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 313.36039999999997,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "10. Current treatment or medication – details (line 2)",
+    "kind": "text"
+   },
+   "key": "q_10_current_treatment_or_medicati_kyuica"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 299.0804,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "10. Current treatment or medication – details (line 3)",
+    "kind": "text"
+   },
+   "key": "q_10_current_treatment_or_medicati_kyuid5"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 232.2404,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "11. Operation – nature of surgery (line 1)",
+    "kind": "text"
+   },
+   "key": "q_11_operation_nature_of_surgery_line_1"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 218.3204,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "11. Operation – nature of surgery (line 2)",
+    "kind": "text"
+   },
+   "key": "q_11_operation_nature_of_surgery_line_2"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 204.0404,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "11. Operation – nature of surgery (line 3)",
+    "kind": "text"
+   },
+   "key": "q_11_operation_nature_of_surgery_line_3"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 136.6004,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "12. Other underlying disease – diagnosis, treatment etc. (line 1)",
+    "kind": "text"
+   },
+   "key": "q_12_other_underlying_disease_diag_rk7kqu"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 122.68039999999999,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "12. Other underlying disease – diagnosis, treatment etc. (line 2)",
+    "kind": "text"
+   },
+   "key": "q_12_other_underlying_disease_diag_rk7krp"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 45.96,
+   "y": 108.52015999999999,
+   "w": 500.08,
+   "size": 9,
+   "item": {
+    "label": "12. Other underlying disease – diagnosis, treatment etc. (line 3)",
+    "kind": "text"
+   },
+   "key": "q_12_other_underlying_disease_diag_rk7ksk"
+  }
+ ]
+}

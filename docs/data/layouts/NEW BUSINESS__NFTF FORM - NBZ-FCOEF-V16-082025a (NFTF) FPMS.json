@@ -1,0 +1,443 @@
+{
+ "form": "NEW BUSINESS/NFTF FORM - NBZ-FCOEF-V16-082025a (NFTF) FPMS.pdf",
+ "saved": "2026-11-01T19:24:54.810Z",
+ "fields": [
+  {
+   "key": "proposalNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 109.5,
+     "w": 14.5
+    },
+    {
+     "x": 124,
+     "w": 14.5
+    },
+    {
+     "x": 138.5,
+     "w": 14.5
+    },
+    {
+     "x": 153,
+     "w": 14.5
+    },
+    {
+     "x": 167.5,
+     "w": 14
+    },
+    {
+     "x": 181.5,
+     "w": 14.5
+    },
+    {
+     "x": 196,
+     "w": 14.5
+    },
+    {
+     "x": 210.5,
+     "w": 14.5
+    },
+    {
+     "x": 225,
+     "w": 14.5
+    },
+    {
+     "x": 239.5,
+     "w": 14
+    }
+   ],
+   "y": 722.4804,
+   "h": 15.719999999999914
+  },
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 413,
+     "w": 14.5
+    },
+    {
+     "x": 427.5,
+     "w": 14.5
+    },
+    {
+     "x": 442,
+     "w": 14.5
+    },
+    {
+     "x": 456.5,
+     "w": 14.5
+    },
+    {
+     "x": 471,
+     "w": 14
+    },
+    {
+     "x": 485,
+     "w": 14.5
+    },
+    {
+     "x": 499.5,
+     "w": 14.5
+    },
+    {
+     "x": 514,
+     "w": 14.5
+    },
+    {
+     "x": 528.5,
+     "w": 14.5
+    },
+    {
+     "x": 543,
+     "w": 14
+    }
+   ],
+   "y": 722.4804,
+   "h": 15.719999999999914
+  },
+  {
+   "key": "proposalNo",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 104.5,
+     "w": 14.5
+    },
+    {
+     "x": 119,
+     "w": 14
+    },
+    {
+     "x": 133,
+     "w": 14.5
+    },
+    {
+     "x": 147.5,
+     "w": 14.5
+    },
+    {
+     "x": 162,
+     "w": 14.5
+    },
+    {
+     "x": 176.5,
+     "w": 14.5
+    },
+    {
+     "x": 191,
+     "w": 14
+    },
+    {
+     "x": 205,
+     "w": 14.5
+    },
+    {
+     "x": 219.5,
+     "w": 14.5
+    },
+    {
+     "x": 234,
+     "w": 14.5
+    }
+   ],
+   "y": 775.0404,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "policyNo",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 408,
+     "w": 14.5
+    },
+    {
+     "x": 422.5,
+     "w": 14
+    },
+    {
+     "x": 436.5,
+     "w": 14.5
+    },
+    {
+     "x": 451,
+     "w": 14.5
+    },
+    {
+     "x": 465.5,
+     "w": 14.5
+    },
+    {
+     "x": 480,
+     "w": 14
+    },
+    {
+     "x": 494,
+     "w": 14.5
+    },
+    {
+     "x": 508.5,
+     "w": 14.5
+    },
+    {
+     "x": 523,
+     "w": 14.5
+    },
+    {
+     "x": 537.5,
+     "w": 14
+    }
+   ],
+   "y": 775.0404,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "agentName",
+   "page": 2,
+   "type": "text",
+   "x": 350.84,
+   "y": 241.4804,
+   "w": 199.35999999999996,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 217.5,
+     "w": 14.5
+    },
+    {
+     "x": 232,
+     "w": 14
+    },
+    {
+     "x": 260.5,
+     "w": 14.5
+    },
+    {
+     "x": 275,
+     "w": 14.5
+    },
+    {
+     "x": 304,
+     "w": 14
+    },
+    {
+     "x": 318,
+     "w": 14.5
+    },
+    {
+     "x": 332.5,
+     "w": 14.5
+    },
+    {
+     "x": 347,
+     "w": 14.5
+    }
+   ],
+   "y": 63.560159999999996,
+   "h": 16.560000000000002
+  },
+  {
+   "key": "laName",
+   "page": 2,
+   "type": "text",
+   "x": 372,
+   "y": 346.8404,
+   "w": 173.07999999999993,
+   "size": 9
+  },
+  {
+   "key": "laNric",
+   "page": 2,
+   "type": "text",
+   "x": 470,
+   "y": 326.3204,
+   "w": 75.07999999999993,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 2,
+   "type": "text",
+   "x": 85,
+   "y": 346.4804,
+   "w": 183.83999999999997,
+   "size": 9,
+   "ifDiff": "laName"
+  },
+  {
+   "key": "ownerNric",
+   "page": 2,
+   "type": "text",
+   "x": 175,
+   "y": 325.7204,
+   "w": 93.83999999999997,
+   "size": 9,
+   "ifDiff": "laNric"
+  },
+  {
+   "key": "agentCode",
+   "page": 2,
+   "type": "text",
+   "x": 385,
+   "y": 220.4804,
+   "w": 164.03999999999996,
+   "size": 9
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 78.25,
+   "y": 496.5204,
+   "size": 9,
+   "when": "Yes",
+   "item": {
+    "label": "I/We wish to disclose all information requested for in this Form",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_we_wish_to_disclose_all_inform_14beeud"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 78.25,
+   "y": 474.86039999999997,
+   "size": 9,
+   "when": "Yes",
+   "item": {
+    "label": "I/We wish to disclose partial information requested for in this Form",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_we_wish_to_disclose_partial_in_1qdgxj9"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 78.25,
+   "y": 452.9604,
+   "size": 9,
+   "when": "Yes",
+   "item": {
+    "label": "I/We wish to receive product information only and do not wish to disclose any information requested for in this Form",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_we_wish_to_receive_product_inf_1phf3pj"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Name (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 63.36,
+   "y": 238.8404,
+   "w": 205.47999999999996,
+   "size": 9,
+   "key": "q_name_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Name (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 351.36,
+   "y": 132.28040000000001,
+   "w": 197.67999999999995,
+   "size": 9,
+   "key": "q_name_column_2_row_1"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 63.36,
+   "y": 238.8404,
+   "w": 205.47999999999996,
+   "size": 9,
+   "item": {
+    "label": "Spouse of Proposer – Name",
+    "kind": "text"
+   },
+   "key": "q_spouse_of_proposer_name"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 136.92,
+   "y": 218.0804,
+   "w": 135.64000000000001,
+   "size": 9,
+   "item": {
+    "label": "Spouse of Proposer – New NRIC / Passport No.",
+    "kind": "text"
+   },
+   "key": "q_spouse_of_proposer_new_nric_passport_no"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 351.36,
+   "y": 132.28040000000001,
+   "w": 197.67999999999995,
+   "size": 9,
+   "item": {
+    "label": "Agency Leader – Name",
+    "kind": "text"
+   },
+   "key": "q_agency_leader_name"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 354.36,
+   "y": 111.52015999999999,
+   "w": 194.67999999999995,
+   "size": 9,
+   "item": {
+    "label": "Agency Leader – IAC No.",
+    "kind": "text"
+   },
+   "key": "q_agency_leader_iac_no"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 346.2,
+   "y": 92.20016,
+   "w": 202.83999999999997,
+   "size": 9,
+   "item": {
+    "label": "Agency Leader – Rank",
+    "kind": "text"
+   },
+   "key": "q_agency_leader_rank"
+  }
+ ]
+}

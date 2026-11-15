@@ -1,0 +1,1376 @@
+{
+ "form": "CLAIM/DEATH CLAIM DOCTOR STATEMENT - CLM-DCSCF-V03-082025a.pdf",
+ "saved": "2026-11-01T19:24:50.549Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 66.5,
+     "w": 14.5
+    },
+    {
+     "x": 81,
+     "w": 14.5
+    },
+    {
+     "x": 95.5,
+     "w": 14.5
+    },
+    {
+     "x": 110,
+     "w": 14.5
+    },
+    {
+     "x": 124.5,
+     "w": 14.5
+    },
+    {
+     "x": 139,
+     "w": 14.5
+    },
+    {
+     "x": 153.5,
+     "w": 14.5
+    },
+    {
+     "x": 168,
+     "w": 14.5
+    },
+    {
+     "x": 182.5,
+     "w": 14.5
+    },
+    {
+     "x": 197,
+     "w": 14.5
+    }
+   ],
+   "y": 754.5204,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 327,
+     "w": 14.5
+    },
+    {
+     "x": 341.5,
+     "w": 14.5
+    },
+    {
+     "x": 356,
+     "w": 15
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14.5
+    },
+    {
+     "x": 400,
+     "w": 14
+    },
+    {
+     "x": 429,
+     "w": 14.5
+    },
+    {
+     "x": 443.5,
+     "w": 14.5
+    },
+    {
+     "x": 472.5,
+     "w": 14.5
+    },
+    {
+     "x": 487,
+     "w": 14.5
+    },
+    {
+     "x": 501.5,
+     "w": 14.5
+    },
+    {
+     "x": 516,
+     "w": 14.5
+    }
+   ],
+   "y": 754.5204,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 289.6400146681052,
+   "y": 715.159713936,
+   "w": 274.7199853318948,
+   "size": 9
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "DEATH CLAIM",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 553.5,
+     "w": 20
+    }
+   ],
+   "y": 800.3604,
+   "h": 19.91999999999996,
+   "key": "q_death_claim"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Old NRIC/Birth Certificate",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 327,
+     "w": 14.5
+    },
+    {
+     "x": 341.5,
+     "w": 14.5
+    },
+    {
+     "x": 356,
+     "w": 15
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14.5
+    },
+    {
+     "x": 400,
+     "w": 14.5
+    },
+    {
+     "x": 414.5,
+     "w": 14.5
+    },
+    {
+     "x": 429,
+     "w": 14.5
+    },
+    {
+     "x": 443.5,
+     "w": 14.5
+    },
+    {
+     "x": 458,
+     "w": 14.5
+    },
+    {
+     "x": 472.5,
+     "w": 14.5
+    },
+    {
+     "x": 487,
+     "w": 14.5
+    },
+    {
+     "x": 501.5,
+     "w": 14.5
+    },
+    {
+     "x": 516,
+     "w": 15
+    },
+    {
+     "x": 531,
+     "w": 14.5
+    },
+    {
+     "x": 545.5,
+     "w": 14
+    }
+   ],
+   "y": 734.8403999999999,
+   "h": 15.600000000000023,
+   "key": "q_old_nric_birth_certificate"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Date of Death",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 249.5,
+     "w": 14.5
+    },
+    {
+     "x": 264,
+     "w": 14.5
+    },
+    {
+     "x": 293,
+     "w": 14
+    },
+    {
+     "x": 307,
+     "w": 14.5
+    },
+    {
+     "x": 336,
+     "w": 14.5
+    },
+    {
+     "x": 350.5,
+     "w": 14.5
+    },
+    {
+     "x": 365,
+     "w": 14
+    },
+    {
+     "x": 379,
+     "w": 14.5
+    }
+   ],
+   "y": 614.3604,
+   "h": 15.360000000000014,
+   "key": "q_date_of_death"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Height",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 252.6,
+   "y": 597.0404,
+   "w": 49.72,
+   "size": 9,
+   "key": "q_height"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 250.342,
+   "y": 579.5724,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Are you the Deceased's regular (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_are_you_the_deceased_s_regular_c_af64ih"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 329.092,
+   "y": 579.5724,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Are you the Deceased's regular (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_are_you_the_deceased_s_regular_c_1fk65p6"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "If \"YES\", since what date?",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 249.5,
+     "w": 14.5
+    },
+    {
+     "x": 264,
+     "w": 14.5
+    },
+    {
+     "x": 293,
+     "w": 14
+    },
+    {
+     "x": 307,
+     "w": 14.5
+    },
+    {
+     "x": 336,
+     "w": 14.5
+    },
+    {
+     "x": 350.5,
+     "w": 14.5
+    },
+    {
+     "x": 365,
+     "w": 14
+    },
+    {
+     "x": 379,
+     "w": 14.5
+    }
+   ],
+   "y": 555.6804,
+   "h": 15.360000000000014,
+   "key": "q_if_yes_since_what_date"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 50.841999999999985,
+   "y": 510.93240000000003,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "any other significant illnesses? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_any_other_significant_illnesses__uaico3"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 129.84199999999998,
+   "y": 510.93240000000003,
+   "size": 6.816000000000031,
+   "when": "No",
+   "item": {
+    "label": "any other significant illnesses? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_any_other_significant_illnesses__eebvo"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 255.84199999999998,
+   "y": 411.4524,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "Did you attend to the Deceased's last illness? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_attend_to_the_deceased_s_1o61bu"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 334.842,
+   "y": 411.4524,
+   "size": 6.816000000000031,
+   "when": "No",
+   "item": {
+    "label": "Did you attend to the Deceased's last illness? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_did_you_attend_to_the_deceased_s_16t62ij"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 255.84199999999998,
+   "y": 290.13239999999996,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "Was the Deceased hospitalised? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_the_deceased_hospitalised_co_15vit3r"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 334.842,
+   "y": 290.13239999999996,
+   "size": 6.816000000000031,
+   "when": "No",
+   "item": {
+    "label": "Was the Deceased hospitalised? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_the_deceased_hospitalised_co_bzesbc"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Date of Last admission",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 262.5,
+     "w": 14
+    },
+    {
+     "x": 276.5,
+     "w": 14.5
+    },
+    {
+     "x": 305.5,
+     "w": 14.5
+    },
+    {
+     "x": 320,
+     "w": 14
+    },
+    {
+     "x": 348.5,
+     "w": 14.5
+    },
+    {
+     "x": 363,
+     "w": 14.5
+    },
+    {
+     "x": 377.5,
+     "w": 14.5
+    },
+    {
+     "x": 392,
+     "w": 14
+    }
+   ],
+   "y": 223.0404,
+   "h": 15.359999999999985,
+   "key": "q_date_of_last_admission"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 255.84199999999998,
+   "y": 158.4924,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "Was other doctor referring the Deceased to you? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_other_doctor_referring_the_d_sjxhtf"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 334.842,
+   "y": 158.4924,
+   "size": 6.816000000000009,
+   "when": "No",
+   "item": {
+    "label": "Was other doctor referring the Deceased to you? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_other_doctor_referring_the_d_1xoxj04"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "If \"YES\", please state the name(s) and address(es)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 270.36,
+   "y": 134.3204,
+   "w": 289.12,
+   "size": 9,
+   "key": "q_if_yes_please_state_the_name_s_a_1eb767f"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "If \"YES\", please state the name(s) and address(es) (line 2)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 270.36,
+   "y": 119.20016,
+   "w": 289.12,
+   "size": 9,
+   "key": "q_if_yes_please_state_the_name_s_a_vv7u34"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Cause of Death",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 357.24,
+   "y": 770.8004,
+   "w": 161.67999999999995,
+   "size": 9,
+   "key": "q_cause_of_death"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 72.34200000000001,
+   "y": 659.2524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Was the Deceased (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No",
+     "Information unavailable"
+    ]
+   },
+   "key": "q_was_the_deceased_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 150.842,
+   "y": 659.2524,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Was the Deceased (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No",
+     "Information unavailable"
+    ]
+   },
+   "key": "q_was_the_deceased_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 208.342,
+   "y": 659.2524,
+   "size": 6.815999999999986,
+   "when": "Information unavailable",
+   "item": {
+    "label": "Was the Deceased (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No",
+     "Information unavailable"
+    ]
+   },
+   "key": "q_was_the_deceased_column_3_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 72.34200000000001,
+   "y": 589.6524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "occupation? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_occupation_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 150.842,
+   "y": 589.6524,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "occupation? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_occupation_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 72.34200000000001,
+   "y": 533.2524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Was there any predisposing cause(s) of the Deceased's death in relation to his/her previous illness? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_there_any_predisposing_cause_roz72c"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 150.842,
+   "y": 533.2524,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Was there any predisposing cause(s) of the Deceased's death in relation to his/her previous illness? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_there_any_predisposing_cause_1wtz891"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Post-mortem or Autopsy report",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 280.68,
+   "y": 437.2004,
+   "w": 83.32,
+   "size": 9,
+   "key": "q_post_mortem_or_autopsy_report"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 44.5,
+   "y": 433.4004,
+   "size": 9,
+   "when": "Post-mortem or Autopsy report",
+   "item": {
+    "label": "Please attach certified true copies of ALL the relevant laboratory evidences (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Post-mortem or Autopsy report",
+     "Alcohol"
+    ]
+   },
+   "key": "q_please_attach_certified_true_cop_1katkdx"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 264,
+   "y": 433.4004,
+   "size": 9,
+   "when": "Alcohol",
+   "item": {
+    "label": "Please attach certified true copies of ALL the relevant laboratory evidences (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Post-mortem or Autopsy report",
+     "Alcohol"
+    ]
+   },
+   "key": "q_please_attach_certified_true_cop_qepjli"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Date and Time of Accident",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12
+    },
+    {
+     "x": 299,
+     "w": 12.5
+    },
+    {
+     "x": 311.5,
+     "w": 12.5
+    },
+    {
+     "x": 336.5,
+     "w": 12.5
+    },
+    {
+     "x": 349,
+     "w": 12.5
+    },
+    {
+     "x": 361.5,
+     "w": 12.5
+    },
+    {
+     "x": 374,
+     "w": 12.5
+    }
+   ],
+   "y": 408.4404,
+   "h": 14.039999999999964,
+   "key": "q_date_and_time_of_accident"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 263.574,
+   "y": 394.3644,
+   "size": 8.351999999999999,
+   "when": "Yes",
+   "item": {
+    "label": "Road Traffic Accident (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_road_traffic_accident_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 384.324,
+   "y": 394.3644,
+   "size": 8.351999999999999,
+   "when": "Yes",
+   "item": {
+    "label": "Fall from Height",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_fall_from_height"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 263.574,
+   "y": 381.0444,
+   "size": 8.351999999999999,
+   "when": "Drowning",
+   "item": {
+    "label": "Road Traffic Accident (column 1, row 2)",
+    "kind": "choice",
+    "options": [
+     "Drowning",
+     "Industrial"
+    ]
+   },
+   "key": "q_road_traffic_accident_column_1_row_2"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 384.324,
+   "y": 381.0444,
+   "size": 8.351999999999999,
+   "when": "Industrial",
+   "item": {
+    "label": "Road Traffic Accident (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Drowning",
+     "Industrial"
+    ]
+   },
+   "key": "q_road_traffic_accident_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Fire (column 3, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 401.64,
+   "y": 370.1204,
+   "w": 80.80000000000001,
+   "size": 9,
+   "key": "q_fire_column_3_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 263.622,
+   "y": 367.7124,
+   "size": 8.255999999999995,
+   "when": "Fire",
+   "item": {
+    "label": "Drowning (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Fire",
+     "Air"
+    ]
+   },
+   "key": "q_drowning_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 384.372,
+   "y": 367.7124,
+   "size": 8.255999999999995,
+   "when": "Air",
+   "item": {
+    "label": "Drowning (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Fire",
+     "Air"
+    ]
+   },
+   "key": "q_drowning_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 263.574,
+   "y": 354.40439999999995,
+   "size": 8.351999999999999,
+   "when": "Explosion",
+   "item": {
+    "label": "Fire (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Explosion",
+     "Sports Related"
+    ]
+   },
+   "key": "q_fire_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 384.324,
+   "y": 354.40439999999995,
+   "size": 8.351999999999999,
+   "when": "Sports Related",
+   "item": {
+    "label": "Fire (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Explosion",
+     "Sports Related"
+    ]
+   },
+   "key": "q_fire_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 263.622,
+   "y": 341.31239999999997,
+   "size": 8.255999999999995,
+   "when": "Yes",
+   "item": {
+    "label": "Other: Please describe (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_other_please_describe_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Other: Please describe (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 279.59999999999997,
+   "y": 329.0804,
+   "w": 277.35999999999996,
+   "size": 9,
+   "key": "q_other_please_describe_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 262.842,
+   "y": 262.2924,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Was the Deceased suspected to be under the (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_the_deceased_suspected_to_be_1nphhvm"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 341.342,
+   "y": 262.2924,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Was the Deceased suspected to be under the (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_the_deceased_suspected_to_be_ttdh37"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 262.842,
+   "y": 233.85240000000002,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "If \"YES\", was there any sample of urine or blood sent for further test? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_if_yes_was_there_any_sample_of_u_1qxdsc1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 341.342,
+   "y": 233.85240000000002,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "If \"YES\", was there any sample of urine or blood sent for further test? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_if_yes_was_there_any_sample_of_u_x19rjm"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 60.842,
+   "y": 200.3724,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "In your opinion (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_in_your_opinion_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 139.34199999999998,
+   "y": 200.3724,
+   "size": 6.816000000000009,
+   "when": "No",
+   "item": {
+    "label": "In your opinion (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_in_your_opinion_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Name",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 299.76,
+   "y": 131.6804,
+   "w": 258.28,
+   "size": 9,
+   "key": "q_name"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Date",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 288,
+     "w": 13.5
+    },
+    {
+     "x": 301.5,
+     "w": 13
+    },
+    {
+     "x": 328,
+     "w": 13.5
+    },
+    {
+     "x": 341.5,
+     "w": 13.5
+    },
+    {
+     "x": 368.5,
+     "w": 13
+    },
+    {
+     "x": 381.5,
+     "w": 13.5
+    },
+    {
+     "x": 395,
+     "w": 13.5
+    },
+    {
+     "x": 408.5,
+     "w": 13.5
+    }
+   ],
+   "y": 50.96016,
+   "h": 15.36,
+   "key": "q_date_4"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 69.36,
+   "y": 737.0803999999999,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "DOCTOR'S STATEMENT",
+    "kind": "text"
+   },
+   "key": "q_doctor_s_statement"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 69.36,
+   "y": 717.0404,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "DOCTOR'S STATEMENT",
+    "kind": "text"
+   },
+   "key": "q_doctor_s_statement_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 69.36,
+   "y": 698.2004,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "DOCTOR'S STATEMENT",
+    "kind": "text"
+   },
+   "key": "q_doctor_s_statement_3"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 333.59999999999997,
+   "y": 597.0404,
+   "w": 49.24000000000001,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Height",
+    "kind": "text"
+   },
+   "key": "q_height_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 386.6804,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "What were the symptoms presented?",
+    "kind": "text"
+   },
+   "key": "q_what_were_the_symptoms_presented"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 371.5604,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Yes",
+    "kind": "text"
+   },
+   "key": "q_yes"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 351.59999999999997,
+   "y": 351.4004,
+   "w": 52.48000000000002,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Date of symptoms started",
+    "kind": "text"
+   },
+   "key": "q_date_of_symptoms_started"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 336.0404,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "What was the diagnosis?",
+    "kind": "text"
+   },
+   "key": "q_what_was_the_diagnosis"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 320.9204,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Yes",
+    "kind": "text"
+   },
+   "key": "q_yes_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 306.1604,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Yes",
+    "kind": "text"
+   },
+   "key": "q_yes_3"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 264.4004,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Name of hospital admitted",
+    "kind": "text"
+   },
+   "key": "q_name_of_hospital_admitted"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 351.59999999999997,
+   "y": 242.4404,
+   "w": 52.48000000000002,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Date of First admission",
+    "kind": "text"
+   },
+   "key": "q_date_of_first_admission"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 204.4004,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Name(s) of attending doctor(s)",
+    "kind": "text"
+   },
+   "key": "q_name_s_of_attending_doctor_s"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 189.28040000000001,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Yes",
+    "kind": "text"
+   },
+   "key": "q_yes_4"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 270.36,
+   "y": 174.6404,
+   "w": 289.12,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Yes",
+    "kind": "text"
+   },
+   "key": "q_yes_5"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 210.35999999999999,
+   "y": 463.1204,
+   "w": 86.56000000000003,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Any other information that you feel may be relevant?",
+    "kind": "text"
+   },
+   "key": "q_any_other_information_that_you_f_1ossmmw"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 448,
+     "w": 13.5
+    },
+    {
+     "x": 461.5,
+     "w": 13.5
+    },
+    {
+     "x": 490.5,
+     "w": 14
+    },
+    {
+     "x": 504.5,
+     "w": 13.5
+    }
+   ],
+   "y": 408.4404,
+   "h": 14.039999999999964,
+   "leftover": true,
+   "item": {
+    "label": "Date and Time of Accident",
+    "kind": "text"
+   },
+   "key": "q_date_and_time_of_accident_2"
+  }
+ ]
+}

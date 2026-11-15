@@ -1,0 +1,841 @@
+{
+ "form": "CLAIM/DOCTOR STATEMENT - HSD-HSAPS-V02-082025a.pdf",
+ "saved": "2026-11-01T19:24:50.634Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 63,
+     "w": 15
+    },
+    {
+     "x": 78,
+     "w": 14.5
+    },
+    {
+     "x": 92.5,
+     "w": 14.5
+    },
+    {
+     "x": 107,
+     "w": 15
+    },
+    {
+     "x": 122,
+     "w": 14.5
+    },
+    {
+     "x": 136.5,
+     "w": 15
+    },
+    {
+     "x": 151.5,
+     "w": 14.5
+    },
+    {
+     "x": 166,
+     "w": 14.5
+    },
+    {
+     "x": 180.5,
+     "w": 15
+    },
+    {
+     "x": 195.5,
+     "w": 14.5
+    }
+   ],
+   "y": 745.0404,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 356,
+     "w": 14.5
+    },
+    {
+     "x": 370.5,
+     "w": 15
+    },
+    {
+     "x": 385.5,
+     "w": 14.5
+    },
+    {
+     "x": 400,
+     "w": 14.5
+    },
+    {
+     "x": 414.5,
+     "w": 15
+    },
+    {
+     "x": 429.5,
+     "w": 14.5
+    },
+    {
+     "x": 459,
+     "w": 14.5
+    },
+    {
+     "x": 473.5,
+     "w": 14.5
+    },
+    {
+     "x": 503,
+     "w": 14.5
+    },
+    {
+     "x": 517.5,
+     "w": 14.5
+    },
+    {
+     "x": 532,
+     "w": 15
+    },
+    {
+     "x": 547,
+     "w": 14.5
+    }
+   ],
+   "y": 747.0803999999999,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 275.48,
+   "y": 705.0404,
+   "w": 286,
+   "size": 9
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Old NRIC/BC/Passport No",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 326.5,
+     "w": 15
+    },
+    {
+     "x": 341.5,
+     "w": 14.5
+    },
+    {
+     "x": 356,
+     "w": 14.5
+    },
+    {
+     "x": 370.5,
+     "w": 15
+    },
+    {
+     "x": 385.5,
+     "w": 14.5
+    },
+    {
+     "x": 400,
+     "w": 14.5
+    },
+    {
+     "x": 414.5,
+     "w": 15
+    },
+    {
+     "x": 429.5,
+     "w": 14.5
+    },
+    {
+     "x": 444,
+     "w": 15
+    },
+    {
+     "x": 459,
+     "w": 14.5
+    },
+    {
+     "x": 473.5,
+     "w": 14.5
+    },
+    {
+     "x": 488,
+     "w": 15
+    },
+    {
+     "x": 503,
+     "w": 14.5
+    },
+    {
+     "x": 517.5,
+     "w": 14.5
+    },
+    {
+     "x": 532,
+     "w": 15
+    },
+    {
+     "x": 547,
+     "w": 14.5
+    }
+   ],
+   "y": 727.0404,
+   "h": 15.720000000000027,
+   "key": "q_old_nric_bc_passport_no"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Hospitalisation Detail",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 46.92,
+   "y": 599.0803999999999,
+   "w": 49.36,
+   "size": 9,
+   "key": "q_hospitalisation_detail"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Date of Discharge",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 46.92,
+   "y": 535.7204,
+   "w": 247.83999999999997,
+   "size": 9,
+   "key": "q_date_of_discharge"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Date of Discharge (line 2)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 46.92,
+   "y": 517.1204,
+   "w": 236.32,
+   "size": 9,
+   "key": "q_date_of_discharge_line_2"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 318.168,
+   "y": 383.7084,
+   "size": 5.663999999999987,
+   "when": "Yes Ya",
+   "item": {
+    "label": "Had the patient previously received any medical consult for the above (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_had_the_patient_previously_recei_tsr05b"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 415.668,
+   "y": 383.7084,
+   "size": 5.663999999999987,
+   "when": "No Tidak",
+   "item": {
+    "label": "Had the patient previously received any medical consult for the above (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_had_the_patient_previously_recei_1yxr1c0"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 317.64,
+   "y": 285.20039999999995,
+   "size": 6.720000000000027,
+   "when": "Yes Ya",
+   "item": {
+    "label": "please furnish us the detail or provide a certified true copy of result (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_please_furnish_us_the_detail_or__tyavdn"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 415.14,
+   "y": 285.20039999999995,
+   "size": 6.720000000000027,
+   "when": "No Tidak",
+   "item": {
+    "label": "please furnish us the detail or provide a certified true copy of result (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_please_furnish_us_the_detail_or__26ul8"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 317.64,
+   "y": 83.84016,
+   "size": 6.720000000000005,
+   "when": "Yes Ya",
+   "item": {
+    "label": "Did you inform the patient of the diagnosis? If yes, when? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_did_you_inform_the_patient_of_th_1maxbpx"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 415.14,
+   "y": 83.84016,
+   "size": 6.720000000000005,
+   "when": "No Tidak",
+   "item": {
+    "label": "Did you inform the patient of the diagnosis? If yes, when? (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_did_you_inform_the_patient_of_th_1xjtc47"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Did you inform the patient of the diagnosis? If yes, when? (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 347.5,
+     "w": 10
+    }
+   ],
+   "y": 83.00016,
+   "h": 8.400000000000006,
+   "key": "q_did_you_inform_the_patient_of_th_setaxi"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "HSD-HSAPS-V02-082025a (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 51.48,
+   "y": 39.64016,
+   "w": 181.12,
+   "size": 9,
+   "key": "q_hsd_hsaps_v02_082025a_column_2_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "HSD-HSAPS-V02-082025a (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 21.5,
+     "w": 20
+    }
+   ],
+   "y": 26.96016,
+   "h": 19.8,
+   "key": "q_hsd_hsaps_v02_082025a_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Kod MMA OPCS/Kod PHFSR",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 287.03999999999996,
+   "y": 643.0004,
+   "w": 273.88,
+   "size": 9,
+   "key": "q_kod_mma_opcs_kod_phfsr"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 288.14,
+   "y": 602.4804,
+   "size": 6.719999999999982,
+   "when": "Yes Ya",
+   "item": {
+    "label": "Has the patient previously been treated (outpatient) or (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_has_the_patient_previously_been__1b6n817"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 385.64,
+   "y": 602.4804,
+   "size": 6.719999999999982,
+   "when": "No Tidak",
+   "item": {
+    "label": "Has the patient previously been treated (outpatient) or (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes Ya",
+     "No Tidak"
+    ]
+   },
+   "key": "q_has_the_patient_previously_been__1mfj8fh"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Has the patient previously been treated (outpatient) or (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 318,
+     "w": 10
+    }
+   ],
+   "y": 601.6404,
+   "h": 8.399999999999977,
+   "key": "q_has_the_patient_previously_been__haj78s"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "AIDS/HIV/STD/VD",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 73.32,
+   "y": 304.1204,
+   "w": 61.47999999999999,
+   "size": 9,
+   "key": "q_aids_hiv_std_vd"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "None of the above",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 73.32,
+   "y": 248.2004,
+   "w": 104.08000000000001,
+   "size": 9,
+   "key": "q_none_of_the_above"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Name of Physician/Surgeon",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 136.32,
+   "y": 127.8404,
+   "w": 156.51999999999998,
+   "size": 9,
+   "key": "q_name_of_physician_surgeon"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Hospital/Clinic",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 384,
+   "y": 127.4804,
+   "w": 170.19999999999993,
+   "size": 9,
+   "key": "q_hospital_clinic"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Address",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 384.36,
+   "y": 105.28016,
+   "w": 169.83999999999992,
+   "size": 9,
+   "key": "q_address"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Qualification Kelayakan",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 123.47999999999999,
+   "y": 105.04016,
+   "w": 169.35999999999999,
+   "size": 9,
+   "key": "q_qualification_kelayakan"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Contact No. No. Tel (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 323.03999999999996,
+   "y": 92.32016,
+   "w": 230.68000000000006,
+   "size": 9,
+   "key": "q_contact_no_no_tel_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Contact No. No. Tel (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 109.32,
+   "y": 91.12016,
+   "w": 183.51999999999998,
+   "size": 9,
+   "key": "q_contact_no_no_tel_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Fax No. No. Faks (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 323.03999999999996,
+   "y": 78.40016,
+   "w": 230.68000000000006,
+   "size": 9,
+   "key": "q_fax_no_no_faks_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Fax No. No. Faks (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 100.32,
+   "y": 77.80015999999999,
+   "w": 192.51999999999998,
+   "size": 9,
+   "key": "q_fax_no_no_faks_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Date (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 323.03999999999996,
+   "y": 65.08016,
+   "w": 230.68000000000006,
+   "size": 9,
+   "key": "q_date_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Date (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 78.48,
+   "y": 64.60015999999999,
+   "w": 214.35999999999996,
+   "size": 9,
+   "key": "q_date_column_1_row_1"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 66.12,
+   "y": 726.5204,
+   "w": 141.76,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 66.12,
+   "y": 705.7604,
+   "w": 141.76,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 315.96,
+   "y": 434.9204,
+   "w": 247.35999999999996,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "dia telah mengalami simtom",
+    "kind": "text"
+   },
+   "key": "q_dia_telah_mengalami_simtom"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 140.76,
+   "y": 239.5604,
+   "w": 83.44,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "disahkan daripada dokumen asal",
+    "kind": "text"
+   },
+   "key": "q_disahkan_daripada_dokumen_asal"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 438.5,
+     "w": 26.5
+    }
+   ],
+   "y": 661.7604,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "Time Masa",
+    "kind": "text"
+   },
+   "key": "q_time_masa"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 438.5,
+     "w": 26.5
+    }
+   ],
+   "y": 582.4404,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "Time Masa",
+    "kind": "text"
+   },
+   "key": "q_time_masa_2"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 438.5,
+     "w": 26.5
+    }
+   ],
+   "y": 557.8403999999999,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "Time Masa",
+    "kind": "text"
+   },
+   "key": "q_time_masa_3"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 353,
+     "w": 25.5
+    }
+   ],
+   "y": 336.4404,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "diatas? Jika ya,",
+    "kind": "text"
+   },
+   "key": "q_diatas_jika_ya"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 329.5,
+     "w": 16
+    }
+   ],
+   "y": 284.36039999999997,
+   "h": 8.400000000000034,
+   "leftover": true,
+   "item": {
+    "label": "please furnish us the detail or provide a certified true copy of result",
+    "kind": "text"
+   },
+   "key": "q_please_furnish_us_the_detail_or__o9xobe"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 349.14,
+   "y": 285.20039999999995,
+   "size": 6.720000000000027,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "please furnish us the detail or provide a certified true copy of result",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_please_furnish_us_the_detail_or__o9xobe_2"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 329.5,
+     "w": 16
+    }
+   ],
+   "y": 83.00016,
+   "h": 8.400000000000006,
+   "leftover": true,
+   "item": {
+    "label": "Did you inform the patient of the diagnosis? If yes, when?",
+    "kind": "text"
+   },
+   "key": "q_did_you_inform_the_patient_of_th_bn91xw"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 300,
+     "w": 16
+    }
+   ],
+   "y": 601.6404,
+   "h": 8.399999999999977,
+   "leftover": true,
+   "item": {
+    "label": "Has the patient previously been treated (outpatient) or",
+    "kind": "text"
+   },
+   "key": "q_has_the_patient_previously_been__1pg0bca"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 323,
+     "w": 25.5
+    }
+   ],
+   "y": 475.0404,
+   "h": 8.04000000000002,
+   "leftover": true,
+   "item": {
+    "label": "Hospital/Clinic Hospital/Klinik",
+    "kind": "text"
+   },
+   "key": "q_hospital_clinic_hospital_klinik"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 350,
+     "w": 25.5
+    }
+   ],
+   "y": 104.60016,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "Qualification Kelayakan",
+    "kind": "text"
+   },
+   "key": "q_qualification_kelayakan_2"
+  }
+ ]
+}

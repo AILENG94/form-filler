@@ -1,0 +1,506 @@
+{
+ "form": "CUSTOMER SERVICE/LETTER OF CONSENT - CSD-PSF04-V08-082025.pdf",
+ "saved": "2026-11-01T19:24:52.328Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 81.5,
+     "w": 14.5
+    },
+    {
+     "x": 96,
+     "w": 14.5
+    },
+    {
+     "x": 110.5,
+     "w": 14
+    },
+    {
+     "x": 124.5,
+     "w": 14.5
+    },
+    {
+     "x": 139,
+     "w": 14.5
+    },
+    {
+     "x": 153.5,
+     "w": 14.5
+    },
+    {
+     "x": 168,
+     "w": 14.5
+    },
+    {
+     "x": 182.5,
+     "w": 14
+    },
+    {
+     "x": 196.5,
+     "w": 14.5
+    },
+    {
+     "x": 211,
+     "w": 14.5
+    }
+   ],
+   "y": 747.9204,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 356.5,
+     "w": 14.5
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14
+    },
+    {
+     "x": 399.5,
+     "w": 14.5
+    },
+    {
+     "x": 414,
+     "w": 14.5
+    },
+    {
+     "x": 428.5,
+     "w": 14.5
+    },
+    {
+     "x": 457.5,
+     "w": 14
+    },
+    {
+     "x": 471.5,
+     "w": 14.5
+    },
+    {
+     "x": 500.5,
+     "w": 14.5
+    },
+    {
+     "x": 515,
+     "w": 14.5
+    },
+    {
+     "x": 529.5,
+     "w": 14
+    },
+    {
+     "x": 543.5,
+     "w": 14.5
+    }
+   ],
+   "y": 747.9204,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 144.68,
+   "y": 713.0803999999999,
+   "w": 412.96,
+   "size": 9
+  },
+  {
+   "key": "signer1Name",
+   "page": 1,
+   "type": "text",
+   "x": 98.52,
+   "y": 271.2404,
+   "w": 169.72000000000003,
+   "size": 9
+  },
+  {
+   "key": "signer1Nric",
+   "page": 1,
+   "type": "text",
+   "x": 111.24,
+   "y": 256.0004,
+   "w": 157,
+   "size": 9
+  },
+  {
+   "key": "signer1Dob",
+   "page": 1,
+   "type": "text",
+   "x": 141.96,
+   "y": 240.5204,
+   "w": 126.28,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 104.75999999999999,
+   "y": 225.0404,
+   "w": 163.48000000000002,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 1,
+   "type": "text",
+   "x": 428.52,
+   "y": 275.5604,
+   "w": 118.24000000000001,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 1,
+   "type": "text",
+   "x": 437.4,
+   "y": 258.1604,
+   "w": 109.36000000000001,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 1,
+   "type": "text",
+   "x": 430.32,
+   "y": 239.3204,
+   "w": 116.44,
+   "size": 9
+  },
+  {
+   "key": "signer2Name",
+   "page": 1,
+   "type": "text",
+   "x": 99.96,
+   "y": 134.9204,
+   "w": 169.72000000000003,
+   "size": 9
+  },
+  {
+   "key": "signer2Nric",
+   "page": 1,
+   "type": "text",
+   "x": 112.67999999999999,
+   "y": 120.40016,
+   "w": 157,
+   "size": 9
+  },
+  {
+   "key": "signer2Dob",
+   "page": 1,
+   "type": "text",
+   "x": 143.51999999999998,
+   "y": 104.20016,
+   "w": 126.16000000000003,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 106.2,
+   "y": 88.84016,
+   "w": 163.48000000000002,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 1,
+   "type": "text",
+   "x": 429.96,
+   "y": 142.1204,
+   "w": 118.23999999999995,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 1,
+   "type": "text",
+   "x": 438.84,
+   "y": 124.6004,
+   "w": 109.35999999999996,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 1,
+   "type": "text",
+   "x": 431.76,
+   "y": 105.76016,
+   "w": 116.43999999999994,
+   "size": 9
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 328,
+     "w": 14
+    },
+    {
+     "x": 342,
+     "w": 14.5
+    },
+    {
+     "x": 356.5,
+     "w": 14.5
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14
+    },
+    {
+     "x": 399.5,
+     "w": 14.5
+    },
+    {
+     "x": 414,
+     "w": 14.5
+    },
+    {
+     "x": 428.5,
+     "w": 14.5
+    },
+    {
+     "x": 443,
+     "w": 14.5
+    },
+    {
+     "x": 457.5,
+     "w": 14
+    },
+    {
+     "x": 471.5,
+     "w": 14.5
+    },
+    {
+     "x": 486,
+     "w": 14.5
+    },
+    {
+     "x": 500.5,
+     "w": 14.5
+    },
+    {
+     "x": 515,
+     "w": 14.5
+    },
+    {
+     "x": 529.5,
+     "w": 14
+    },
+    {
+     "x": 543.5,
+     "w": 14.5
+    }
+   ],
+   "y": 729.5604,
+   "h": 15.600000000000023,
+   "item": {
+    "label": "Old NRIC / BC / Passport No. (Life Assured)",
+    "kind": "text"
+   },
+   "key": "q_old_nric_bc_passport_no_life_assured"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.842000000000006,
+   "y": 649.5323999999999,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Values payable to the Policy Owner – Policy Loan Value / Part Surrender Value / Total Surrender Value",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_values_payable_to_the_policy_own_1mp6b6u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.84199999999996,
+   "y": 627.9323999999999,
+   "size": 6.816000000000077,
+   "when": "Yes",
+   "item": {
+    "label": "Values payable to the Policy Owner – Surrender Value of Bonus",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_values_payable_to_the_policy_own_12ft2a7"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.89000000000001,
+   "y": 606.5604000000001,
+   "size": 6.719999999999982,
+   "when": "Yes",
+   "item": {
+    "label": "Values payable to the Policy Owner – Others",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_values_payable_to_the_policy_own_13alq37"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 38.89000000000001,
+   "y": 554.0004,
+   "size": 6.719999999999982,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Upgrading or Downgrading of Benefits (Investment-Linked / Non-Investment-Linked Plan)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_upgrading_or_d_ichscf"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 38.842000000000006,
+   "y": 532.2923999999999,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Paid-up / Extended Term Assurance",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_paid_up_extend_15md2da"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 38.841999999999985,
+   "y": 510.93240000000003,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Revocation of all existing nominees",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_revocation_of__9lpmjo"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.842000000000006,
+   "y": 486.81239999999997,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Assignment of policy",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_assignment_of_policy"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.841999999999985,
+   "y": 465.2124,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Change of Cash Bonus / Lion Option",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_change_of_cash_c9u29s"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 39.89000000000001,
+   "y": 443.8404,
+   "size": 6.719999999999982,
+   "when": "Yes",
+   "item": {
+    "label": "Consent given for – Others",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_consent_given_for_others"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 95,
+   "y": 608.8004,
+   "w": 457.15999999999997,
+   "size": 9,
+   "item": {
+    "label": "Values payable to the Policy Owner – Others (please state)",
+    "kind": "text"
+   },
+   "key": "q_values_payable_to_the_policy_own_2yxv7"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 84,
+   "y": 445.36039999999997,
+   "w": 463.72,
+   "size": 9,
+   "item": {
+    "label": "Consent given for – Others (please state)",
+    "kind": "text"
+   },
+   "key": "q_consent_given_for_others_please_state"
+  }
+ ]
+}

@@ -1,0 +1,4938 @@
+{
+ "form": "GENERALI/Multi Biz Protector Enhanced Proposal Form (EN) 2.pdf",
+ "saved": "2026-11-01T19:24:53.389Z",
+ "fields": [
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 362.4441,
+   "y": 513.289,
+   "w": 42.57190000000003,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 288.686,
+   "h": 12.795000000000016
+  },
+  {
+   "key": "ownerName",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18,
+     "w": 12.5
+    },
+    {
+     "x": 30.5,
+     "w": 13
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 12.5
+    },
+    {
+     "x": 94.5,
+     "w": 13
+    },
+    {
+     "x": 107.5,
+     "w": 12.5
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 12.5
+    },
+    {
+     "x": 184,
+     "w": 13
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 12.5
+    },
+    {
+     "x": 248,
+     "w": 13
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 272.905,
+   "h": 12.797000000000025,
+   "cont": true
+  },
+  {
+   "key": "homeTel",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 69,
+     "w": 12.5
+    },
+    {
+     "x": 81.5,
+     "w": 13
+    },
+    {
+     "x": 94.5,
+     "w": 12.5
+    },
+    {
+     "x": 107,
+     "w": 13
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 12.5
+    },
+    {
+     "x": 145.5,
+     "w": 13
+    },
+    {
+     "x": 158.5,
+     "w": 12.5
+    },
+    {
+     "x": 171,
+     "w": 13
+    },
+    {
+     "x": 184,
+     "w": 13
+    }
+   ],
+   "y": 224.539,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "mobile",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 12.5
+    },
+    {
+     "x": 376,
+     "w": 13
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 224.539,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "ownerNric",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 107,
+     "w": 13
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 12.5
+    },
+    {
+     "x": 145.5,
+     "w": 13
+    },
+    {
+     "x": 158.5,
+     "w": 12.5
+    },
+    {
+     "x": 171,
+     "w": 13
+    },
+    {
+     "x": 184,
+     "w": 13
+    },
+    {
+     "x": 197,
+     "w": 12.5
+    },
+    {
+     "x": 209.5,
+     "w": 13
+    },
+    {
+     "x": 222.5,
+     "w": 12.5
+    },
+    {
+     "x": 235,
+     "w": 13
+    },
+    {
+     "x": 248,
+     "w": 13
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 12.5
+    },
+    {
+     "x": 376,
+     "w": 13
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 209.264,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "ownerMarital",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 12.5
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 12.5
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    }
+   ],
+   "y": 192.914,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "ownerDob",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 12.5
+    },
+    {
+     "x": 376,
+     "w": 13
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 192.914,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "ownerNationality",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 13
+    },
+    {
+     "x": 108,
+     "w": 12.5
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 12.5
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 12.5
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 13
+    },
+    {
+     "x": 287,
+     "w": 12.5
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    }
+   ],
+   "y": 176.508,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "email",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 160.612,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "address1",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 12.5
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 144.866,
+   "h": 12.796999999999997
+  },
+  {
+   "key": "address2",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 12.5
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 129.064,
+   "h": 12.794999999999987
+  },
+  {
+   "key": "town",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 12.5
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 113.039,
+   "h": 12.795000000000002
+  },
+  {
+   "key": "state",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 12.5
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 97.211,
+   "h": 12.795000000000002
+  },
+  {
+   "key": "postcode",
+   "page": 5,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 49.555,
+   "h": 12.795000000000002
+  },
+  {
+   "key": "companyName",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 82.5,
+     "w": 13
+    },
+    {
+     "x": 95.5,
+     "w": 12.5
+    },
+    {
+     "x": 108,
+     "w": 13
+    },
+    {
+     "x": 121,
+     "w": 12.5
+    },
+    {
+     "x": 133.5,
+     "w": 13
+    },
+    {
+     "x": 146.5,
+     "w": 12.5
+    },
+    {
+     "x": 159,
+     "w": 13
+    },
+    {
+     "x": 172,
+     "w": 12.5
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 13
+    },
+    {
+     "x": 210.5,
+     "w": 12.5
+    },
+    {
+     "x": 223,
+     "w": 13
+    },
+    {
+     "x": 236,
+     "w": 12.5
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 13
+    },
+    {
+     "x": 274.5,
+     "w": 12.5
+    },
+    {
+     "x": 287,
+     "w": 13
+    },
+    {
+     "x": 300,
+     "w": 12.5
+    },
+    {
+     "x": 312.5,
+     "w": 13
+    },
+    {
+     "x": 325.5,
+     "w": 13
+    },
+    {
+     "x": 338.5,
+     "w": 12.5
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 547.398,
+   "h": 12.794999999999959
+  },
+  {
+   "key": "companyName",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 19,
+     "w": 12.5
+    },
+    {
+     "x": 31.5,
+     "w": 13
+    },
+    {
+     "x": 44.5,
+     "w": 12.5
+    },
+    {
+     "x": 57,
+     "w": 13
+    },
+    {
+     "x": 70,
+     "w": 13
+    },
+    {
+     "x": 83,
+     "w": 12.5
+    },
+    {
+     "x": 95.5,
+     "w": 13
+    },
+    {
+     "x": 108.5,
+     "w": 12.5
+    },
+    {
+     "x": 121,
+     "w": 13
+    },
+    {
+     "x": 134,
+     "w": 12.5
+    },
+    {
+     "x": 146.5,
+     "w": 13
+    },
+    {
+     "x": 159.5,
+     "w": 13
+    },
+    {
+     "x": 172.5,
+     "w": 12.5
+    },
+    {
+     "x": 185,
+     "w": 13
+    },
+    {
+     "x": 198,
+     "w": 12.5
+    },
+    {
+     "x": 210.5,
+     "w": 13
+    },
+    {
+     "x": 223.5,
+     "w": 13
+    },
+    {
+     "x": 236.5,
+     "w": 12.5
+    },
+    {
+     "x": 249,
+     "w": 13
+    },
+    {
+     "x": 262,
+     "w": 12.5
+    },
+    {
+     "x": 274.5,
+     "w": 13
+    },
+    {
+     "x": 287.5,
+     "w": 13
+    },
+    {
+     "x": 300.5,
+     "w": 12.5
+    },
+    {
+     "x": 313,
+     "w": 13
+    },
+    {
+     "x": 326,
+     "w": 12.5
+    },
+    {
+     "x": 338.5,
+     "w": 12.5
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 531.495,
+   "h": 12.794999999999959,
+   "cont": true
+  },
+  {
+   "key": "companyRegNo",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 274.5,
+     "w": 12.5
+    },
+    {
+     "x": 287,
+     "w": 13
+    },
+    {
+     "x": 300,
+     "w": 12.5
+    },
+    {
+     "x": 312.5,
+     "w": 13
+    },
+    {
+     "x": 325.5,
+     "w": 13
+    },
+    {
+     "x": 338.5,
+     "w": 12.5
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 515.818,
+   "h": 12.794999999999959
+  },
+  {
+   "key": "officeTel",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 70,
+     "w": 13
+    },
+    {
+     "x": 83,
+     "w": 12.5
+    },
+    {
+     "x": 95.5,
+     "w": 13
+    },
+    {
+     "x": 108.5,
+     "w": 12.5
+    },
+    {
+     "x": 121,
+     "w": 13
+    },
+    {
+     "x": 134,
+     "w": 12.5
+    },
+    {
+     "x": 146.5,
+     "w": 13
+    },
+    {
+     "x": 159.5,
+     "w": 13
+    },
+    {
+     "x": 172.5,
+     "w": 12.5
+    },
+    {
+     "x": 185,
+     "w": 13
+    }
+   ],
+   "y": 500.462,
+   "h": 12.794999999999959
+  },
+  {
+   "key": "companyAddress",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 95,
+     "w": 13
+    },
+    {
+     "x": 108,
+     "w": 12.5
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 13
+    },
+    {
+     "x": 172,
+     "w": 12.5
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 13
+    },
+    {
+     "x": 236,
+     "w": 12.5
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 12.5
+    },
+    {
+     "x": 274,
+     "w": 13
+    },
+    {
+     "x": 287,
+     "w": 13
+    },
+    {
+     "x": 300,
+     "w": 12.5
+    },
+    {
+     "x": 312.5,
+     "w": 13
+    },
+    {
+     "x": 325.5,
+     "w": 12.5
+    },
+    {
+     "x": 338,
+     "w": 13
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 484.528,
+   "h": 12.795000000000016
+  },
+  {
+   "key": "companyAddress",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18.5,
+     "w": 12.5
+    },
+    {
+     "x": 31,
+     "w": 13
+    },
+    {
+     "x": 44,
+     "w": 12.5
+    },
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 13
+    },
+    {
+     "x": 108,
+     "w": 12.5
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 13
+    },
+    {
+     "x": 172,
+     "w": 12.5
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 13
+    },
+    {
+     "x": 236,
+     "w": 12.5
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 12.5
+    },
+    {
+     "x": 274,
+     "w": 13
+    },
+    {
+     "x": 287,
+     "w": 13
+    },
+    {
+     "x": 300,
+     "w": 12.5
+    },
+    {
+     "x": 312.5,
+     "w": 13
+    },
+    {
+     "x": 325.5,
+     "w": 12.5
+    },
+    {
+     "x": 338,
+     "w": 13
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 468.747,
+   "h": 12.795000000000016,
+   "cont": true
+  },
+  {
+   "key": "companyAddress",
+   "page": 6,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 18.5,
+     "w": 12.5
+    },
+    {
+     "x": 31,
+     "w": 13
+    },
+    {
+     "x": 44,
+     "w": 12.5
+    },
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 12.5
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 12.5
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 12.5
+    },
+    {
+     "x": 274,
+     "w": 13
+    },
+    {
+     "x": 287,
+     "w": 12.5
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 13
+    },
+    {
+     "x": 351,
+     "w": 12.5
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 452.967,
+   "h": 12.793999999999983,
+   "cont": true
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 60,
+   "page": 9,
+   "key": "signDate",
+   "x": 291,
+   "y": 230
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 60,
+   "page": 9,
+   "key": "signDate",
+   "x": 299,
+   "y": 123
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 220,
+   "page": 9,
+   "key": "agentName",
+   "x": 44,
+   "y": 86
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 80,
+   "page": 9,
+   "key": "agentCode",
+   "x": 321,
+   "y": 86
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": ") and complete",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 202.0889,
+   "y": 557.1594,
+   "w": 86.369,
+   "size": 9,
+   "key": "q_and_complete"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Sum Insured",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 202.0889,
+   "y": 549.7557,
+   "w": 63.720999999999975,
+   "size": 9,
+   "key": "q_sum_insured"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2168,
+   "y": 539.6067999999999,
+   "size": 5.566399999999977,
+   "when": "Yes",
+   "item": {
+    "label": "Aircraft Damage",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_aircraft_damage"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2172,
+   "y": 530.5826999999999,
+   "size": 5.565599999999995,
+   "when": "Yes",
+   "item": {
+    "label": "Earthquake, Volcanic Eruption",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_earthquake_volcanic_eruption"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2168,
+   "y": 521.5588,
+   "size": 5.566399999999977,
+   "when": "Storm, Tempest",
+   "item": {
+    "label": "insured (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Building",
+     "Storm, Tempest"
+    ]
+   },
+   "key": "q_insured_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.85,
+   "y": 520.024,
+   "size": 6.800000000000001,
+   "when": "Building",
+   "item": {
+    "label": "insured (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Building",
+     "Storm, Tempest"
+    ]
+   },
+   "key": "q_insured_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 512.5348,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Flood",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_flood"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.850000000000023,
+   "y": 505.72799999999995,
+   "size": 6.7999999999999545,
+   "when": "Business Furniture,",
+   "item": {
+    "label": "Building (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Business Furniture,",
+     "Explosion - Industrial without boilers"
+    ]
+   },
+   "key": "q_building_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21800000000002,
+   "y": 503.5125,
+   "size": 5.563999999999988,
+   "when": "Explosion - Industrial without boilers",
+   "item": {
+    "label": "Building (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Business Furniture,",
+     "Explosion - Industrial without boilers"
+    ]
+   },
+   "key": "q_building_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 494.4878,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Explosion - Industrial/Non Industrial with boilers",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_explosion_industrial_non_industr_nch5q0"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2172,
+   "y": 485.46369999999996,
+   "size": 5.565599999999995,
+   "when": "Explosion - Non Industrial without boilers",
+   "item": {
+    "label": "Fixtures and Fittings (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Plant and Machinery",
+     "Explosion - Non Industrial without boilers"
+    ]
+   },
+   "key": "q_fixtures_and_fittings_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.85,
+   "y": 483.189,
+   "size": 6.800000000000001,
+   "when": "Plant and Machinery",
+   "item": {
+    "label": "Fixtures and Fittings (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Plant and Machinery",
+     "Explosion - Non Industrial without boilers"
+    ]
+   },
+   "key": "q_fixtures_and_fittings_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2172,
+   "y": 476.4407,
+   "size": 5.565599999999995,
+   "when": "Yes",
+   "item": {
+    "label": "Impact Damage (Excluding Insured’s Vehicle)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_impact_damage_excluding_insured__4wjpxv"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.85,
+   "y": 468.55100000000004,
+   "size": 6.800000000000001,
+   "when": "Removal of Debris",
+   "item": {
+    "label": "Plant and Machinery (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Removal of Debris",
+     "Impact Damage (Including Insured’s Vehicle)"
+    ]
+   },
+   "key": "q_plant_and_machinery_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2164,
+   "y": 467.4159,
+   "size": 5.567200000000003,
+   "when": "Impact Damage (Including Insured’s Vehicle)",
+   "item": {
+    "label": "Plant and Machinery (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Removal of Debris",
+     "Impact Damage (Including Insured’s Vehicle)"
+    ]
+   },
+   "key": "q_plant_and_machinery_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2172,
+   "y": 458.3927,
+   "size": 5.565599999999995,
+   "when": "Yes",
+   "item": {
+    "label": "Bursting/Overflowing of Water Tanks/Pipes (>5 storeys)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_bursting_overflowing_of_water_ta_1knd8b9"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.85,
+   "y": 453.33700000000005,
+   "size": 6.800000000000001,
+   "when": "Rental for",
+   "item": {
+    "label": "Removal of Debris (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Rental for",
+     "Bursting/Overflowing of Water Tanks/Pipes (others)"
+    ]
+   },
+   "key": "q_removal_of_debris_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2172,
+   "y": 449.3687,
+   "size": 5.565599999999995,
+   "when": "Bursting/Overflowing of Water Tanks/Pipes (others)",
+   "item": {
+    "label": "Removal of Debris (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Rental for",
+     "Bursting/Overflowing of Water Tanks/Pipes (others)"
+    ]
+   },
+   "key": "q_removal_of_debris_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2164,
+   "y": 440.3439,
+   "size": 5.567200000000003,
+   "when": "Riot, Strike & Malicious Damage",
+   "item": {
+    "label": "Rental for (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Stock-in-trade",
+     "Riot, Strike & Malicious Damage"
+    ]
+   },
+   "key": "q_rental_for_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.85,
+   "y": 438.447,
+   "size": 6.800000000000001,
+   "when": "Stock-in-trade",
+   "item": {
+    "label": "Rental for (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Stock-in-trade",
+     "Riot, Strike & Malicious Damage"
+    ]
+   },
+   "key": "q_rental_for_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 431.3218,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Bush/Lalang Fire",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_bush_lalang_fire"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 422.2968,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Subsidence & Landslip (Standard Cover)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_subsidence_landslip_standard_cover"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "(Nature of goods",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 39.284,
+   "y": 421.1519,
+   "w": 69.547,
+   "size": 9,
+   "key": "q_nature_of_goods"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 413.2738,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Spontaneous Combustion (Fire Only)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_spontaneous_combustion_fire_only"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.2164,
+   "y": 404.2489,
+   "size": 5.567200000000003,
+   "when": "Yes",
+   "item": {
+    "label": "Spontaneous Combustion (Full Cover)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_spontaneous_combustion_full_cover"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 395.2258,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Damage by Falling Trees or Branches",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_damage_by_falling_trees_or_branches"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 386.2018,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Sprinkler Leakage (Building)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_sprinkler_leakage_building"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 377.17780000000005,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Sprinkler Leakage (Contents)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_sprinkler_leakage_contents"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 24.35,
+   "y": 368.713,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "Others (please specify) (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_others_please_specify_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 368.1548,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Electrical Installations Clause (B)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_electrical_installations_clause_b"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 359.5478,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Sewer Backup Cover (>5 Storeys)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_sewer_backup_cover_5_storeys"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 187.21679999999998,
+   "y": 350.5238,
+   "size": 5.566400000000022,
+   "when": "Yes",
+   "item": {
+    "label": "Sewer Backup Cover (others)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_sewer_backup_cover_others"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 136.2884,
+   "y": 253.18689999999998,
+   "size": 6.42320000000002,
+   "when": "6 months",
+   "item": {
+    "label": "I wish to get an indemnity period of (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "6 months",
+     "12 months",
+     "Others"
+    ]
+   },
+   "key": "q_i_wish_to_get_an_indemnity_perio_1g112jc"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 183.2884,
+   "y": 253.18689999999998,
+   "size": 6.42320000000002,
+   "when": "12 months",
+   "item": {
+    "label": "I wish to get an indemnity period of (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "6 months",
+     "12 months",
+     "Others"
+    ]
+   },
+   "key": "q_i_wish_to_get_an_indemnity_perio_m4x1qx"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 233.2884,
+   "y": 253.18689999999998,
+   "size": 6.42320000000002,
+   "when": "Others",
+   "item": {
+    "label": "I wish to get an indemnity period of (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "6 months",
+     "12 months",
+     "Others"
+    ]
+   },
+   "key": "q_i_wish_to_get_an_indemnity_perio_1r9x2xm"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 22.288400000000003,
+   "y": 211.9029,
+   "size": 6.423199999999998,
+   "when": "Yes",
+   "item": {
+    "label": "Gross Profit",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_gross_profit"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 170.2884,
+   "y": 211.9029,
+   "size": 6.423199999999998,
+   "when": "Yes",
+   "item": {
+    "label": "Gross Revenue/Rental",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_gross_revenue_rental"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 22.288400000000003,
+   "y": 199.6739,
+   "size": 6.423199999999998,
+   "when": "Yes",
+   "item": {
+    "label": "Auditor’s fee",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_auditor_s_fee"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Others (please specify) (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 113.24,
+   "y": 176.4127,
+   "w": 285.16,
+   "size": 9,
+   "key": "q_others_please_specify_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 22.288400000000003,
+   "y": 175.2159,
+   "size": 6.423199999999998,
+   "when": "Yes",
+   "item": {
+    "label": "Others (please specify) (column 1, row 2)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_others_please_specify_column_1_row_2"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 59.2884,
+   "y": 147.1469,
+   "size": 6.423199999999998,
+   "when": "Yes",
+   "item": {
+    "label": "Prevention of Access",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_prevention_of_access"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 151.2884,
+   "y": 134.57489999999999,
+   "size": 6.423199999999998,
+   "when": "Electrical supply",
+   "item": {
+    "label": "Failure of Public Utilities (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Electrical supply",
+     "Water supply",
+     "Gas supply"
+    ]
+   },
+   "key": "q_failure_of_public_utilities_colu_i7kex3"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 238.2884,
+   "y": 134.57489999999999,
+   "size": 6.423199999999998,
+   "when": "Water supply",
+   "item": {
+    "label": "Failure of Public Utilities (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Electrical supply",
+     "Water supply",
+     "Gas supply"
+    ]
+   },
+   "key": "q_failure_of_public_utilities_colu_1nckg3s"
+  },
+  {
+   "type": "check",
+   "page": 2,
+   "x": 311.2884,
+   "y": 134.57489999999999,
+   "size": 6.423199999999998,
+   "when": "Gas supply",
+   "item": {
+    "label": "Failure of Public Utilities (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Electrical supply",
+     "Water supply",
+     "Gas supply"
+    ]
+   },
+   "key": "q_failure_of_public_utilities_colu_tggfbd"
+  },
+  {
+   "type": "check",
+   "page": 5,
+   "x": 85.842,
+   "y": 35.3185,
+   "size": 6.3160000000000025,
+   "when": "Yes",
+   "item": {
+    "label": "Private Use (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_private_use_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 5,
+   "x": 133.84199999999998,
+   "y": 35.3185,
+   "size": 6.3160000000000025,
+   "when": "No",
+   "item": {
+    "label": "Private Use (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_private_use_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 5,
+   "x": 239.342,
+   "y": 22.4955,
+   "size": 6.316,
+   "when": "Yes",
+   "item": {
+    "label": "Collective Agreement/SOCSO/Workmen Compensation Agreement (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_collective_agreement_socso_workm_1waf9gj"
+  },
+  {
+   "type": "check",
+   "page": 5,
+   "x": 283.342,
+   "y": 22.4955,
+   "size": 6.316,
+   "when": "No",
+   "item": {
+    "label": "Collective Agreement/SOCSO/Workmen Compensation Agreement (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_collective_agreement_socso_workm_12eb8o4"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Postcode",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 338.5,
+     "w": 12.5
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 421.404,
+   "h": 12.795000000000016,
+   "key": "q_postcode"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Nature of Business",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 82.5,
+     "w": 13
+    },
+    {
+     "x": 95.5,
+     "w": 12.5
+    },
+    {
+     "x": 108,
+     "w": 13
+    },
+    {
+     "x": 121,
+     "w": 12.5
+    },
+    {
+     "x": 133.5,
+     "w": 13
+    },
+    {
+     "x": 146.5,
+     "w": 12.5
+    },
+    {
+     "x": 159,
+     "w": 13
+    },
+    {
+     "x": 172,
+     "w": 12.5
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 13
+    },
+    {
+     "x": 210.5,
+     "w": 12.5
+    },
+    {
+     "x": 223,
+     "w": 13
+    },
+    {
+     "x": 236,
+     "w": 12.5
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 13
+    },
+    {
+     "x": 274.5,
+     "w": 12.5
+    },
+    {
+     "x": 287,
+     "w": 13
+    },
+    {
+     "x": 300,
+     "w": 12.5
+    },
+    {
+     "x": 312.5,
+     "w": 13
+    },
+    {
+     "x": 325.5,
+     "w": 13
+    },
+    {
+     "x": 338.5,
+     "w": 12.5
+    },
+    {
+     "x": 351,
+     "w": 13
+    },
+    {
+     "x": 364,
+     "w": 12.5
+    },
+    {
+     "x": 376.5,
+     "w": 13
+    },
+    {
+     "x": 389.5,
+     "w": 12.5
+    }
+   ],
+   "y": 405.528,
+   "h": 12.795000000000016,
+   "key": "q_nature_of_business"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Construction Classification",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 108,
+     "w": 13
+    },
+    {
+     "x": 121,
+     "w": 12.5
+    }
+   ],
+   "y": 388.761,
+   "h": 12.795999999999992,
+   "key": "q_construction_classification"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Period of Insurance: From",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 236.5,
+     "w": 12.5
+    },
+    {
+     "x": 249,
+     "w": 13
+    },
+    {
+     "x": 262,
+     "w": 12.5
+    },
+    {
+     "x": 274.5,
+     "w": 13
+    },
+    {
+     "x": 287.5,
+     "w": 13
+    },
+    {
+     "x": 300.5,
+     "w": 12.5
+    },
+    {
+     "x": 326,
+     "w": 12.5
+    },
+    {
+     "x": 338.5,
+     "w": 13
+    },
+    {
+     "x": 351.5,
+     "w": 12.5
+    },
+    {
+     "x": 364,
+     "w": 13
+    },
+    {
+     "x": 377,
+     "w": 13
+    },
+    {
+     "x": 390,
+     "w": 12.5
+    }
+   ],
+   "y": 388.761,
+   "h": 12.795999999999992,
+   "key": "q_period_of_insurance_from"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Is the premise equipped with intruder alarm System? If ‘yes’, please state the type of detecting device (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 8
+    }
+   ],
+   "y": 332.07,
+   "h": 7.894999999999982,
+   "key": "q_is_the_premise_equipped_with_int_1xg3k2p"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Is the premise equipped with intruder alarm System? If ‘yes’, please state the type of detecting device (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 8
+    }
+   ],
+   "y": 332.07,
+   "h": 7.894999999999982,
+   "key": "q_is_the_premise_equipped_with_int_13jzjaa"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "In respect of the risk you now wish to insure against, have you ever sustained any loss during the past (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 274.43,
+   "h": 7.894999999999982,
+   "key": "q_in_respect_of_the_risk_you_now_w_1rg5nbn"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "In respect of the risk you now wish to insure against, have you ever sustained any loss during the past (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 274.43,
+   "h": 7.894999999999982,
+   "key": "q_in_respect_of_the_risk_you_now_w_xk1mj8"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Is there any insurance in force covering any of the property to be insured against with this or any other (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 190.931,
+   "h": 7.89500000000001,
+   "key": "q_is_there_any_insurance_in_force__1ha57nx"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Is there any insurance in force covering any of the property to be insured against with this or any other (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 190.931,
+   "h": 7.89500000000001,
+   "key": "q_is_there_any_insurance_in_force__ne16vi"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Has the insurance now proposed been declined, cancelled, refused renewal or subject to special terms (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 107.655,
+   "h": 7.894999999999996,
+   "key": "q_has_the_insurance_now_proposed_b_1mhcr2p"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Has the insurance now proposed been declined, cancelled, refused renewal or subject to special terms (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 107.655,
+   "h": 7.894999999999996,
+   "key": "q_has_the_insurance_now_proposed_b_sl8qaa"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Do you keep records of cash in locked safe and stocks respectively? (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 15.993,
+   "h": 7.894999999999998,
+   "key": "q_do_you_keep_records_of_cash_in_l_iejpg8"
+  },
+  {
+   "page": 6,
+   "item": {
+    "label": "Do you keep records of cash in locked safe and stocks respectively? (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 15.993,
+   "h": 7.894999999999998,
+   "key": "q_do_you_keep_records_of_cash_in_l_1njjqmx"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "List of Machinery with value to be insured (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 556.491,
+   "h": 7.894999999999982,
+   "key": "q_list_of_machinery_with_value_to__1wbaddv"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "List of Machinery with value to be insured (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 556.491,
+   "h": 7.894999999999982,
+   "key": "q_list_of_machinery_with_value_to__12f6clg"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Is there a Maintenance Contract in place, where safety checks and preventive maintenance is scheduled (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 458.537,
+   "h": 7.894999999999982,
+   "key": "q_is_there_a_maintenance_contract__1vxfd7w"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Is there a Maintenance Contract in place, where safety checks and preventive maintenance is scheduled (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 458.537,
+   "h": 7.894999999999982,
+   "key": "q_is_there_a_maintenance_contract__121bcfh"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Description of the cargo insured (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 418.429,
+   "h": 7.894999999999982,
+   "key": "q_description_of_the_cargo_insured_hpc15f"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Description of the cargo insured (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 418.429,
+   "h": 7.894999999999982,
+   "key": "q_description_of_the_cargo_insured_1muc2c4"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Are the vehicles fitted with special security devices or protection? If yes, please provide details of any (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360.5,
+     "w": 7.5
+    }
+   ],
+   "y": 302.953,
+   "h": 7.894999999999982,
+   "key": "q_are_the_vehicles_fitted_with_spe_utjq0a"
+  },
+  {
+   "page": 7,
+   "item": {
+    "label": "Are the vehicles fitted with special security devices or protection? If yes, please provide details of any (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 391.5,
+     "w": 7.5
+    }
+   ],
+   "y": 302.953,
+   "h": 7.894999999999982,
+   "key": "q_are_the_vehicles_fitted_with_spe_xfp7v"
+  },
+  {
+   "type": "check",
+   "page": 7,
+   "x": 23.841999999999995,
+   "y": 160.2695,
+   "size": 6.316000000000009,
+   "when": "Manufacturer",
+   "item": {
+    "label": "Nature of business (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Manufacturer",
+     "Retailer",
+     "Wholesaler/Distributor",
+     "Importer",
+     "Others __________________"
+    ]
+   },
+   "key": "q_nature_of_business_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 7,
+   "x": 94.342,
+   "y": 160.2695,
+   "size": 6.316000000000009,
+   "when": "Retailer",
+   "item": {
+    "label": "Nature of business (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Manufacturer",
+     "Retailer",
+     "Wholesaler/Distributor",
+     "Importer",
+     "Others __________________"
+    ]
+   },
+   "key": "q_nature_of_business_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 7,
+   "x": 143.84199999999998,
+   "y": 160.2695,
+   "size": 6.316000000000009,
+   "when": "Wholesaler/Distributor",
+   "item": {
+    "label": "Nature of business (column 3, row 1)",
+    "kind": "choice",
+    "options": [
+     "Manufacturer",
+     "Retailer",
+     "Wholesaler/Distributor",
+     "Importer",
+     "Others __________________"
+    ]
+   },
+   "key": "q_nature_of_business_column_3_row_1"
+  },
+  {
+   "type": "check",
+   "page": 7,
+   "x": 245.84199999999998,
+   "y": 160.2695,
+   "size": 6.316000000000009,
+   "when": "Importer",
+   "item": {
+    "label": "Nature of business (column 4, row 1)",
+    "kind": "choice",
+    "options": [
+     "Manufacturer",
+     "Retailer",
+     "Wholesaler/Distributor",
+     "Importer",
+     "Others __________________"
+    ]
+   },
+   "key": "q_nature_of_business_column_4_row_1"
+  },
+  {
+   "type": "check",
+   "page": 7,
+   "x": 297.842,
+   "y": 160.2695,
+   "size": 6.316000000000009,
+   "when": "Others __________________",
+   "item": {
+    "label": "Nature of business (column 5, row 1)",
+    "kind": "choice",
+    "options": [
+     "Manufacturer",
+     "Retailer",
+     "Wholesaler/Distributor",
+     "Importer",
+     "Others __________________"
+    ]
+   },
+   "key": "q_nature_of_business_column_5_row_1"
+  },
+  {
+   "type": "check",
+   "page": 8,
+   "x": 31.842000000000006,
+   "y": 281.7315,
+   "size": 6.315999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "There is no claim or known circumstance for the past five (5) years (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_there_is_no_claim_or_known_circu_gzwlz1"
+  },
+  {
+   "type": "check",
+   "page": 8,
+   "x": 74.84200000000001,
+   "y": 281.7315,
+   "size": 6.315999999999986,
+   "when": "No",
+   "item": {
+    "label": "There is no claim or known circumstance for the past five (5) years (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_there_is_no_claim_or_known_circu_1m4wn5q"
+  },
+  {
+   "page": 9,
+   "item": {
+    "label": "I wish to pay my premium RM",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 114.7362,
+   "y": 552.3347,
+   "w": 81.477,
+   "size": 9,
+   "key": "q_i_wish_to_pay_my_premium_rm"
+  },
+  {
+   "type": "check",
+   "page": 9,
+   "x": 38.35,
+   "y": 534.328,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "Cash (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_cash_column_1_row_1"
+  },
+  {
+   "page": 9,
+   "item": {
+    "label": "Cash (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 74.5,
+     "w": 8.5
+    }
+   ],
+   "y": 533.478,
+   "h": 8.5,
+   "key": "q_cash_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 9,
+   "x": 19.85,
+   "y": 487.377,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "Online Transfer",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_online_transfer"
+  },
+  {
+   "type": "check",
+   "page": 9,
+   "x": 213.35,
+   "y": 487.377,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "Credit",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_credit"
+  },
+  {
+   "type": "check",
+   "page": 9,
+   "x": 20.85,
+   "y": 279.038,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "I/We have read and agree with the Terms & Conditions above (Mandatory)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_we_have_read_and_agree_with_th_18o5odq"
+  },
+  {
+   "type": "check",
+   "page": 9,
+   "x": 20.85,
+   "y": 265.243,
+   "size": 6.800000000000001,
+   "when": "Yes",
+   "item": {
+    "label": "I/We would like to receive special offers, promotions and information related to the insurance products, events and",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_we_would_like_to_receive_speci_v97uci"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 17.687799999999996,
+   "y": 546.5348,
+   "w": 57.92400000000001,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 17.736,
+   "y": 356.61,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "If your business does not meet the above terms and conditions, please contact us at 1 300 13 2121 or",
+    "kind": "text"
+   },
+   "key": "q_if_your_business_does_not_meet_t_97cvbd"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 17.173000000000002,
+   "y": 335.538,
+   "w": 386.214,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "+603 3007 2121 or email to customer.service.gi@generali.com.my",
+    "kind": "text"
+   },
+   "key": "q_603_3007_2121_or_email_to_custom_18kc4j9"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 39.284,
+   "y": 407.8082,
+   "w": 69.547,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "(Nature of goods",
+    "kind": "text"
+   },
+   "key": "q_nature_of_goods_2"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 39.284,
+   "y": 394.4644,
+   "w": 69.547,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "(Nature of goods",
+    "kind": "text"
+   },
+   "key": "q_nature_of_goods_3"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 22.020999999999987,
+   "y": 321.758,
+   "w": 150.834,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Others (please specify)",
+    "kind": "text"
+   },
+   "key": "q_others_please_specify_4"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 17.60300000000001,
+   "y": 293.813,
+   "w": 385.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Please ensure Sum Insured on",
+    "kind": "text"
+   },
+   "key": "q_please_ensure_sum_insured_on"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 269.4139,
+   "y": 255.7245,
+   "w": 44.04399999999998,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Others",
+    "kind": "text"
+   },
+   "key": "q_others_5"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 284.78299999999996,
+   "y": 211.654,
+   "w": 113.61700000000002,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Gross Revenue/Rental",
+    "kind": "text"
+   },
+   "key": "q_gross_revenue_rental_2"
+  },
+  {
+   "type": "text",
+   "page": 3,
+   "x": 17.1732,
+   "y": 46.8688,
+   "w": 327.94,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "RM100 per",
+    "kind": "text"
+   },
+   "key": "q_rm100_per"
+  },
+  {
+   "type": "text",
+   "page": 4,
+   "x": 17.673000000000002,
+   "y": 47.71,
+   "w": 385.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "sum insured for the solar power system is included in that",
+    "kind": "text"
+   },
+   "key": "q_sum_insured_for_the_solar_power__1f1xzym"
+  },
+  {
+   "type": "text",
+   "page": 5,
+   "x": 17.673000000000002,
+   "y": 331.386,
+   "w": 385.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Total Premium",
+    "kind": "text"
+   },
+   "key": "q_total_premium"
+  },
+  {
+   "type": "text",
+   "page": 5,
+   "x": 17.173999999999978,
+   "y": 308.464,
+   "w": 386.211,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "RM",
+    "kind": "text"
+   },
+   "key": "q_rm"
+  },
+  {
+   "type": "comb",
+   "page": 5,
+   "cells": [
+    {
+     "x": 18,
+     "w": 12.5
+    },
+    {
+     "x": 30.5,
+     "w": 13
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 12.5
+    },
+    {
+     "x": 94.5,
+     "w": 13
+    },
+    {
+     "x": 107.5,
+     "w": 12.5
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 12.5
+    },
+    {
+     "x": 184,
+     "w": 13
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 12.5
+    },
+    {
+     "x": 248,
+     "w": 13
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 257.125,
+   "h": 12.797000000000025,
+   "leftover": true,
+   "item": {
+    "label": "Name (as in new NRIC/Passport)",
+    "kind": "text"
+   },
+   "key": "q_name_as_in_new_nric_passport"
+  },
+  {
+   "type": "comb",
+   "page": 5,
+   "cells": [
+    {
+     "x": 18,
+     "w": 12.5
+    },
+    {
+     "x": 30.5,
+     "w": 13
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 12.5
+    },
+    {
+     "x": 94.5,
+     "w": 13
+    },
+    {
+     "x": 107.5,
+     "w": 12.5
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 12.5
+    },
+    {
+     "x": 184,
+     "w": 13
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 12.5
+    },
+    {
+     "x": 248,
+     "w": 13
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 240.915,
+   "h": 12.796999999999997,
+   "leftover": true,
+   "item": {
+    "label": "Name (as in new NRIC/Passport)",
+    "kind": "text"
+   },
+   "key": "q_name_as_in_new_nric_passport_2"
+  },
+  {
+   "type": "comb",
+   "page": 5,
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 12.5
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 81.383,
+   "h": 12.795000000000002,
+   "leftover": true,
+   "item": {
+    "label": "Correspondence Address",
+    "kind": "text"
+   },
+   "key": "q_correspondence_address"
+  },
+  {
+   "type": "comb",
+   "page": 5,
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 12.5
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 12.5
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 12.5
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    },
+    {
+     "x": 286.5,
+     "w": 13
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 12.5
+    },
+    {
+     "x": 350.5,
+     "w": 13
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 65.767,
+   "h": 12.795000000000002,
+   "leftover": true,
+   "item": {
+    "label": "Correspondence Address",
+    "kind": "text"
+   },
+   "key": "q_correspondence_address_2"
+  },
+  {
+   "type": "comb",
+   "page": 5,
+   "cells": [
+    {
+     "x": 18,
+     "w": 13
+    },
+    {
+     "x": 31,
+     "w": 12.5
+    },
+    {
+     "x": 43.5,
+     "w": 13
+    },
+    {
+     "x": 56.5,
+     "w": 12.5
+    },
+    {
+     "x": 69,
+     "w": 13
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 12.5
+    },
+    {
+     "x": 120,
+     "w": 13
+    },
+    {
+     "x": 133,
+     "w": 13
+    },
+    {
+     "x": 146,
+     "w": 12.5
+    },
+    {
+     "x": 158.5,
+     "w": 13
+    },
+    {
+     "x": 171.5,
+     "w": 12.5
+    },
+    {
+     "x": 184,
+     "w": 13
+    },
+    {
+     "x": 197,
+     "w": 13
+    },
+    {
+     "x": 210,
+     "w": 12.5
+    },
+    {
+     "x": 222.5,
+     "w": 13
+    },
+    {
+     "x": 235.5,
+     "w": 12.5
+    },
+    {
+     "x": 248,
+     "w": 13
+    },
+    {
+     "x": 261,
+     "w": 13
+    },
+    {
+     "x": 274,
+     "w": 12.5
+    }
+   ],
+   "y": 49.555,
+   "h": 12.795000000000002,
+   "leftover": true,
+   "item": {
+    "label": "Correspondence Address",
+    "kind": "text"
+   },
+   "key": "q_correspondence_address_3"
+  },
+  {
+   "type": "text",
+   "page": 6,
+   "x": 17.785000000000025,
+   "y": 345.728,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Construction Classification",
+    "kind": "text"
+   },
+   "key": "q_construction_classification_2"
+  },
+  {
+   "type": "text",
+   "page": 6,
+   "x": 26.004999999999995,
+   "y": 293.407,
+   "w": 317.608,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Type of Detecting Device",
+    "kind": "text"
+   },
+   "key": "q_type_of_detecting_device"
+  },
+  {
+   "type": "text",
+   "page": 6,
+   "x": 25.677200000000028,
+   "y": 209.582,
+   "w": 317.378,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Date of Loss",
+    "kind": "text"
+   },
+   "key": "q_date_of_loss"
+  },
+  {
+   "type": "text",
+   "page": 6,
+   "x": 25.677200000000028,
+   "y": 126.6364,
+   "w": 317.378,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Name of Insurance Company",
+    "kind": "text"
+   },
+   "key": "q_name_of_insurance_company"
+  },
+  {
+   "type": "comb",
+   "page": 6,
+   "cells": [
+    {
+     "x": 19,
+     "w": 12.5
+    },
+    {
+     "x": 31.5,
+     "w": 13
+    },
+    {
+     "x": 44.5,
+     "w": 12.5
+    },
+    {
+     "x": 57,
+     "w": 13
+    },
+    {
+     "x": 70,
+     "w": 13
+    },
+    {
+     "x": 83,
+     "w": 12.5
+    },
+    {
+     "x": 95.5,
+     "w": 13
+    },
+    {
+     "x": 108.5,
+     "w": 12.5
+    },
+    {
+     "x": 121,
+     "w": 13
+    },
+    {
+     "x": 134,
+     "w": 12.5
+    },
+    {
+     "x": 146.5,
+     "w": 13
+    },
+    {
+     "x": 159.5,
+     "w": 13
+    }
+   ],
+   "y": 515.818,
+   "h": 12.794999999999959,
+   "leftover": true,
+   "item": {
+    "label": "Name of Company",
+    "kind": "text"
+   },
+   "key": "q_name_of_company"
+  },
+  {
+   "type": "comb",
+   "page": 6,
+   "cells": [
+    {
+     "x": 18.5,
+     "w": 12.5
+    },
+    {
+     "x": 31,
+     "w": 13
+    },
+    {
+     "x": 44,
+     "w": 12.5
+    },
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 12.5
+    },
+    {
+     "x": 107.5,
+     "w": 13
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 12.5
+    },
+    {
+     "x": 171.5,
+     "w": 13
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 12.5
+    },
+    {
+     "x": 235.5,
+     "w": 13
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 12.5
+    },
+    {
+     "x": 274,
+     "w": 13
+    },
+    {
+     "x": 287,
+     "w": 12.5
+    },
+    {
+     "x": 299.5,
+     "w": 13
+    },
+    {
+     "x": 312.5,
+     "w": 12.5
+    },
+    {
+     "x": 325,
+     "w": 13
+    },
+    {
+     "x": 338,
+     "w": 13
+    },
+    {
+     "x": 351,
+     "w": 12.5
+    },
+    {
+     "x": 363.5,
+     "w": 13
+    },
+    {
+     "x": 376.5,
+     "w": 12.5
+    },
+    {
+     "x": 389,
+     "w": 13
+    }
+   ],
+   "y": 437.186,
+   "h": 12.793999999999983,
+   "leftover": true,
+   "item": {
+    "label": "Location of Premises",
+    "kind": "text"
+   },
+   "key": "q_location_of_premises"
+  },
+  {
+   "type": "comb",
+   "page": 6,
+   "cells": [
+    {
+     "x": 18.5,
+     "w": 12.5
+    },
+    {
+     "x": 31,
+     "w": 13
+    },
+    {
+     "x": 44,
+     "w": 12.5
+    },
+    {
+     "x": 56.5,
+     "w": 13
+    },
+    {
+     "x": 69.5,
+     "w": 12.5
+    },
+    {
+     "x": 82,
+     "w": 13
+    },
+    {
+     "x": 95,
+     "w": 13
+    },
+    {
+     "x": 108,
+     "w": 12.5
+    },
+    {
+     "x": 120.5,
+     "w": 13
+    },
+    {
+     "x": 133.5,
+     "w": 12.5
+    },
+    {
+     "x": 146,
+     "w": 13
+    },
+    {
+     "x": 159,
+     "w": 13
+    },
+    {
+     "x": 172,
+     "w": 12.5
+    },
+    {
+     "x": 184.5,
+     "w": 13
+    },
+    {
+     "x": 197.5,
+     "w": 12.5
+    },
+    {
+     "x": 210,
+     "w": 13
+    },
+    {
+     "x": 223,
+     "w": 13
+    },
+    {
+     "x": 236,
+     "w": 12.5
+    },
+    {
+     "x": 248.5,
+     "w": 13
+    },
+    {
+     "x": 261.5,
+     "w": 12.5
+    }
+   ],
+   "y": 421.404,
+   "h": 12.795000000000016,
+   "leftover": true,
+   "item": {
+    "label": "Location of Premises",
+    "kind": "text"
+   },
+   "key": "q_location_of_premises_2"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 17.173999999999978,
+   "y": 568.995,
+   "w": 386.6,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_2"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 25.677200000000028,
+   "y": 478.1274,
+   "w": 317.378,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Machinery",
+    "kind": "text"
+   },
+   "key": "q_machinery"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 17.173999999999978,
+   "y": 430.896,
+   "w": 386.6,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "on a regular basis?",
+    "kind": "text"
+   },
+   "key": "q_on_a_regular_basis"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 25.677200000000028,
+   "y": 321.683,
+   "w": 317.378,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Description",
+    "kind": "text"
+   },
+   "key": "q_description_3"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 25.677200000000028,
+   "y": 205.8311,
+   "w": 317.378,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Type of security device",
+    "kind": "text"
+   },
+   "key": "q_type_of_security_device"
+  },
+  {
+   "type": "text",
+   "page": 7,
+   "x": 17.173000000000002,
+   "y": 181.214,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Type of security device",
+    "kind": "text"
+   },
+   "key": "q_type_of_security_device_2"
+  },
+  {
+   "type": "text",
+   "page": 8,
+   "x": 25.173000000000002,
+   "y": 362.868,
+   "w": 369.677,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "packaging materials)",
+    "kind": "text"
+   },
+   "key": "q_packaging_materials"
+  },
+  {
+   "type": "text",
+   "page": 8,
+   "x": 25.519000000000005,
+   "y": 251.13400000000001,
+   "w": 377.835,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "separate underwriting assessment and special acceptance.)",
+    "kind": "text"
+   },
+   "key": "q_separate_underwriting_assessment_1lesbtt"
+  },
+  {
+   "type": "text",
+   "page": 8,
+   "x": 25.519000000000005,
+   "y": 50.572,
+   "w": 377.835,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "separate underwriting assessment and special acceptance.)",
+    "kind": "text"
+   },
+   "key": "q_separate_underwriting_assessment_1lesbtt_2"
+  },
+  {
+   "type": "text",
+   "page": 9,
+   "x": 98.59000000000003,
+   "y": 504.087,
+   "w": 301.176,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Bank",
+    "kind": "text"
+   },
+   "key": "q_bank"
+  },
+  {
+   "type": "text",
+   "page": 9,
+   "x": 17.447400000000002,
+   "y": 408.4811,
+   "w": 385.633,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "cancelled and the insurer shall not be liable for any claims whatsoever",
+    "kind": "text"
+   },
+   "key": "q_cancelled_and_the_insurer_shall__we8d6o"
+  },
+  {
+   "type": "text",
+   "page": 9,
+   "x": 17.673000000000002,
+   "y": 195.968,
+   "w": 385.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Date",
+    "kind": "text"
+   },
+   "key": "q_date_2"
+  },
+  {
+   "type": "text",
+   "page": 10,
+   "x": 17.173000000000002,
+   "y": 568.474,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_3"
+  },
+  {
+   "type": "text",
+   "page": 11,
+   "x": 17.173000000000002,
+   "y": 583.102,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_4"
+  },
+  {
+   "type": "text",
+   "page": 11,
+   "x": 17.173000000000002,
+   "y": 154.296,
+   "w": 386.181,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "2) Act 2023.",
+    "kind": "text"
+   },
+   "key": "q_2_act_2023"
+  }
+ ]
+}

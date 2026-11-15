@@ -1,0 +1,1255 @@
+{
+ "form": "CUSTOMER SERVICE/CONTRACTUAL CHANGES - CSD-PSF01-V11-082025.pdf",
+ "saved": "2026-11-01T19:24:50.837Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 78,
+     "w": 14.5
+    },
+    {
+     "x": 92.5,
+     "w": 14.5
+    },
+    {
+     "x": 107,
+     "w": 14
+    },
+    {
+     "x": 121,
+     "w": 14.5
+    },
+    {
+     "x": 135.5,
+     "w": 14.5
+    },
+    {
+     "x": 150,
+     "w": 14.5
+    },
+    {
+     "x": 164.5,
+     "w": 14.5
+    },
+    {
+     "x": 179,
+     "w": 14
+    },
+    {
+     "x": 193,
+     "w": 14.5
+    },
+    {
+     "x": 207.5,
+     "w": 14.5
+    }
+   ],
+   "y": 749.8403999999999,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 356.5,
+     "w": 14.5
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14
+    },
+    {
+     "x": 399.5,
+     "w": 14.5
+    },
+    {
+     "x": 414,
+     "w": 14.5
+    },
+    {
+     "x": 428.5,
+     "w": 14.5
+    },
+    {
+     "x": 457.5,
+     "w": 14
+    },
+    {
+     "x": 471.5,
+     "w": 14.5
+    },
+    {
+     "x": 500.5,
+     "w": 14.5
+    },
+    {
+     "x": 515,
+     "w": 14.5
+    },
+    {
+     "x": 529.5,
+     "w": 14
+    },
+    {
+     "x": 543.5,
+     "w": 14.5
+    }
+   ],
+   "y": 749.8403999999999,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 149.84,
+   "y": 715.3604,
+   "w": 404.31999999999994,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 3,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 235,
+     "w": 14
+    },
+    {
+     "x": 249,
+     "w": 14.5
+    },
+    {
+     "x": 278,
+     "w": 14.5
+    },
+    {
+     "x": 292.5,
+     "w": 14
+    },
+    {
+     "x": 321,
+     "w": 14.5
+    },
+    {
+     "x": 335.5,
+     "w": 14.5
+    },
+    {
+     "x": 350,
+     "w": 14.5
+    },
+    {
+     "x": 364.5,
+     "w": 14
+    }
+   ],
+   "y": 746.8403999999999,
+   "h": 15.480000000000018
+  },
+  {
+   "key": "agentName",
+   "page": 3,
+   "type": "text",
+   "x": 419.61988997795015,
+   "y": 632.6804,
+   "w": 132.98011002204987,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 3,
+   "type": "text",
+   "x": 433.03999999999996,
+   "y": 612.7604,
+   "w": 119.56000000000006,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 3,
+   "type": "text",
+   "x": 423.68,
+   "y": 593.5604,
+   "w": 128.92000000000002,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 3,
+   "type": "text",
+   "x": 70.08,
+   "y": 632.6804,
+   "w": 130.12,
+   "size": 9
+  },
+  {
+   "key": "ownerNric",
+   "page": 3,
+   "type": "text",
+   "x": 83.64,
+   "y": 612.7604,
+   "w": 116.55999999999999,
+   "size": 9
+  },
+  {
+   "key": "mobile",
+   "page": 3,
+   "type": "text",
+   "x": 74.28,
+   "y": 593.5604,
+   "w": 125.91999999999999,
+   "size": 9
+  },
+  {
+   "key": "laName",
+   "page": 3,
+   "type": "text",
+   "x": 245.64,
+   "y": 632.6804,
+   "w": 130.12,
+   "size": 9,
+   "ifDiff": "ownerName"
+  },
+  {
+   "key": "laNric",
+   "page": 3,
+   "type": "text",
+   "x": 259.2,
+   "y": 612.7604,
+   "w": 116.56,
+   "size": 9,
+   "ifDiff": "ownerNric"
+  },
+  {
+   "key": "signer1Name",
+   "page": 3,
+   "type": "text",
+   "x": 87.72,
+   "y": 295.4804,
+   "w": 105.4,
+   "size": 9
+  },
+  {
+   "key": "signer1Nric",
+   "page": 3,
+   "type": "text",
+   "x": 107.64,
+   "y": 283.9604,
+   "w": 85.48,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 3,
+   "type": "text",
+   "x": 85.2,
+   "y": 272.0804,
+   "w": 107.92,
+   "size": 9
+  },
+  {
+   "key": "signer2Name",
+   "page": 3,
+   "type": "text",
+   "x": 271.92,
+   "y": 295.7204,
+   "w": 105.88,
+   "size": 9
+  },
+  {
+   "key": "signer2Nric",
+   "page": 3,
+   "type": "text",
+   "x": 291.71999999999997,
+   "y": 283.9604,
+   "w": 86.08000000000004,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 3,
+   "type": "text",
+   "x": 268.92,
+   "y": 272.3204,
+   "w": 108.63999999999999,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 3,
+   "type": "text",
+   "x": 454.08,
+   "y": 295.7204,
+   "w": 104.80000000000001,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 3,
+   "type": "text",
+   "x": 472.44,
+   "y": 284.5604,
+   "w": 86.32,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 3,
+   "type": "text",
+   "x": 459.71999999999997,
+   "y": 272.3204,
+   "w": 99.04000000000002,
+   "size": 9
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 328,
+     "w": 14
+    },
+    {
+     "x": 342,
+     "w": 14.5
+    },
+    {
+     "x": 356.5,
+     "w": 14.5
+    },
+    {
+     "x": 371,
+     "w": 14.5
+    },
+    {
+     "x": 385.5,
+     "w": 14
+    },
+    {
+     "x": 399.5,
+     "w": 14.5
+    },
+    {
+     "x": 414,
+     "w": 14.5
+    },
+    {
+     "x": 428.5,
+     "w": 14.5
+    },
+    {
+     "x": 443,
+     "w": 14.5
+    },
+    {
+     "x": 457.5,
+     "w": 14
+    },
+    {
+     "x": 471.5,
+     "w": 14.5
+    },
+    {
+     "x": 486,
+     "w": 14.5
+    },
+    {
+     "x": 500.5,
+     "w": 14.5
+    },
+    {
+     "x": 515,
+     "w": 14.5
+    },
+    {
+     "x": 529.5,
+     "w": 14
+    },
+    {
+     "x": 543.5,
+     "w": 14.5
+    }
+   ],
+   "y": 728.6004,
+   "h": 15.719999999999914,
+   "item": {
+    "label": "Old NRIC / Birth Certificate / Passport No. (Life Assured)",
+    "kind": "text"
+   },
+   "key": "q_old_nric_birth_certificate_passp_15qlek4"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 418,
+     "w": 14.5
+    },
+    {
+     "x": 432.5,
+     "w": 14.5
+    },
+    {
+     "x": 461.5,
+     "w": 14
+    },
+    {
+     "x": 475.5,
+     "w": 14.5
+    },
+    {
+     "x": 504.5,
+     "w": 14.5
+    },
+    {
+     "x": 519,
+     "w": 14.5
+    },
+    {
+     "x": 533.5,
+     "w": 14
+    },
+    {
+     "x": 547.5,
+     "w": 14.5
+    }
+   ],
+   "y": 308.7204,
+   "h": 15.480000000000018,
+   "item": {
+    "label": "Change of Policy Commencement Date – Backdate to (date)",
+    "kind": "text"
+   },
+   "key": "q_change_of_policy_commencement_da_15uchfa"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 418,
+     "w": 14.5
+    },
+    {
+     "x": 432.5,
+     "w": 14.5
+    },
+    {
+     "x": 461.5,
+     "w": 14
+    },
+    {
+     "x": 475.5,
+     "w": 14.5
+    },
+    {
+     "x": 504.5,
+     "w": 14.5
+    },
+    {
+     "x": 519,
+     "w": 14.5
+    },
+    {
+     "x": 533.5,
+     "w": 14
+    },
+    {
+     "x": 547.5,
+     "w": 14.5
+    }
+   ],
+   "y": 284.1204,
+   "h": 15.359999999999957,
+   "item": {
+    "label": "Change of Policy Commencement Date – Redate to (date)",
+    "kind": "text"
+   },
+   "key": "q_change_of_policy_commencement_da_195k536"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 91.5,
+     "w": 14.5
+    },
+    {
+     "x": 106,
+     "w": 14.5
+    },
+    {
+     "x": 120.5,
+     "w": 14.5
+    },
+    {
+     "x": 135,
+     "w": 14.5
+    },
+    {
+     "x": 149.5,
+     "w": 14
+    },
+    {
+     "x": 163.5,
+     "w": 14.5
+    },
+    {
+     "x": 178,
+     "w": 14.5
+    },
+    {
+     "x": 192.5,
+     "w": 14.5
+    },
+    {
+     "x": 207,
+     "w": 14
+    }
+   ],
+   "y": 234.9204,
+   "h": 15.599999999999994,
+   "item": {
+    "label": "B. Car Registration No.",
+    "kind": "text"
+   },
+   "key": "q_b_car_registration_no"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 222.092,
+   "y": 502.2924,
+   "size": 6.815999999999986,
+   "when": "Annually",
+   "item": {
+    "label": "Mode of Payment",
+    "kind": "choice",
+    "options": [
+     "Annually",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_mode_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 309.342,
+   "y": 502.2924,
+   "size": 6.815999999999986,
+   "when": "Half Yearly",
+   "item": {
+    "label": "Mode of Payment",
+    "kind": "choice",
+    "options": [
+     "Annually",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_mode_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 408.842,
+   "y": 502.2924,
+   "size": 6.815999999999986,
+   "when": "Quarterly",
+   "item": {
+    "label": "Mode of Payment",
+    "kind": "choice",
+    "options": [
+     "Annually",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_mode_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 499.342,
+   "y": 502.2924,
+   "size": 6.815999999999986,
+   "when": "Monthly",
+   "item": {
+    "label": "Mode of Payment",
+    "kind": "choice",
+    "options": [
+     "Annually",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_mode_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 222.092,
+   "y": 449.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Cheque",
+   "item": {
+    "label": "Method of Payment",
+    "kind": "choice",
+    "options": [
+     "Cheque",
+     "GIRO",
+     "Credit Card",
+     "Banker's Order"
+    ]
+   },
+   "key": "q_method_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 289.342,
+   "y": 449.13239999999996,
+   "size": 6.815999999999986,
+   "when": "GIRO",
+   "item": {
+    "label": "Method of Payment",
+    "kind": "choice",
+    "options": [
+     "Cheque",
+     "GIRO",
+     "Credit Card",
+     "Banker's Order"
+    ]
+   },
+   "key": "q_method_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 347.842,
+   "y": 449.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Credit Card",
+   "item": {
+    "label": "Method of Payment",
+    "kind": "choice",
+    "options": [
+     "Cheque",
+     "GIRO",
+     "Credit Card",
+     "Banker's Order"
+    ]
+   },
+   "key": "q_method_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 430.342,
+   "y": 449.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Banker's Order",
+   "item": {
+    "label": "Method of Payment",
+    "kind": "choice",
+    "options": [
+     "Cheque",
+     "GIRO",
+     "Credit Card",
+     "Banker's Order"
+    ]
+   },
+   "key": "q_method_of_payment"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 251.168,
+   "y": 250.26839999999999,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "Partial Conversion – Balance of the Sum Assured forfeited",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_partial_conversion_balance_of_th_1ll12u6"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 251.168,
+   "y": 229.9884,
+   "size": 5.663999999999987,
+   "when": "Yes",
+   "item": {
+    "label": "Partial Conversion – Balance of the Sum Assured remains (balance forfeited if below the minimum)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_partial_conversion_balance_of_th_8ss9an"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 33.667999999999985,
+   "y": 735.7883999999999,
+   "size": 5.6640000000000335,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Sum Assured – Rider(s)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_sum_assured_rider_s"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 33.71599999999999,
+   "y": 711.5364,
+   "size": 5.56800000000003,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Sum Assured – Supplementary Benefit(s)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_sum_assured_supplem_1ts9hh5"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 33.667999999999985,
+   "y": 687.4283999999999,
+   "size": 5.6640000000000335,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Sum Assured – Reduce Basic Sum Assured",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_sum_assured_reduce__10etflp"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 551.2524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Regular Premium – Basic Investment Premium (BIP)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_regular_premium_bas_1yob1a2"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 524.6124,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Regular Premium – Great Saver Rider (GSR) with waiver",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_regular_premium_gre_18eth7z"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 498.81239999999997,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Reduction of Regular Premium – Great Saver Rider (GSR) without waiver",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_reduction_of_regular_premium_gre_z9ay0b"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 428.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Cancellation – Rider(s)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_cancellation_rider_s"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 410.8524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Cancellation – Supplementary Benefit(s)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_cancellation_supplementary_benefit_s"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 388.2924,
+   "size": 6.815999999999986,
+   "when": "Paid-Up Assurance",
+   "item": {
+    "label": "Conversion of Paid-Up Assurance / Extended Term Assurance",
+    "kind": "choice",
+    "options": [
+     "Paid-Up Assurance",
+     "Extended Term Assurance"
+    ]
+   },
+   "key": "q_conversion_of_paid_up_assurance__1f3ymah"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 366.842,
+   "y": 388.2924,
+   "size": 6.815999999999986,
+   "when": "Extended Term Assurance",
+   "item": {
+    "label": "Conversion of Paid-Up Assurance / Extended Term Assurance",
+    "kind": "choice",
+    "options": [
+     "Paid-Up Assurance",
+     "Extended Term Assurance"
+    ]
+   },
+   "key": "q_conversion_of_paid_up_assurance__1f3ymah"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.84199999999998,
+   "y": 345.3324,
+   "size": 6.816000000000031,
+   "when": "Inclusion of Vesting Clause",
+   "item": {
+    "label": "Vesting Clause",
+    "kind": "choice",
+    "options": [
+     "Inclusion of Vesting Clause",
+     "Cancellation of Vesting Clause"
+    ]
+   },
+   "key": "q_vesting_clause"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 366.842,
+   "y": 345.3324,
+   "size": 6.816000000000031,
+   "when": "Cancellation of Vesting Clause",
+   "item": {
+    "label": "Vesting Clause",
+    "kind": "choice",
+    "options": [
+     "Inclusion of Vesting Clause",
+     "Cancellation of Vesting Clause"
+    ]
+   },
+   "key": "q_vesting_clause"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 316.1724,
+   "size": 6.815999999999986,
+   "when": "Backdate to",
+   "item": {
+    "label": "Change of Policy Commencement Date",
+    "kind": "choice",
+    "options": [
+     "Backdate to",
+     "Redate to"
+    ]
+   },
+   "key": "q_change_of_policy_commencement_date"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 219.842,
+   "y": 290.9724,
+   "size": 6.815999999999986,
+   "when": "Redate to",
+   "item": {
+    "label": "Change of Policy Commencement Date",
+    "kind": "choice",
+    "options": [
+     "Backdate to",
+     "Redate to"
+    ]
+   },
+   "key": "q_change_of_policy_commencement_date"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 350,
+   "y": 500,
+   "w": 66,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Regular Premium – GSR without waiver – amount (RM) per year",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_regular_premium_gsr_1xh2a0j"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 253.32,
+   "y": 361.7204,
+   "w": 128.8,
+   "size": 9,
+   "item": {
+    "label": "Term of Assurance – From",
+    "kind": "text"
+   },
+   "key": "q_term_of_assurance_from"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 417.24,
+   "y": 361.6004,
+   "w": 128.43999999999994,
+   "size": 9,
+   "item": {
+    "label": "Term of Assurance – To",
+    "kind": "text"
+   },
+   "key": "q_term_of_assurance_to"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 253.32,
+   "y": 306.8804,
+   "w": 128.8,
+   "size": 9,
+   "item": {
+    "label": "Conversion of Rider / Term Policy – Policy No. / Rider – From",
+    "kind": "text"
+   },
+   "key": "q_conversion_of_rider_term_policy__1ppv3v6"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 456.12,
+   "y": 306.1604,
+   "w": 89.55999999999995,
+   "size": 9,
+   "item": {
+    "label": "Conversion of Rider / Term Policy – Policy No. – To",
+    "kind": "text"
+   },
+   "key": "q_conversion_of_rider_term_policy__20so0c"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 253.32,
+   "y": 284.3204,
+   "w": 128.8,
+   "size": 9,
+   "item": {
+    "label": "Conversion of Rider / Term Policy – Sum Assured – From",
+    "kind": "text"
+   },
+   "key": "q_conversion_of_rider_term_policy__1p78e98"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 417.24,
+   "y": 284.2004,
+   "w": 128.43999999999994,
+   "size": 9,
+   "item": {
+    "label": "Conversion of Rider / Term Policy – Sum Assured – To",
+    "kind": "text"
+   },
+   "key": "q_conversion_of_rider_term_policy__81o2nx"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 236.16,
+   "y": 722.5604,
+   "w": 128.79999999999998,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Rider(s) – From",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_rider_s_from"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 400.08,
+   "y": 722.5604,
+   "w": 128.32,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Rider(s) – To",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_rider_s_to"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 236.16,
+   "y": 696.7604,
+   "w": 128.79999999999998,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Supplementary Benefit(s) – From",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_supplem_5hsmbi"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 400.08,
+   "y": 696.7604,
+   "w": 128.32,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Supplementary Benefit(s) – To",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_supplem_1l52l73"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 236.16,
+   "y": 679.6004,
+   "w": 128.79999999999998,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Basic Sum Assured – From",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_basic_s_h6suyq"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 400.08,
+   "y": 679.6004,
+   "w": 128.32,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Sum Assured – Basic Sum Assured – To",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_sum_assured_basic_s_162osyb"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 350.76,
+   "y": 552.6404,
+   "w": 49.48000000000002,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Regular Premium – BIP – amount (RM) per year",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_regular_premium_bip_rpuqx8"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 367.91999999999996,
+   "y": 526.3604,
+   "w": 45.88000000000005,
+   "size": 9,
+   "item": {
+    "label": "Reduction of Regular Premium – GSR with waiver – amount (RM) per year",
+    "kind": "text"
+   },
+   "key": "q_reduction_of_regular_premium_gsr_o1udn5"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 326.52,
+   "y": 425.2004,
+   "w": 216.15999999999997,
+   "size": 9,
+   "item": {
+    "label": "Cancellation – Rider(s) – details",
+    "kind": "text"
+   },
+   "key": "q_cancellation_rider_s_details"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 326.4,
+   "y": 406.6004,
+   "w": 216.15999999999997,
+   "size": 9,
+   "item": {
+    "label": "Cancellation – Supplementary Benefit(s) – details",
+    "kind": "text"
+   },
+   "key": "q_cancellation_supplementary_benef_t4h5qv"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 46.559999999999995,
+   "y": 200.9204,
+   "w": 511,
+   "size": 9,
+   "item": {
+    "label": "C. Others (line 1)",
+    "kind": "text"
+   },
+   "key": "q_c_others_line_1"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 46.559999999999995,
+   "y": 180.1604,
+   "w": 511,
+   "size": 9,
+   "item": {
+    "label": "C. Others (line 2)",
+    "kind": "text"
+   },
+   "key": "q_c_others_line_2"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 249.84,
+   "y": 593.5604,
+   "w": 125.91999999999999,
+   "size": 9,
+   "item": {
+    "label": "Life Assured – Tel No.",
+    "kind": "text"
+   },
+   "key": "q_life_assured_tel_no"
+  }
+ ]
+}

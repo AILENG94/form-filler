@@ -1,0 +1,373 @@
+{
+ "form": "NEW BUSINESS/MEDICAL REPORT REQUEST - NBZ-FMMRF-V01-082025a.pdf",
+ "saved": "2026-11-15T13:37:13.011Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 88,
+     "w": 14.5
+    },
+    {
+     "x": 102.5,
+     "w": 14.5
+    },
+    {
+     "x": 117,
+     "w": 14.5
+    },
+    {
+     "x": 131.5,
+     "w": 14.5
+    },
+    {
+     "x": 146,
+     "w": 14.5
+    },
+    {
+     "x": 160.5,
+     "w": 14.5
+    },
+    {
+     "x": 175,
+     "w": 14.5
+    },
+    {
+     "x": 189.5,
+     "w": 15
+    },
+    {
+     "x": 204.5,
+     "w": 14.5
+    },
+    {
+     "x": 219,
+     "w": 14.5
+    }
+   ],
+   "y": 733.4004,
+   "h": 15.480000000000018
+  },
+  {
+   "key": "agentCode",
+   "page": 1,
+   "type": "text",
+   "x": 75.8,
+   "y": 310.9604,
+   "w": 286,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 229,
+     "w": 14.5
+    },
+    {
+     "x": 243.5,
+     "w": 14
+    },
+    {
+     "x": 272,
+     "w": 14.5
+    },
+    {
+     "x": 286.5,
+     "w": 14.5
+    },
+    {
+     "x": 315.5,
+     "w": 14.5
+    },
+    {
+     "x": 330,
+     "w": 14
+    },
+    {
+     "x": 344,
+     "w": 14.5
+    },
+    {
+     "x": 358.5,
+     "w": 14.5
+    }
+   ],
+   "y": 85.76016,
+   "h": 15.480000000000004
+  },
+  {
+   "key": "agentName",
+   "page": 1,
+   "type": "text",
+   "x": 365,
+   "y": 141.7604,
+   "w": 190.27999999999997,
+   "size": 9
+  },
+  {
+   "key": "agentCode",
+   "page": 1,
+   "type": "text",
+   "x": 365,
+   "y": 123.64039999999999,
+   "w": 190.27999999999997,
+   "size": 9
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 315,
+   "page": 1,
+   "key": "laName",
+   "x": 47,
+   "y": 635
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 110,
+   "page": 1,
+   "key": "laNric",
+   "x": 445,
+   "y": 635
+  },
+  {
+   "page": 1,
+   "type": "text",
+   "x": 94.8,
+   "y": 291.4004,
+   "w": 265,
+   "size": 9,
+   "key": "agentName"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 124.8,
+   "y": 271.7204,
+   "w": 235,
+   "size": 9,
+   "leftover": true,
+   "key": "agentMobile"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Policy Inforce Date",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 415,
+     "w": 14.5
+    },
+    {
+     "x": 429.5,
+     "w": 14.5
+    },
+    {
+     "x": 462,
+     "w": 14.5
+    },
+    {
+     "x": 476.5,
+     "w": 14.5
+    },
+    {
+     "x": 508,
+     "w": 14.5
+    },
+    {
+     "x": 522.5,
+     "w": 14.5
+    }
+   ],
+   "y": 733.4004,
+   "h": 15.480000000000018,
+   "key": "q_policy_inforce_date"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Branch (please indicate which branch) (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 337.44,
+   "y": 502.24039999999997,
+   "w": 139.35999999999996,
+   "size": 9,
+   "key": "q_branch_please_indicate_which_bra_84aeob"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 35.65,
+   "y": 499.1004,
+   "size": 7.2,
+   "when": "Yes",
+   "item": {
+    "label": "Hard copy (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_hard_copy_column_1_row_1"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 178.15,
+   "y": 499.1004,
+   "size": 7.2,
+   "when": "Yes",
+   "item": {
+    "label": "Branch (please indicate which branch) (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_branch_please_indicate_which_bra_120efgq"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Hard copy (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 99.5,
+     "w": 8.5
+    }
+   ],
+   "y": 498.2004,
+   "h": 9,
+   "key": "q_hard_copy_column_2_row_1"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 35.842000000000006,
+   "y": 485.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Self collection",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_self_collection"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 35.842000000000006,
+   "y": 469.1724,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "By authorised person",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_by_authorised_person"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Agent ID: (if by agent)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 121.56,
+   "y": 430.24039999999997,
+   "w": 238.24,
+   "size": 9,
+   "key": "q_agent_id_if_by_agent"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Name",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 66.84,
+   "y": 411.7604,
+   "w": 292.96000000000004,
+   "size": 9,
+   "key": "q_name"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "NRIC",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 64.8,
+   "y": 393.0404,
+   "w": 295,
+   "size": 9,
+   "key": "q_nric"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 35.842000000000006,
+   "y": 350.7324,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Soft copy: via ICM",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_soft_copy_via_icm"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "ICM No. (if any)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 109.56,
+   "y": 253.0004,
+   "w": 250.24,
+   "size": 9,
+   "key": "q_icm_no_if_any"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 86.75999999999999,
+   "y": 373.7204,
+   "w": 273.04,
+   "size": 9,
+   "item": {
+    "label": "Authorised person – Contact No.",
+    "kind": "text"
+   },
+   "key": "q_authorised_person_contact_no"
+  }
+ ]
+}

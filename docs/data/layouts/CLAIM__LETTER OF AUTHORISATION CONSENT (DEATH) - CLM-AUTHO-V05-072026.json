@@ -1,0 +1,437 @@
+{
+ "form": "CLAIM/LETTER OF AUTHORISATION CONSENT (DEATH) - CLM-AUTHO-V05-072026.pdf",
+ "saved": "2026-11-01T19:24:50.718Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 71.5,
+     "w": 14.5
+    },
+    {
+     "x": 86,
+     "w": 14.5
+    },
+    {
+     "x": 100.5,
+     "w": 14.5
+    },
+    {
+     "x": 115,
+     "w": 14.5
+    },
+    {
+     "x": 129.5,
+     "w": 14.5
+    },
+    {
+     "x": 144,
+     "w": 15
+    },
+    {
+     "x": 159,
+     "w": 14.5
+    },
+    {
+     "x": 173.5,
+     "w": 14.5
+    },
+    {
+     "x": 188,
+     "w": 14.5
+    },
+    {
+     "x": 202.5,
+     "w": 14
+    }
+   ],
+   "y": 736.1604,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 325,
+     "w": 14.5
+    },
+    {
+     "x": 339.5,
+     "w": 14.5
+    },
+    {
+     "x": 354,
+     "w": 15
+    },
+    {
+     "x": 369,
+     "w": 14.5
+    },
+    {
+     "x": 383.5,
+     "w": 14.5
+    },
+    {
+     "x": 398,
+     "w": 14
+    },
+    {
+     "x": 427,
+     "w": 14.5
+    },
+    {
+     "x": 441.5,
+     "w": 14.5
+    },
+    {
+     "x": 470.5,
+     "w": 14.5
+    },
+    {
+     "x": 485,
+     "w": 14.5
+    },
+    {
+     "x": 499.5,
+     "w": 14.5
+    },
+    {
+     "x": 514,
+     "w": 14.5
+    }
+   ],
+   "y": 736.1604,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 326,
+   "y": 687.7604,
+   "w": 231.76,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 2,
+   "type": "text",
+   "x": 311.25989620299794,
+   "y": 586.1204,
+   "w": 255.74010379700206,
+   "size": 9
+  },
+  {
+   "key": "ownerNric",
+   "page": 2,
+   "type": "text",
+   "x": 324.0999408507272,
+   "y": 560.3204,
+   "w": 242.9000591492728,
+   "size": 9
+  },
+  {
+   "key": "mobile",
+   "page": 2,
+   "type": "text",
+   "x": 331.76,
+   "y": 459.5204,
+   "w": 235.24,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 2,
+   "type": "text",
+   "x": 310.76,
+   "y": 435.8804,
+   "w": 256.24,
+   "size": 9
+  },
+  {
+   "key": "streetLine",
+   "page": 2,
+   "type": "text",
+   "x": 322,
+   "y": 503.3204,
+   "w": 243,
+   "size": 9
+  },
+  {
+   "key": "cityLine",
+   "page": 2,
+   "type": "text",
+   "x": 321.12,
+   "y": 483.5204,
+   "w": 243.88,
+   "size": 9
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "LETTER OF AUTHORISATION/CONSENT - To Obtain Further Information",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 553,
+     "w": 20
+    }
+   ],
+   "y": 800.3604,
+   "h": 19.91999999999996,
+   "key": "q_letter_of_authorisation_consent__pvveo3"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Old NRIC/Birth Certificate",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 325,
+     "w": 14.5
+    },
+    {
+     "x": 339.5,
+     "w": 14.5
+    },
+    {
+     "x": 354,
+     "w": 15
+    },
+    {
+     "x": 369,
+     "w": 14.5
+    },
+    {
+     "x": 383.5,
+     "w": 14.5
+    },
+    {
+     "x": 398,
+     "w": 14.5
+    },
+    {
+     "x": 412.5,
+     "w": 14.5
+    },
+    {
+     "x": 427,
+     "w": 14.5
+    },
+    {
+     "x": 441.5,
+     "w": 14.5
+    },
+    {
+     "x": 456,
+     "w": 14.5
+    },
+    {
+     "x": 470.5,
+     "w": 14.5
+    },
+    {
+     "x": 485,
+     "w": 14.5
+    },
+    {
+     "x": 499.5,
+     "w": 14.5
+    },
+    {
+     "x": 514,
+     "w": 14.5
+    },
+    {
+     "x": 528.5,
+     "w": 14.5
+    },
+    {
+     "x": 543,
+     "w": 14.5
+    }
+   ],
+   "y": 716.3604,
+   "h": 15.719999999999914,
+   "key": "q_old_nric_birth_certificate"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "I, the undersigned, being the next-of-kin and/ or legal representative of",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 284.76,
+   "y": 607.3604,
+   "w": 255.27999999999997,
+   "size": 9,
+   "key": "q_i_the_undersigned_being_the_next_no21uu"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Name",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 314.4,
+   "y": 342.6404,
+   "w": 250.60000000000002,
+   "size": 9,
+   "key": "q_name"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Contact No",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 330.84,
+   "y": 250.8404,
+   "w": 234.16000000000003,
+   "size": 9,
+   "key": "q_contact_no"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Date",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 312.36,
+   "y": 225.1604,
+   "w": 252.64,
+   "size": 9,
+   "key": "q_date"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 74.52,
+   "y": 718.6004,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "for Death",
+    "kind": "text"
+   },
+   "key": "q_for_death"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 74.52,
+   "y": 698.5604,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "for Death",
+    "kind": "text"
+   },
+   "key": "q_for_death_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 74.52,
+   "y": 679.7203999999999,
+   "w": 140.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "for Death",
+    "kind": "text"
+   },
+   "key": "q_for_death_3"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 336.84,
+   "y": 363.1604,
+   "w": 204.88000000000005,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "and/or its staff for the purpose of processing the death claim and/or any other insurance claim of the abovementioned policies",
+    "kind": "text"
+   },
+   "key": "q_and_or_its_staff_for_the_purpose_glql3r"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 338.28,
+   "y": 531.1604,
+   "w": 226.72000000000003,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "the Deceased",
+    "kind": "text"
+   },
+   "key": "q_the_deceased"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 324.12,
+   "y": 318.0404,
+   "w": 240.88,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "the Deceased",
+    "kind": "text"
+   },
+   "key": "q_the_deceased_2"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 339.59999999999997,
+   "y": 285.8804,
+   "w": 225.40000000000003,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "the Deceased",
+    "kind": "text"
+   },
+   "key": "q_the_deceased_3"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 283.5,
+     "w": 25.5
+    }
+   ],
+   "y": 487.7604,
+   "h": 9.120000000000005,
+   "leftover": true,
+   "item": {
+    "label": "Address",
+    "kind": "text"
+   },
+   "key": "q_address"
+  }
+ ]
+}

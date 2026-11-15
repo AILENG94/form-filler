@@ -1,0 +1,286 @@
+{
+ "form": "NEW BUSINESS/CLINICAL ABSTRACT - NBZ-FCLAA-V00-082025a (EN).pdf",
+ "saved": "2026-11-15T13:37:12.470Z",
+ "fields": [
+  {
+   "key": "proposalNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 105,
+     "w": 18
+    },
+    {
+     "x": 123,
+     "w": 18
+    },
+    {
+     "x": 141,
+     "w": 18
+    },
+    {
+     "x": 159,
+     "w": 18
+    },
+    {
+     "x": 177,
+     "w": 18
+    },
+    {
+     "x": 195,
+     "w": 18
+    },
+    {
+     "x": 213,
+     "w": 18
+    },
+    {
+     "x": 231,
+     "w": 18
+    },
+    {
+     "x": 249,
+     "w": 18
+    },
+    {
+     "x": 267,
+     "w": 18
+    }
+   ],
+   "y": 742.6404,
+   "h": 17.879999999999995
+  },
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360,
+     "w": 18
+    },
+    {
+     "x": 378,
+     "w": 18
+    },
+    {
+     "x": 396,
+     "w": 18
+    },
+    {
+     "x": 414,
+     "w": 18
+    },
+    {
+     "x": 432,
+     "w": 18
+    },
+    {
+     "x": 450,
+     "w": 18
+    },
+    {
+     "x": 468,
+     "w": 18
+    },
+    {
+     "x": 486,
+     "w": 18
+    },
+    {
+     "x": 504,
+     "w": 18
+    },
+    {
+     "x": 522,
+     "w": 18
+    }
+   ],
+   "y": 742.6404,
+   "h": 17.879999999999995
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 106.39999999999999,
+   "y": 633.4004,
+   "w": 391.36,
+   "size": 9
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "text",
+   "x": 106.39999999999999,
+   "y": 619.7204,
+   "w": 391.36,
+   "size": 9
+  },
+  {
+   "key": "address1",
+   "page": 1,
+   "type": "text",
+   "x": 106.39999999999999,
+   "y": 605.8004,
+   "w": 391.36,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 1,
+   "type": "text",
+   "x": 95.84,
+   "y": 132.6404,
+   "w": 171.99999999999997,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 1,
+   "type": "text",
+   "x": 115.75999999999999,
+   "y": 119.32016,
+   "w": 152.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "address2",
+   "page": 1,
+   "type": "text",
+   "x": 107.39999999999999,
+   "y": 592.3604,
+   "w": 388.36,
+   "size": 9
+  },
+  {
+   "key": "cityLine",
+   "page": 1,
+   "type": "text",
+   "x": 107.39999999999999,
+   "y": 578.8004,
+   "w": 388.36,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 449.76,
+   "y": 660.0404,
+   "w": 101.31999999999994,
+   "size": 9
+  },
+  {
+   "key": "agentAddress",
+   "page": 1,
+   "type": "text",
+   "x": 116.75999999999999,
+   "y": 105.76016,
+   "w": 149.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "agentAddress2",
+   "page": 1,
+   "type": "text",
+   "x": 116.75999999999999,
+   "y": 92.20016,
+   "w": 149.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "agentCityLine",
+   "page": 1,
+   "type": "text",
+   "x": 116.75999999999999,
+   "y": 79.00016,
+   "w": 149.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 1,
+   "type": "text",
+   "x": 400,
+   "y": 267.8804,
+   "w": 151.07999999999993,
+   "size": 9,
+   "ifDiff": "laName"
+  },
+  {
+   "key": "ownerNric",
+   "page": 1,
+   "type": "text",
+   "x": 400,
+   "y": 254.0804,
+   "w": 151.07999999999993,
+   "size": 9,
+   "ifDiff": "laNric"
+  },
+  {
+   "key": "parentRel",
+   "page": 1,
+   "type": "text",
+   "x": 400,
+   "y": 240.2804,
+   "w": 151.07999999999993,
+   "size": 9
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Name of Doctor",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 107.39999999999999,
+   "y": 534.5204,
+   "w": 388.36,
+   "size": 9,
+   "key": "q_name_of_doctor"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Name of Department",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 123.47999999999999,
+   "y": 520.4804,
+   "w": 372.28,
+   "size": 9,
+   "key": "q_name_of_department"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 150,
+   "y": 506.80039999999997,
+   "w": 151.47999999999996,
+   "size": 9,
+   "item": {
+    "label": "Period of treatment – From",
+    "kind": "text"
+   },
+   "key": "q_period_of_treatment_from"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 327,
+   "y": 506.68039999999996,
+   "w": 168.76,
+   "size": 9,
+   "item": {
+    "label": "Period of treatment – To",
+    "kind": "text"
+   },
+   "key": "q_period_of_treatment_to"
+  }
+ ]
+}

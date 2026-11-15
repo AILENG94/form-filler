@@ -1,0 +1,2037 @@
+{
+ "form": "CUSTOMER SERVICE/DISCHARGE VOUCHER (ILP) - CSD-PSF33-V19-092026_14SEPT.pdf",
+ "saved": "2026-11-01T19:24:51.197Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 81,
+     "w": 14.5
+    },
+    {
+     "x": 95.5,
+     "w": 14.5
+    },
+    {
+     "x": 110,
+     "w": 14.5
+    },
+    {
+     "x": 124.5,
+     "w": 14
+    },
+    {
+     "x": 138.5,
+     "w": 14.5
+    },
+    {
+     "x": 153,
+     "w": 14.5
+    },
+    {
+     "x": 167.5,
+     "w": 14.5
+    },
+    {
+     "x": 182,
+     "w": 14
+    },
+    {
+     "x": 196,
+     "w": 14.5
+    },
+    {
+     "x": 210.5,
+     "w": 14.5
+    }
+   ],
+   "y": 747.2004,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 357,
+     "w": 14.5
+    },
+    {
+     "x": 371.5,
+     "w": 14.5
+    },
+    {
+     "x": 386,
+     "w": 14.5
+    },
+    {
+     "x": 400.5,
+     "w": 14
+    },
+    {
+     "x": 414.5,
+     "w": 14.5
+    },
+    {
+     "x": 429,
+     "w": 14.5
+    },
+    {
+     "x": 458,
+     "w": 14.5
+    },
+    {
+     "x": 472.5,
+     "w": 14
+    },
+    {
+     "x": 501,
+     "w": 14.5
+    },
+    {
+     "x": 515.5,
+     "w": 14.5
+    },
+    {
+     "x": 530,
+     "w": 14
+    },
+    {
+     "x": 544,
+     "w": 14.5
+    }
+   ],
+   "y": 747.2004,
+   "h": 15.600000000000023
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 116.84001698899019,
+   "y": 721.639711344,
+   "w": 300,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 4,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 237,
+     "w": 14.5
+    },
+    {
+     "x": 251.5,
+     "w": 14
+    },
+    {
+     "x": 280,
+     "w": 14.5
+    },
+    {
+     "x": 294.5,
+     "w": 14.5
+    },
+    {
+     "x": 323.5,
+     "w": 14
+    },
+    {
+     "x": 337.5,
+     "w": 14.5
+    },
+    {
+     "x": 352,
+     "w": 14.5
+    },
+    {
+     "x": 366.5,
+     "w": 14.5
+    }
+   ],
+   "y": 490.1604,
+   "h": 15.480000000000018
+  },
+  {
+   "key": "ownerName",
+   "page": 4,
+   "type": "text",
+   "x": 102.84,
+   "y": 406.8404,
+   "w": 104.91999999999999,
+   "size": 9
+  },
+  {
+   "key": "ownerNric",
+   "page": 4,
+   "type": "text",
+   "x": 121.19999999999999,
+   "y": 394.9604,
+   "w": 86.08000000000001,
+   "size": 9
+  },
+  {
+   "key": "mobile",
+   "page": 4,
+   "type": "text",
+   "x": 108.96,
+   "y": 382.36039999999997,
+   "w": 98.8,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 4,
+   "type": "text",
+   "x": 436.8,
+   "y": 406.9604,
+   "w": 105.39999999999992,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 4,
+   "type": "text",
+   "x": 451.91999999999996,
+   "y": 395.0804,
+   "w": 90.27999999999997,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 4,
+   "type": "text",
+   "x": 443.76,
+   "y": 382.9604,
+   "w": 99.15999999999997,
+   "size": 9
+  },
+  {
+   "key": "signer1Name",
+   "page": 5,
+   "type": "text",
+   "x": 101.75999999999999,
+   "y": 581.0803999999999,
+   "w": 114.75999999999999,
+   "size": 9
+  },
+  {
+   "key": "signer1Nric",
+   "page": 5,
+   "type": "text",
+   "x": 117.83999999999999,
+   "y": 568.1204,
+   "w": 98.67999999999999,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 5,
+   "type": "text",
+   "x": 98.39999999999999,
+   "y": 555.6404,
+   "w": 118.11999999999999,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 5,
+   "type": "text",
+   "x": 433.2,
+   "y": 581.6804,
+   "w": 108.28000000000003,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 5,
+   "type": "text",
+   "x": 450.84,
+   "y": 568.3604,
+   "w": 90.64000000000004,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 5,
+   "type": "text",
+   "x": 442.56,
+   "y": 555.8804,
+   "w": 98.92000000000002,
+   "size": 9
+  },
+  {
+   "key": "signer2Name",
+   "page": 5,
+   "type": "text",
+   "x": 101.75999999999999,
+   "y": 436.36039999999997,
+   "w": 114.75999999999999,
+   "size": 9
+  },
+  {
+   "key": "signer2Nric",
+   "page": 5,
+   "type": "text",
+   "x": 117.83999999999999,
+   "y": 423.4004,
+   "w": 98.67999999999999,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 5,
+   "type": "text",
+   "x": 98.39999999999999,
+   "y": 410.9204,
+   "w": 118.11999999999999,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 5,
+   "type": "text",
+   "x": 433.2,
+   "y": 436.9604,
+   "w": 108.28000000000003,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 5,
+   "type": "text",
+   "x": 450.84,
+   "y": 423.6404,
+   "w": 90.64000000000004,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 5,
+   "type": "text",
+   "x": 442.56,
+   "y": 411.1604,
+   "w": 98.92000000000002,
+   "size": 9
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 634.5,
+   "key": "q_a_f01_lion_balanced_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 634.5,
+   "key": "q_a_f01_lion_balanced_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 613.5,
+   "key": "q_a_f02_lion_growth_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 613.5,
+   "key": "q_a_f02_lion_growth_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 591.5,
+   "key": "q_a_f03_dana_restu_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 591.5,
+   "key": "q_a_f03_dana_restu_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 567.5,
+   "key": "q_a_f04_lion_fixed_income_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 567.5,
+   "key": "q_a_f04_lion_fixed_income_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 544.5,
+   "key": "q_a_f05_lion_progressive_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 544.5,
+   "key": "q_a_f05_lion_progressive_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 521.5,
+   "key": "q_a_f06_dana_sejati_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 521.5,
+   "key": "q_a_f06_dana_sejati_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 499.5,
+   "key": "q_a_f09_lion_strategic_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 499.5,
+   "key": "q_a_f09_lion_strategic_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 477.5,
+   "key": "q_a_f21_lion_advanced_strategic_fu_1pspxwz",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 477.5,
+   "key": "q_a_f21_lion_advanced_strategic_fu_ecdvec",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 455.5,
+   "key": "q_a_f27_lion_equity_global_sustain_7salv0",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 455.5,
+   "key": "q_a_f27_lion_equity_global_sustain_q3xnhp",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 415.5,
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_1xp1crv",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 27.5,
+   "y": 415.5,
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_1ck5tt8",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 634.5,
+   "key": "q_a_f10_lion_us_i_fund_f_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 634.5,
+   "key": "q_a_f10_lion_us_i_fund_f_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 613.5,
+   "key": "q_a_f11_lion_uk_i_fund_f_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 613.5,
+   "key": "q_a_f11_lion_uk_i_fund_f_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 591.5,
+   "key": "q_a_f12_lion_au_i_fund_f_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 591.5,
+   "key": "q_a_f12_lion_au_i_fund_f_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 567.5,
+   "key": "q_a_f16_lion_asia_pac_fund_f_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 567.5,
+   "key": "q_a_f16_lion_asia_pac_fund_f_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 544.5,
+   "key": "q_a_f17_lion_enhanced_equity_fund__71mck9",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 544.5,
+   "key": "q_a_f17_lion_enhanced_equity_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 521.5,
+   "key": "q_a_f18_dana_gemilang_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 521.5,
+   "key": "q_a_f18_dana_gemilang_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 499.5,
+   "key": "q_a_f22_lion_small_mid_cap_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 499.5,
+   "key": "q_a_f22_lion_small_mid_cap_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 477.5,
+   "key": "q_a_f26_lion_asean_fund_l_amount_rm",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 477.5,
+   "key": "q_a_f26_lion_asean_fund_l_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 455.5,
+   "key": "q_a_f28_lion_physical_gold_fund_f__1i77mp1",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 2,
+   "x": 302.5,
+   "y": 455.5,
+   "key": "q_a_f28_lion_physical_gold_fund_f_units",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 561.5,
+   "key": "q_b_f01_lion_balanced_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 541.5,
+   "key": "q_b_f02_lion_growth_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 521.5,
+   "key": "q_b_f03_dana_restu_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 500.5,
+   "key": "q_b_f04_lion_fixed_income_fund_l_p_svv988",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 480.5,
+   "key": "q_b_f05_lion_progressive_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 458.5,
+   "key": "q_b_f06_dana_sejati_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 436.5,
+   "key": "q_b_f09_lion_strategic_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 413.5,
+   "key": "q_b_f21_lion_advanced_strategic_fu_1s3pj40",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 390.5,
+   "key": "q_b_f27_lion_equity_global_sustain_itnlgn",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 23.5,
+   "y": 352.5,
+   "key": "q_b_f29_lion_dividend_fund_rm_unhe_k9v62w",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 561.5,
+   "key": "q_b_f10_lion_us_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 541.5,
+   "key": "q_b_f11_lion_uk_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 521.5,
+   "key": "q_b_f12_lion_au_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 500.5,
+   "key": "q_b_f16_lion_asia_pac_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 480.5,
+   "key": "q_b_f17_lion_enhanced_equity_fund__19tb9oc",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 458.5,
+   "key": "q_b_f18_dana_gemilang_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 436.5,
+   "key": "q_b_f22_lion_small_mid_cap_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 413.5,
+   "key": "q_b_f26_lion_asean_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 3,
+   "x": 297.5,
+   "y": 390.5,
+   "key": "q_b_f28_lion_physical_gold_fund_f__1eyp88g",
+   "when": "*"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 30.198,
+   "y": 763.8084,
+   "size": 7.1039999999999965,
+   "when": "Yes",
+   "item": {
+    "label": "A. Partial Withdrawal – I would like to effect a partial withdrawal",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_a_partial_withdrawal_i_would_lik_1wx3noe"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 44.448,
+   "y": 731.2884,
+   "size": 7.1039999999999965,
+   "when": "Insurance Premium Account (IPA)",
+   "item": {
+    "label": "A. Partial Withdrawal applies to account",
+    "kind": "choice",
+    "options": [
+     "Insurance Premium Account (IPA)",
+     "Top-Up Premium Account (TUPA)",
+     "IL EduSaver (ILES)"
+    ]
+   },
+   "key": "q_a_partial_withdrawal_applies_to_account"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 44.496,
+   "y": 719.6364,
+   "size": 7.007999999999993,
+   "when": "Top-Up Premium Account (TUPA)",
+   "item": {
+    "label": "A. Partial Withdrawal applies to account",
+    "kind": "choice",
+    "options": [
+     "Insurance Premium Account (IPA)",
+     "Top-Up Premium Account (TUPA)",
+     "IL EduSaver (ILES)"
+    ]
+   },
+   "key": "q_a_partial_withdrawal_applies_to_account"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 44.448,
+   "y": 708.0084,
+   "size": 7.1039999999999965,
+   "when": "IL EduSaver (ILES)",
+   "item": {
+    "label": "A. Partial Withdrawal applies to account",
+    "kind": "choice",
+    "options": [
+     "Insurance Premium Account (IPA)",
+     "Top-Up Premium Account (TUPA)",
+     "IL EduSaver (ILES)"
+    ]
+   },
+   "key": "q_a_partial_withdrawal_applies_to_account"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 30.948,
+   "y": 163.9284,
+   "size": 7.1039999999999965,
+   "when": "Yes",
+   "item": {
+    "label": "B. Regular Partial Withdrawal – I would like to effect a regular partial withdrawal",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_i_w_y05shz"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 121.69800000000001,
+   "y": 774.4884000000001,
+   "size": 7.1039999999999965,
+   "when": "Yearly",
+   "item": {
+    "label": "B. Regular Partial Withdrawal – Withdrawal mode",
+    "kind": "choice",
+    "options": [
+     "Yearly",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_wit_1mtirn1"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 162.698,
+   "y": 774.4884000000001,
+   "size": 7.1039999999999965,
+   "when": "Half Yearly",
+   "item": {
+    "label": "B. Regular Partial Withdrawal – Withdrawal mode",
+    "kind": "choice",
+    "options": [
+     "Yearly",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_wit_1mtirn1"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 218.198,
+   "y": 774.4884000000001,
+   "size": 7.1039999999999965,
+   "when": "Quarterly",
+   "item": {
+    "label": "B. Regular Partial Withdrawal – Withdrawal mode",
+    "kind": "choice",
+    "options": [
+     "Yearly",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_wit_1mtirn1"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 271.948,
+   "y": 774.4884000000001,
+   "size": 7.1039999999999965,
+   "when": "Monthly",
+   "item": {
+    "label": "B. Regular Partial Withdrawal – Withdrawal mode",
+    "kind": "choice",
+    "options": [
+     "Yearly",
+     "Half Yearly",
+     "Quarterly",
+     "Monthly"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_wit_1mtirn1"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 48.948,
+   "y": 678.4884000000001,
+   "size": 7.1039999999999965,
+   "when": "Withdraw proportionately to total fund value of respective fund(s)",
+   "item": {
+    "label": "B. Regular Partial Withdrawal amount in the form of",
+    "kind": "choice",
+    "options": [
+     "Withdraw proportionately to total fund value of respective fund(s)",
+     "Indicate the % in the table below (Min 10%, Max 100%)"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_amo_18c8919"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 48.948,
+   "y": 656.2884,
+   "size": 7.1039999999999965,
+   "when": "Indicate the % in the table below (Min 10%, Max 100%)",
+   "item": {
+    "label": "B. Regular Partial Withdrawal amount in the form of",
+    "kind": "choice",
+    "options": [
+     "Withdraw proportionately to total fund value of respective fund(s)",
+     "Indicate the % in the table below (Min 10%, Max 100%)"
+    ]
+   },
+   "key": "q_b_regular_partial_withdrawal_amo_18c8919"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 27.448,
+   "y": 59.768159999999995,
+   "size": 7.104000000000003,
+   "when": "Yes",
+   "item": {
+    "label": "B. I would like to cancel the Regular Partial Withdrawal (RPW) feature for my policy",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_b_i_would_like_to_cancel_the_reg_10ym9h4"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 32.746,
+   "y": 766.4363999999999,
+   "size": 7.007999999999993,
+   "when": "Yes",
+   "item": {
+    "label": "C. Full Surrender – I would like to surrender my policy in full",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_full_surrender_i_would_like_to_1nfsfat"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 36.16799999999999,
+   "y": 160.5084,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Financial Difficulties",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_fina_6997ey"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 235.168,
+   "y": 160.5084,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Heavy commitments",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_heav_1w9onpn"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 356.168,
+   "y": 160.5084,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Cashing in for other investments",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_cash_2n2q7d"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 36.16799999999999,
+   "y": 127.6284,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Policy / plan not meeting insurance needs",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_poli_cc5toz"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 235.168,
+   "y": 127.6284,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Agent's service",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_agen_1aytq0c"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 356.168,
+   "y": 127.6284,
+   "size": 5.66400000000001,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Returns of Investment Funds not meeting expectations",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_retu_7vhohi"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 4,
+   "x": 36.668,
+   "y": 100.38816,
+   "size": 5.663999999999999,
+   "when": "Yes",
+   "item": {
+    "label": "C. Reason for Full Surrender – Purchase policy from another Insurance Company",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_c_reason_for_full_surrender_purc_1racma5"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 633.1,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F01 Lion Balanced Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f01_lion_balanced_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 633.1,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F01 Lion Balanced Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f01_lion_balanced_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 611.75,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F02 Lion Growth Fund* (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f02_lion_growth_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 611.75,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F02 Lion Growth Fund* (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f02_lion_growth_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 589.95,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F03 Dana Restu* (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f03_dana_restu_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 589.95,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F03 Dana Restu* (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f03_dana_restu_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 567.1,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F04 Lion Fixed Income Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f04_lion_fixed_income_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 567.1,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F04 Lion Fixed Income Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f04_lion_fixed_income_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 544,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F05 Lion Progressive Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f05_lion_progressive_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 544,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F05 Lion Progressive Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f05_lion_progressive_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 521.3499999999999,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F06 Dana Sejati (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f06_dana_sejati_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 521.3499999999999,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F06 Dana Sejati (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f06_dana_sejati_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 499.45,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F09 Lion Strategic Fund** (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f09_lion_strategic_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 499.45,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F09 Lion Strategic Fund** (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f09_lion_strategic_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 477.3,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F21 Lion Advanced Strategic Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f21_lion_advanced_strategic_fu_1pspxwz"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 477.3,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F21 Lion Advanced Strategic Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f21_lion_advanced_strategic_fu_ecdvec"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 446.3,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F27 Lion Equity Global Sustainability Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f27_lion_equity_global_sustain_7salv0"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 446.3,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F27 Lion Equity Global Sustainability Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f27_lion_equity_global_sustain_q3xnhp"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 182.9,
+   "y": 404.25,
+   "w": 56.400000000000006,
+   "size": 8.5,
+   "item": {
+    "label": "A. F29 Lion Dividend Fund (RM-Unhedged) (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_1xp1crv"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 245.3,
+   "y": 404.25,
+   "w": 49.69999999999999,
+   "size": 8.5,
+   "item": {
+    "label": "A. F29 Lion Dividend Fund (RM-Unhedged) (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_1ck5tt8"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 633.1,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F10 Lion US-i Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f10_lion_us_i_fund_f_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 633.1,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F10 Lion US-i Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f10_lion_us_i_fund_f_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 611.75,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F11 Lion UK-i Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f11_lion_uk_i_fund_f_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 611.75,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F11 Lion UK-i Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f11_lion_uk_i_fund_f_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 589.95,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F12 Lion AU-i Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f12_lion_au_i_fund_f_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 589.95,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F12 Lion AU-i Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f12_lion_au_i_fund_f_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 567.1,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F16 Lion Asia Pac Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f16_lion_asia_pac_fund_f_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 567.1,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F16 Lion Asia Pac Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f16_lion_asia_pac_fund_f_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 544,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F17 Lion Enhanced Equity Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f17_lion_enhanced_equity_fund__71mck9"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 544,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F17 Lion Enhanced Equity Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f17_lion_enhanced_equity_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 521.3499999999999,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F18 Dana Gemilang (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f18_dana_gemilang_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 521.3499999999999,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F18 Dana Gemilang (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f18_dana_gemilang_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 499.45,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F22 Lion Small Mid Cap (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f22_lion_small_mid_cap_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 499.45,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F22 Lion Small Mid Cap (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f22_lion_small_mid_cap_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 477.3,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F26 Lion ASEAN Fund (L) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f26_lion_asean_fund_l_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 477.3,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F26 Lion ASEAN Fund (L) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f26_lion_asean_fund_l_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 452.6,
+   "y": 446.3,
+   "w": 52.799999999999955,
+   "size": 8.5,
+   "item": {
+    "label": "A. F28 Lion Physical Gold Fund (F) – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_a_f28_lion_physical_gold_fund_f__1i77mp1"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 511.4,
+   "y": 446.3,
+   "w": 56.80000000000007,
+   "size": 8.5,
+   "item": {
+    "label": "A. F28 Lion Physical Gold Fund (F) – Units",
+    "kind": "text"
+   },
+   "key": "q_a_f28_lion_physical_gold_fund_f_units"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 560.5,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F01 Lion Balanced Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f01_lion_balanced_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 540.5,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F02 Lion Growth Fund* (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f02_lion_growth_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 520.5,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F03 Dana Restu* (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f03_dana_restu_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 500,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F04 Lion Fixed Income Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f04_lion_fixed_income_fund_l_p_svv988"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 479.54999999999995,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F05 Lion Progressive Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f05_lion_progressive_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 457.6,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F06 Dana Sejati (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f06_dana_sejati_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 435.35,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F09 Lion Strategic Fund** (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f09_lion_strategic_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 413.45,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F21 Lion Advanced Strategic Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f21_lion_advanced_strategic_fu_1s3pj40"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 381.95,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F27 Lion Equity Global Sustainability Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f27_lion_equity_global_sustain_itnlgn"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 178.4,
+   "y": 341.6,
+   "w": 112.4,
+   "size": 9,
+   "item": {
+    "label": "B. F29 Lion Dividend Fund (RM-Unhedged) (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f29_lion_dividend_fund_rm_unhe_k9v62w"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 560.5,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F10 Lion US-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f10_lion_us_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 540.5,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F11 Lion UK-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f11_lion_uk_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 520.5,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F12 Lion AU-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f12_lion_au_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 500,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F16 Lion Asia Pac Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f16_lion_asia_pac_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 479.54999999999995,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F17 Lion Enhanced Equity Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f17_lion_enhanced_equity_fund__19tb9oc"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 457.6,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F18 Dana Gemilang (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f18_dana_gemilang_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 435.35,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F22 Lion Small Mid Cap (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f22_lion_small_mid_cap_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 413.45,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F26 Lion ASEAN Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f26_lion_asean_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 3,
+   "x": 448.7,
+   "y": 381.95,
+   "w": 123.50000000000006,
+   "size": 9,
+   "item": {
+    "label": "B. F28 Lion Physical Gold Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_b_f28_lion_physical_gold_fund_f__1eyp88g"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 207.12,
+   "y": 127.60040000000001,
+   "w": 97.83999999999997,
+   "size": 9,
+   "item": {
+    "label": "B. Regular Partial Withdrawal amount (RM) – minimum RM100, maximum subject to availability of TIV",
+    "kind": "text"
+   },
+   "key": "q_b_regular_partial_withdrawal_amo_hm1p8x"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 190.79999999999998,
+   "y": 102.40016,
+   "w": 97.35999999999999,
+   "size": 9,
+   "item": {
+    "label": "B. Regular Partial Withdrawal tenure (years)",
+    "kind": "text"
+   },
+   "key": "q_b_regular_partial_withdrawal_ten_7ubot6"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 122.75999999999999,
+   "y": 77.44015999999999,
+   "w": 100.12,
+   "size": 9,
+   "item": {
+    "label": "B. With effect from",
+    "kind": "text"
+   },
+   "key": "q_b_with_effect_from"
+  }
+ ]
+}

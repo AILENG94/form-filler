@@ -1,0 +1,419 @@
+{
+ "form": "GENERALI/Credit Card Debit Authorisation Slip.pdf",
+ "saved": "2026-11-01T19:24:52.679Z",
+ "fields": [
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 81.23008,
+   "y": 141.2,
+   "w": 142.92991999999998,
+   "size": 9
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 340,
+   "page": 1,
+   "key": "ownerName",
+   "x": 207,
+   "y": 543
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 150,
+   "page": 1,
+   "key": "agentName",
+   "x": 147,
+   "y": 598
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 65,
+   "page": 1,
+   "key": "agentCode",
+   "x": 300,
+   "y": 598
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 185,
+   "page": 1,
+   "key": "holderName",
+   "x": 55,
+   "y": 342
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 120,
+   "page": 1,
+   "key": "policyNo",
+   "x": 436,
+   "y": 342
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 129,
+     "w": 18.5
+    }
+   ],
+   "y": 510.62,
+   "h": 12.960000000000036,
+   "key": "q_credit_card_no_column_1_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 148.5,
+     "w": 17
+    }
+   ],
+   "y": 510.62,
+   "h": 12.960000000000036,
+   "key": "q_credit_card_no_column_2_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 3, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 166.5,
+     "w": 17
+    }
+   ],
+   "y": 510.62,
+   "h": 12.960000000000036,
+   "key": "q_credit_card_no_column_3_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 4, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 184.5,
+     "w": 17
+    },
+    {
+     "x": 221.5,
+     "w": 19
+    },
+    {
+     "x": 240.5,
+     "w": 19
+    },
+    {
+     "x": 259.5,
+     "w": 19
+    },
+    {
+     "x": 278.5,
+     "w": 18
+    },
+    {
+     "x": 314,
+     "w": 18
+    },
+    {
+     "x": 332,
+     "w": 19
+    },
+    {
+     "x": 351,
+     "w": 20
+    },
+    {
+     "x": 371,
+     "w": 16.5
+    },
+    {
+     "x": 401.5,
+     "w": 17
+    },
+    {
+     "x": 418.5,
+     "w": 19.5
+    },
+    {
+     "x": 438,
+     "w": 19
+    },
+    {
+     "x": 457,
+     "w": 18
+    }
+   ],
+   "y": 510.62,
+   "h": 12.960000000000036,
+   "key": "q_credit_card_no_column_4_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 5, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 223.42,
+   "y": 508.78,
+   "w": 76.38399999999999,
+   "size": 9,
+   "key": "q_credit_card_no_column_5_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 7, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 403.49,
+   "y": 508.78,
+   "w": 100.86000000000001,
+   "size": 9,
+   "key": "q_credit_card_no_column_7_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Credit Card No (column 6, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 316.08,
+   "y": 507.82,
+   "w": 76.38400000000001,
+   "size": 9,
+   "key": "q_credit_card_no_column_6_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Visa",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 128.5,
+     "w": 18.5
+    }
+   ],
+   "y": 481.4,
+   "h": 14.75,
+   "key": "q_visa"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Master",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 224,
+     "w": 18.5
+    }
+   ],
+   "y": 481.4,
+   "h": 14.75,
+   "key": "q_master"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Expiry Date (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 349.5,
+     "w": 20
+    }
+   ],
+   "y": 481.4,
+   "h": 14.75,
+   "key": "q_expiry_date_column_1_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Expiry Date (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 370.5,
+     "w": 16.5
+    }
+   ],
+   "y": 481.4,
+   "h": 14.75,
+   "key": "q_expiry_date_column_2_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Total (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 244.54,
+   "y": 237.73,
+   "w": 81.424,
+   "size": 9,
+   "key": "q_total_column_1_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Total (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 331.44,
+   "y": 237.73,
+   "w": 98.49000000000001,
+   "size": 9,
+   "key": "q_total_column_2_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Total (column 3, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 435.41,
+   "y": 237.73,
+   "w": 122.25000000000006,
+   "size": 9,
+   "key": "q_total_column_3_row_1"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Date",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 53.3,
+   "y": 126.707,
+   "w": 315.1,
+   "size": 9,
+   "key": "q_date"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 53.4,
+   "y": 736.88,
+   "w": 59.69999999999999,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 400.85,
+   "y": 477.8,
+   "w": 95.82,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "I wish to pay my insurance premium (inclusive of all taxes) (\"Total Amount Due\") through credit card service",
+    "kind": "text"
+   },
+   "key": "q_i_wish_to_pay_my_insurance_premi_selc9i"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 53.664,
+   "y": 386.82,
+   "w": 466.55000000000007,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Card issuing bank",
+    "kind": "text"
+   },
+   "key": "q_card_issuing_bank"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 54.864,
+   "y": 237.73,
+   "w": 184.19,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Name of Insured",
+    "kind": "text"
+   },
+   "key": "q_name_of_insured"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 373.7,
+   "y": 162.85,
+   "w": 184.19,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Vehicle No: -",
+    "kind": "text"
+   },
+   "key": "q_vehicle_no"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 53.3,
+   "y": 78.61,
+   "w": 315.1,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Date",
+    "kind": "text"
+   },
+   "key": "q_date_2"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "form": "GROUP/CHANGE OF SIGNATURE (GROUP MBS SCHEME)_GMBS-CSIGN-V03-102025.pdf",
+ "saved": "2026-11-01T19:24:53.663Z",
+ "fields": [
+  {
+   "key": "ownerName",
+   "page": 1,
+   "type": "text",
+   "x": 127.52,
+   "y": 612.5204,
+   "w": 182.56,
+   "size": 9
+  },
+  {
+   "key": "ownerNric",
+   "page": 1,
+   "type": "text",
+   "x": 77.36,
+   "y": 587.0803999999999,
+   "w": 231.51999999999998,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 1,
+   "type": "text",
+   "x": 64.52,
+   "y": 560.9204,
+   "w": 245.56,
+   "size": 9
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 163.92,
+   "y": 454.24039999999997,
+   "w": 97.47999999999999,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "posted at greateasternlife.com, or obtain a copy from our Customer Service Officer",
+    "kind": "text"
+   },
+   "key": "q_posted_at_greateasternlife_com_o_xjldsb"
+  }
+ ]
+}

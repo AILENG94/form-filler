@@ -1,0 +1,8 @@
+node_modules/
+# personal / local-only (never published)
+public/agent-defaults.js
+policy-file.txt
+*.xlsx
+eng.traineddata
+review/
+.claude/

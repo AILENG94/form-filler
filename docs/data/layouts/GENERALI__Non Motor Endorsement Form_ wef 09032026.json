@@ -1,0 +1,520 @@
+{
+ "form": "GENERALI/Non Motor Endorsement Form_ wef 09032026.pdf",
+ "saved": "2026-11-01T19:24:53.603Z",
+ "fields": [
+  {
+   "key": "email",
+   "page": 1,
+   "type": "text",
+   "x": 108.02347999999996,
+   "y": 45.264,
+   "w": 288.04652000000004,
+   "size": 9
+  },
+  {
+   "key": "holderName",
+   "page": 1,
+   "type": "text",
+   "x": 202,
+   "y": 134.44,
+   "w": 157.5,
+   "size": 9
+  },
+  {
+   "key": "mobile",
+   "page": 1,
+   "type": "text",
+   "x": 203,
+   "y": 72.491,
+   "w": 157,
+   "size": 9
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 118,
+   "page": 1,
+   "key": "signDate",
+   "x": 76,
+   "y": 639
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 130,
+   "page": 1,
+   "key": "policyNo",
+   "x": 440,
+   "y": 639
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 400,
+   "page": 1,
+   "key": "holderName",
+   "x": 170,
+   "y": 616
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 152,
+   "page": 1,
+   "key": "holderId",
+   "x": 170,
+   "y": 593
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 445,
+   "page": 1,
+   "key": "bankName",
+   "x": 125,
+   "y": 412
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 445,
+   "page": 1,
+   "key": "bankAccNo",
+   "x": 125,
+   "y": 387
+  },
+  {
+   "type": "text",
+   "size": 9,
+   "w": 350,
+   "page": 1,
+   "key": "email",
+   "x": 221,
+   "y": 361
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Tarikh",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 39.84,
+   "y": 619.52,
+   "w": 112.35999999999999,
+   "size": 9,
+   "key": "q_tarikh"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "JAWATAN",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 202.5,
+   "y": 104.5,
+   "w": 156.5,
+   "size": 9,
+   "key": "q_jawatan"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Credit Card No (column 1, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 103,
+     "w": 17
+    },
+    {
+     "x": 120,
+     "w": 17
+    },
+    {
+     "x": 137,
+     "w": 17
+    },
+    {
+     "x": 154,
+     "w": 17
+    }
+   ],
+   "y": 475.03,
+   "h": 15.480000000000018,
+   "key": "q_credit_card_no_column_1_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Credit Card No (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 182,
+     "w": 17
+    },
+    {
+     "x": 199,
+     "w": 17
+    },
+    {
+     "x": 216,
+     "w": 17
+    },
+    {
+     "x": 233,
+     "w": 17
+    }
+   ],
+   "y": 475.03,
+   "h": 15.480000000000018,
+   "key": "q_credit_card_no_column_2_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Credit Card No (column 3, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 261,
+     "w": 17
+    },
+    {
+     "x": 278,
+     "w": 17
+    },
+    {
+     "x": 295,
+     "w": 17
+    },
+    {
+     "x": 312,
+     "w": 17
+    }
+   ],
+   "y": 475.03,
+   "h": 15.480000000000018,
+   "key": "q_credit_card_no_column_3_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Credit Card No (column 4, row 1)",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 340,
+     "w": 17
+    },
+    {
+     "x": 357,
+     "w": 17
+    },
+    {
+     "x": 374,
+     "w": 17
+    },
+    {
+     "x": 391,
+     "w": 17
+    }
+   ],
+   "y": 475.03,
+   "h": 15.480000000000018,
+   "key": "q_credit_card_no_column_4_row_1"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Expiry Date",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 470.5,
+     "w": 17
+    },
+    {
+     "x": 487.5,
+     "w": 17
+    },
+    {
+     "x": 504.5,
+     "w": 17
+    },
+    {
+     "x": 521.5,
+     "w": 17
+    },
+    {
+     "x": 538.5,
+     "w": 17
+    }
+   ],
+   "y": 475.03,
+   "h": 15.480000000000018,
+   "key": "q_expiry_date"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Issuing Bank",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 419.38,
+   "y": 435.9,
+   "w": 102.60000000000002,
+   "size": 9,
+   "key": "q_issuing_bank"
+  },
+  {
+   "page": 2,
+   "item": {
+    "label": "Mastercard",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 273.5,
+     "w": 17.5
+    }
+   ],
+   "y": 433.9,
+   "h": 15.744000000000028,
+   "key": "q_mastercard"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 336.96,
+   "y": 594.44,
+   "w": 149.2,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 187.2,
+   "y": 544.4,
+   "w": 57.28,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_2"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 342.84,
+   "y": 544.4,
+   "w": 54.639999999999986,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_3"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 60.6,
+   "y": 535.16,
+   "w": 53.43999999999999,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_4"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 508.08,
+   "y": 534.68,
+   "w": 43.35999999999996,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_5"
+  },
+  {
+   "type": "text",
+   "page": 1,
+   "x": 39.96,
+   "y": 406.52,
+   "w": 59.79999999999998,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "For the above option selected, please attach the relevant supporting documents for the chosen endorsement to avoid delay",
+    "kind": "text"
+   },
+   "key": "q_for_the_above_option_selected_pl_1xu3nhy"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 37,
+     "w": 27.5
+    }
+   ],
+   "y": 640.08,
+   "h": 10.200000000000045,
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Blank",
+    "kind": "text"
+   },
+   "key": "q_unnamed_blank_6"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 262.352,
+   "y": 545.2320000000001,
+   "size": 7.296000000000004,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Tick box",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_unnamed_tick_box"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 42.25,
+   "y": 536.6099999999999,
+   "size": 9,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Tick box",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_unnamed_tick_box_2"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 167.5,
+   "y": 536.6099999999999,
+   "size": 9,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Tick box",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_unnamed_tick_box_2"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 323.25,
+   "y": 536.6099999999999,
+   "size": 9,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Tick box",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_unnamed_tick_box_2"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 487,
+   "y": 536.6099999999999,
+   "size": 9,
+   "when": "Yes",
+   "leftover": true,
+   "item": {
+    "label": "#UNNAMED#Tick box",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_unnamed_tick_box_2"
+  },
+  {
+   "type": "text",
+   "page": 2,
+   "x": 156.62,
+   "y": 404.91,
+   "w": 102.42000000000002,
+   "size": 9,
+   "leftover": true,
+   "item": {
+    "label": "Total amount to be debited",
+    "kind": "text"
+   },
+   "key": "q_total_amount_to_be_debited"
+  },
+  {
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 189.5,
+     "w": 17.5
+    }
+   ],
+   "y": 433.9,
+   "h": 15.744000000000028,
+   "leftover": true,
+   "item": {
+    "label": "PART 3",
+    "kind": "text"
+   },
+   "key": "q_part_3"
+  }
+ ]
+}

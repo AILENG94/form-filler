@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Form Filler</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="logo">FF</span><div><b>Form Filler</b><small>Auto-fill insurance forms from customer details</small></div></div>
+</header>
+
+<main class="layout no-preview" id="layout">
+  <aside class="sidebar">
+    <div class="cats">
+      <label for="cats">Form type</label>
+      <select id="cats"></select>
+    </div>
+    <div class="cats">
+      <label for="formSelect">Form</label>
+      <select id="formSelect"></select>
+    </div>
+  </aside>
+
+  <section class="panel">
+    <div class="toolbar">
+      <div class="title"><b id="formTitle">Choose a form</b></div>
+      <div class="tools">
+        <label class="check"><input type="checkbox" id="upper" checked> BLOCK CAPITALS</label>
+        <button id="previewToggle" class="ghost" disabled>Show form preview</button>
+        <button id="download" class="primary" disabled>Download filled PDF</button>
+      </div>
+    </div>
+    <div class="tab-body" id="tab-customer">
+      <div class="lookup">
+        <label for="lookupNo"><b>Retrieve from policy summary</b></label>
+        <div class="with-btn">
+          <input id="lookupNo" inputmode="numeric" placeholder="Policy No., e.g. 1032466327">
+          <button id="lookupBtn" type="button" class="primary">Retrieve</button>
+        </div>
+        <div class="upload-status" id="lookupStatus" aria-live="polite"></div>
+      </div>
+      <label class="drop" id="drop">
+        <input type="file" id="uploadFile" accept="image/*,.pdf,application/pdf" hidden>
+        <b>Upload customer details</b>
+        <span>Picture (IC, form, screenshot) or PDF — click, drag here, or Ctrl+V a screenshot</span>
+        <small>Read on this computer only; nothing is uploaded online.</small>
+      </label>
+      <div class="upload-status" id="uploadStatus" aria-live="polite"></div>
+      <details class="paste" open>
+        <summary>Paste or check details</summary>
+        <textarea id="pasteBox" rows="5" placeholder="Name: Tan Mei Ling&#10;NRIC: 900101-07-1234&#10;Mobile: 012-345 6789&#10;Policy No: 0123456789"></textarea>
+        <button id="pasteApply" class="primary">Populate details</button>
+      </details>
+      <form id="fields" class="fields" autocomplete="off">
+        <div class="empty"><h2>Choose a form type and form on the left</h2><p>The details and questions that form asks for will appear here, in the same order as the form.</p></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="viewer">
+    <div class="toolbar">
+      <div class="title"><b>Form preview</b></div>
+      <div class="tools">
+        <button id="zoomOut" class="ghost" title="Zoom out">−</button>
+        <span id="zoomLabel">100%</span>
+        <button id="zoomIn" class="ghost" title="Zoom in">+</button>
+      </div>
+    </div>
+    <div class="pages" id="pages"></div>
+  </section>
+</main>
+<div class="toast" id="toast" role="status"></div>
+<script src="mode.js"></script>
+<script type="module" src="app.js"></script>
+</body>
+</html>

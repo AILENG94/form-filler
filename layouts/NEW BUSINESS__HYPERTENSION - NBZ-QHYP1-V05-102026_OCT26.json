@@ -1,0 +1,757 @@
+{
+ "form": "NEW BUSINESS/HYPERTENSION - NBZ-QHYP1-V05-102026_OCT26.pdf",
+ "saved": "2026-11-01T19:24:54.682Z",
+ "fields": [
+  {
+   "key": "proposalNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 76,
+     "w": 14.5
+    },
+    {
+     "x": 90.5,
+     "w": 14.5
+    },
+    {
+     "x": 105,
+     "w": 14.5
+    },
+    {
+     "x": 119.5,
+     "w": 14
+    },
+    {
+     "x": 133.5,
+     "w": 14.5
+    },
+    {
+     "x": 148,
+     "w": 14.5
+    },
+    {
+     "x": 162.5,
+     "w": 14.5
+    },
+    {
+     "x": 177,
+     "w": 14.5
+    },
+    {
+     "x": 191.5,
+     "w": 14
+    },
+    {
+     "x": 205.5,
+     "w": 14.5
+    }
+   ],
+   "y": 743.0004,
+   "h": 15.719999999999914
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 329.5,
+     "w": 14.5
+    },
+    {
+     "x": 344,
+     "w": 14
+    },
+    {
+     "x": 358,
+     "w": 14.5
+    },
+    {
+     "x": 372.5,
+     "w": 14.5
+    },
+    {
+     "x": 387,
+     "w": 14.5
+    },
+    {
+     "x": 401.5,
+     "w": 14
+    },
+    {
+     "x": 430,
+     "w": 14.5
+    },
+    {
+     "x": 444.5,
+     "w": 14.5
+    },
+    {
+     "x": 473.5,
+     "w": 14
+    },
+    {
+     "x": 487.5,
+     "w": 14.5
+    },
+    {
+     "x": 502,
+     "w": 14.5
+    },
+    {
+     "x": 516.5,
+     "w": 14.5
+    }
+   ],
+   "y": 743.0004,
+   "h": 15.719999999999914
+  },
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 76,
+     "w": 14.5
+    },
+    {
+     "x": 90.5,
+     "w": 14.5
+    },
+    {
+     "x": 105,
+     "w": 14.5
+    },
+    {
+     "x": 119.5,
+     "w": 14
+    },
+    {
+     "x": 133.5,
+     "w": 14.5
+    },
+    {
+     "x": 148,
+     "w": 14.5
+    },
+    {
+     "x": 162.5,
+     "w": 14.5
+    },
+    {
+     "x": 177,
+     "w": 14.5
+    },
+    {
+     "x": 191.5,
+     "w": 14
+    },
+    {
+     "x": 205.5,
+     "w": 14.5
+    }
+   ],
+   "y": 721.4004,
+   "h": 15.720000000000027
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 132.22005174810187,
+   "y": 534.1604,
+   "w": 424.9399482518981,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 2,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 231,
+     "w": 14.5
+    },
+    {
+     "x": 245.5,
+     "w": 14.5
+    },
+    {
+     "x": 274.5,
+     "w": 14
+    },
+    {
+     "x": 288.5,
+     "w": 14.5
+    },
+    {
+     "x": 317.5,
+     "w": 14.5
+    },
+    {
+     "x": 332,
+     "w": 14.5
+    },
+    {
+     "x": 346.5,
+     "w": 14
+    },
+    {
+     "x": 360.5,
+     "w": 14.5
+    }
+   ],
+   "y": 695.0004,
+   "h": 15.240000000000009
+  },
+  {
+   "key": "agentName",
+   "page": 2,
+   "type": "text",
+   "x": 384.2199038697105,
+   "y": 564.7604,
+   "w": 148.70009613028947,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 2,
+   "type": "text",
+   "x": 397.1799191109728,
+   "y": 545.0803999999999,
+   "w": 135.74008088902718,
+   "size": 9
+  },
+  {
+   "key": "laAge",
+   "page": 1,
+   "type": "text",
+   "x": 72,
+   "y": 518.0803999999999,
+   "w": 98.32,
+   "size": 9
+  },
+  {
+   "key": "laGender",
+   "when": "Male",
+   "page": 1,
+   "type": "check",
+   "x": 252.15,
+   "y": 515.3004,
+   "size": 7.2
+  },
+  {
+   "key": "laGender",
+   "when": "Female",
+   "page": 1,
+   "type": "check",
+   "x": 311.15,
+   "y": 515.3004,
+   "size": 7.2
+  },
+  {
+   "page": 2,
+   "type": "text",
+   "x": 395.15999999999997,
+   "y": 525.0404,
+   "w": 135.76,
+   "size": 9,
+   "key": "agentAddress"
+  },
+  {
+   "page": 2,
+   "type": "text",
+   "x": 395.15999999999997,
+   "y": 504.8804,
+   "w": 135.76,
+   "size": 9,
+   "key": "agentAddress2"
+  },
+  {
+   "page": 2,
+   "type": "text",
+   "x": 395.15999999999997,
+   "y": 483.6404,
+   "w": 135.76,
+   "size": 9,
+   "key": "agentCityLine"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Old NRIC/BC/Passport No",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 329.5,
+     "w": 14.5
+    },
+    {
+     "x": 344,
+     "w": 14
+    },
+    {
+     "x": 358,
+     "w": 14.5
+    },
+    {
+     "x": 372.5,
+     "w": 14.5
+    },
+    {
+     "x": 387,
+     "w": 14.5
+    },
+    {
+     "x": 401.5,
+     "w": 14.5
+    },
+    {
+     "x": 416,
+     "w": 14
+    },
+    {
+     "x": 430,
+     "w": 14.5
+    },
+    {
+     "x": 444.5,
+     "w": 14.5
+    },
+    {
+     "x": 459,
+     "w": 14.5
+    },
+    {
+     "x": 473.5,
+     "w": 14
+    },
+    {
+     "x": 487.5,
+     "w": 14.5
+    },
+    {
+     "x": 502,
+     "w": 14.5
+    },
+    {
+     "x": 516.5,
+     "w": 14.5
+    },
+    {
+     "x": 531,
+     "w": 14.5
+    },
+    {
+     "x": 545.5,
+     "w": 14
+    }
+   ],
+   "y": 721.4004,
+   "h": 15.720000000000027,
+   "key": "q_old_nric_bc_passport_no"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "Age hypertension was first diagnosed or elevated blood pressure reading was first noticed",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 444.5,
+     "w": 14.5
+    },
+    {
+     "x": 459,
+     "w": 14.5
+    }
+   ],
+   "y": 474.5604,
+   "h": 15.599999999999966,
+   "key": "q_age_hypertension_was_first_diagn_b1jcnj"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 445.342,
+   "y": 457.2924,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Was hypertension diagnosed or elevated blood pressure reading first noticed within 3 months? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_hypertension_diagnosed_or_el_1ehpns2"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 504.842,
+   "y": 457.2924,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Was hypertension diagnosed or elevated blood pressure reading first noticed within 3 months? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_was_hypertension_diagnosed_or_el_kllmzn"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 38.842000000000006,
+   "y": 410.7324,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "My blood pressure has been well controlled (≤140/90 mmHg) when checked",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_my_blood_pressure_has_been_well__u9fqlx"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 38.841999999999985,
+   "y": 387.4524,
+   "size": 6.816000000000031,
+   "when": "Yes",
+   "item": {
+    "label": "My blood pressure has sometimes been slightly high (above 140/90 mmHg up to 159/99 mmHg), but I have never had a reading at or (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_my_blood_pressure_has_sometimes__1w6yabn"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "My blood pressure has sometimes been slightly high (above 140/90 mmHg up to 159/99 mmHg), but I have never had a reading at or (column 2, row 1)",
+    "kind": "text"
+   },
+   "type": "text",
+   "x": 54.239999999999995,
+   "y": 379.36039999999997,
+   "w": 76.72000000000001,
+   "size": 9,
+   "key": "q_my_blood_pressure_has_sometimes__12au9j8"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 38.889999999999986,
+   "y": 357.44039999999995,
+   "size": 6.720000000000027,
+   "when": "Yes",
+   "item": {
+    "label": "I have had at least one reading at or above 160/100 mmHg",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_have_had_at_least_one_reading__17sayqp"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 38.842000000000006,
+   "y": 335.7324,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "I have not been checking my blood pressure regularly (no reading in the past 6 months)",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_i_have_not_been_checking_my_bloo_np7gbp"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 445.342,
+   "y": 302.37239999999997,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "(i) Are you currently on medication for hypertension or high blood pressure? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_i_are_you_currently_on_medicatio_r4mh34"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 504.842,
+   "y": 302.37239999999997,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "(i) Are you currently on medication for hypertension or high blood pressure? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_i_are_you_currently_on_medicatio_1w9mi9t"
+  },
+  {
+   "page": 1,
+   "item": {
+    "label": "How many types of medication are you taking for hypertension or high blood pressure?",
+    "kind": "text"
+   },
+   "type": "comb",
+   "cells": [
+    {
+     "x": 444.5,
+     "w": 14.5
+    }
+   ],
+   "y": 271.2804,
+   "h": 15.600000000000023,
+   "key": "q_how_many_types_of_medication_are_1o0483j"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 445.39,
+   "y": 241.1604,
+   "size": 6.720000000000005,
+   "when": "Yes",
+   "item": {
+    "label": "Has your medication or dosage increased to improve control of your blood pressure within the last 6 months? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_has_your_medication_or_dosage_in_11i4m6g"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 504.89,
+   "y": 241.1604,
+   "size": 6.720000000000005,
+   "when": "No",
+   "item": {
+    "label": "Has your medication or dosage increased to improve control of your blood pressure within the last 6 months? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_has_your_medication_or_dosage_in_7m0le1"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 445.342,
+   "y": 207.4524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Have you ever been admitted to hospital for treatment of hypertension or high blood pressure? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_have_you_ever_been_admitted_to_h_1i81he4"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 504.842,
+   "y": 207.4524,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Have you ever been admitted to hospital for treatment of hypertension or high blood pressure? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_have_you_ever_been_admitted_to_h_obxglp"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 445.342,
+   "y": 177.57240000000002,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "Have you ever been told of any complications caused by your hypertension? (column 1, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_have_you_ever_been_told_of_any_c_14z6p13"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 504.842,
+   "y": 177.57240000000002,
+   "size": 6.815999999999986,
+   "when": "No",
+   "item": {
+    "label": "Have you ever been told of any complications caused by your hypertension? (column 2, row 1)",
+    "kind": "choice",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   "key": "q_have_you_ever_been_told_of_any_c_b32o8o"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 58.342,
+   "y": 135.9324,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "Heart",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_heart"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 320.842,
+   "y": 135.9324,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "Eyes",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_eyes"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 58.342,
+   "y": 111.93216,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "Brain",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_brain"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 320.842,
+   "y": 111.93216,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "Others",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_others"
+  },
+  {
+   "type": "check",
+   "page": 1,
+   "x": 58.39,
+   "y": 87.92016,
+   "size": 6.720000000000005,
+   "when": "Yes",
+   "item": {
+    "label": "Kidney",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_kidney"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 364.32,
+   "y": 114.16015999999999,
+   "w": 91,
+   "size": 9,
+   "item": {
+    "label": "Others (complications – please state)",
+    "kind": "text"
+   },
+   "key": "q_others_complications_please_state"
+  },
+  {
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 28,
+     "w": 16.5
+    }
+   ],
+   "y": 514.4004,
+   "h": 9,
+   "leftover": true,
+   "item": {
+    "label": "Name of Life to be Assured",
+    "kind": "text"
+   },
+   "key": "q_name_of_life_to_be_assured"
+  }
+ ]
+}

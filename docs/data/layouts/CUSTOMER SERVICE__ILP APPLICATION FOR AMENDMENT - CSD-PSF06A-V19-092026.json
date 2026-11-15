@@ -1,0 +1,2492 @@
+{
+ "form": "CUSTOMER SERVICE/ILP APPLICATION FOR AMENDMENT - CSD-PSF06A-V19-092026.pdf",
+ "saved": "2026-11-01T19:24:52.259Z",
+ "fields": [
+  {
+   "key": "policyNo",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 80.5,
+     "w": 14.5
+    },
+    {
+     "x": 95,
+     "w": 14
+    },
+    {
+     "x": 109,
+     "w": 14.5
+    },
+    {
+     "x": 123.5,
+     "w": 14.5
+    },
+    {
+     "x": 138,
+     "w": 14.5
+    },
+    {
+     "x": 152.5,
+     "w": 14.5
+    },
+    {
+     "x": 167,
+     "w": 14
+    },
+    {
+     "x": 181,
+     "w": 14.5
+    },
+    {
+     "x": 195.5,
+     "w": 14.5
+    },
+    {
+     "x": 210,
+     "w": 14
+    }
+   ],
+   "y": 761.3604,
+   "h": 15.3599999999999
+  },
+  {
+   "key": "laNric",
+   "page": 1,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 360,
+     "w": 14.5
+    },
+    {
+     "x": 374.5,
+     "w": 14.5
+    },
+    {
+     "x": 389,
+     "w": 14.5
+    },
+    {
+     "x": 403.5,
+     "w": 14
+    },
+    {
+     "x": 417.5,
+     "w": 14.5
+    },
+    {
+     "x": 432,
+     "w": 14.5
+    },
+    {
+     "x": 461,
+     "w": 14.5
+    },
+    {
+     "x": 475.5,
+     "w": 14
+    },
+    {
+     "x": 504,
+     "w": 14.5
+    },
+    {
+     "x": 518.5,
+     "w": 14.5
+    },
+    {
+     "x": 533,
+     "w": 14.5
+    },
+    {
+     "x": 547.5,
+     "w": 14
+    }
+   ],
+   "y": 761.3604,
+   "h": 15.3599999999999
+  },
+  {
+   "key": "laName",
+   "page": 1,
+   "type": "text",
+   "x": 116.6000464209421,
+   "y": 730.039707984,
+   "w": 300,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 4,
+   "type": "comb",
+   "cells": [
+    {
+     "x": 232.5,
+     "w": 14.5
+    },
+    {
+     "x": 247,
+     "w": 14
+    },
+    {
+     "x": 276,
+     "w": 14
+    },
+    {
+     "x": 290,
+     "w": 14.5
+    },
+    {
+     "x": 319,
+     "w": 14.5
+    },
+    {
+     "x": 333.5,
+     "w": 14.5
+    },
+    {
+     "x": 348,
+     "w": 14
+    },
+    {
+     "x": 362,
+     "w": 14.5
+    }
+   ],
+   "y": 762.5604,
+   "h": 15.360000000000014
+  },
+  {
+   "key": "agentNric",
+   "page": 4,
+   "type": "text",
+   "x": 438.3398580357748,
+   "y": 669.5204,
+   "w": 118.70014196422517,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 4,
+   "type": "text",
+   "x": 435.91999999999996,
+   "y": 654.0404,
+   "w": 121.12,
+   "size": 9
+  },
+  {
+   "key": "ownerName",
+   "page": 4,
+   "type": "text",
+   "x": 88.92,
+   "y": 685.1204,
+   "w": 104.08,
+   "size": 9
+  },
+  {
+   "key": "ownerNric",
+   "page": 4,
+   "type": "text",
+   "x": 76.2,
+   "y": 669.5204,
+   "w": 116.8,
+   "size": 9
+  },
+  {
+   "key": "mobile",
+   "page": 4,
+   "type": "text",
+   "x": 74.88,
+   "y": 654.0404,
+   "w": 118.12,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 4,
+   "type": "text",
+   "x": 450.96,
+   "y": 685.1204,
+   "w": 104.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "signer1Name",
+   "page": 4,
+   "type": "text",
+   "x": 87.36,
+   "y": 244.8404,
+   "w": 104.08,
+   "size": 9
+  },
+  {
+   "key": "signer1Nric",
+   "page": 4,
+   "type": "text",
+   "x": 74.52,
+   "y": 229.2404,
+   "w": 116.92,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 4,
+   "type": "text",
+   "x": 84.72,
+   "y": 213.28040000000001,
+   "w": 106.72,
+   "size": 9
+  },
+  {
+   "key": "signer2Name",
+   "page": 4,
+   "type": "text",
+   "x": 271.32,
+   "y": 244.8404,
+   "w": 104.07999999999998,
+   "size": 9
+  },
+  {
+   "key": "signer2Nric",
+   "page": 4,
+   "type": "text",
+   "x": 258.6,
+   "y": 229.2404,
+   "w": 116.79999999999995,
+   "size": 9
+  },
+  {
+   "key": "signDate",
+   "page": 4,
+   "type": "text",
+   "x": 268.68,
+   "y": 213.28040000000001,
+   "w": 106.71999999999997,
+   "size": 9
+  },
+  {
+   "key": "agentName",
+   "page": 4,
+   "type": "text",
+   "x": 451.91999999999996,
+   "y": 245.4404,
+   "w": 104.08000000000004,
+   "size": 9
+  },
+  {
+   "key": "agentNric",
+   "page": 4,
+   "type": "text",
+   "x": 439.08,
+   "y": 229.8404,
+   "w": 116.92000000000002,
+   "size": 9
+  },
+  {
+   "key": "agentMobile",
+   "page": 4,
+   "type": "text",
+   "x": 437.88,
+   "y": 214.3604,
+   "w": 118.12,
+   "size": 9
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 495.45,
+   "key": "q_a_f01_lion_balanced_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 475.85,
+   "key": "q_a_f02_lion_growth_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 456.95,
+   "key": "q_a_f03_dana_restu_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 438.35,
+   "key": "q_a_f04_lion_fixed_income_fund_l_p_wv2v6h",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 419.05,
+   "key": "q_a_f05_lion_progressive_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 399.5,
+   "key": "q_a_f06_dana_sejati_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 379.7,
+   "key": "q_a_f09_lion_strategic_fund_l_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 359.9,
+   "key": "q_a_f21_lion_advanced_strategic_fu_1rrlmox",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 340.1,
+   "key": "q_a_f27_lion_equity_global_sustain_1oe3xag",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 9,
+   "page": 1,
+   "x": 66,
+   "y": 320.3,
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_ils9wp",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 495.7,
+   "key": "q_a_f10_lion_us_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 476.1,
+   "key": "q_a_f11_lion_uk_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 457.2,
+   "key": "q_a_f12_lion_au_i_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 438.6,
+   "key": "q_a_f16_lion_asia_pac_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 419.3,
+   "key": "q_a_f17_lion_enhanced_equity_fund__je5sqd",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 399.75,
+   "key": "q_a_f18_dana_gemilang_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 379.95,
+   "key": "q_a_f22_lion_small_mid_cap_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 360.15,
+   "key": "q_a_f26_lion_asean_fund_f_percentage",
+   "when": "*"
+  },
+  {
+   "type": "check",
+   "size": 8.5,
+   "page": 1,
+   "x": 305,
+   "y": 340.35,
+   "key": "q_a_f28_lion_physical_gold_fund_f__w810rz",
+   "when": "*"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 1,
+   "cells": [
+    {
+     "x": 331.5,
+     "w": 14
+    },
+    {
+     "x": 345.5,
+     "w": 14.5
+    },
+    {
+     "x": 360,
+     "w": 14.5
+    },
+    {
+     "x": 374.5,
+     "w": 14.5
+    },
+    {
+     "x": 389,
+     "w": 14.5
+    },
+    {
+     "x": 403.5,
+     "w": 14
+    },
+    {
+     "x": 417.5,
+     "w": 14.5
+    },
+    {
+     "x": 432,
+     "w": 14.5
+    },
+    {
+     "x": 446.5,
+     "w": 14.5
+    },
+    {
+     "x": 461,
+     "w": 14.5
+    },
+    {
+     "x": 475.5,
+     "w": 14
+    },
+    {
+     "x": 489.5,
+     "w": 14.5
+    },
+    {
+     "x": 504,
+     "w": 14.5
+    },
+    {
+     "x": 518.5,
+     "w": 14.5
+    },
+    {
+     "x": 533,
+     "w": 14.5
+    },
+    {
+     "x": 547.5,
+     "w": 14
+    }
+   ],
+   "y": 739.0404,
+   "h": 15.600000000000023,
+   "item": {
+    "label": "Old NRIC / BC / Passport No. (Life Assured)",
+    "kind": "text"
+   },
+   "key": "q_old_nric_bc_passport_no_life_assured"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 60,
+     "w": 14
+    },
+    {
+     "x": 74,
+     "w": 14
+    }
+   ],
+   "y": 661.6404,
+   "h": 14.279999999999973,
+   "item": {
+    "label": "B. Switch 1 – From Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_b_switch_1_from_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 144.5,
+     "w": 14
+    },
+    {
+     "x": 158.5,
+     "w": 14
+    },
+    {
+     "x": 172.5,
+     "w": 14
+    },
+    {
+     "x": 193.5,
+     "w": 14
+    },
+    {
+     "x": 207.5,
+     "w": 14.5
+    },
+    {
+     "x": 222,
+     "w": 13.5
+    }
+   ],
+   "y": 661.6404,
+   "h": 14.279999999999973,
+   "right": true,
+   "item": {
+    "label": "B. Switch 1 – Amount (boxes before \"units / RM\")",
+    "kind": "text"
+   },
+   "key": "q_b_switch_1_amount_boxes_before_units_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 281,
+     "w": 14
+    },
+    {
+     "x": 295,
+     "w": 14
+    },
+    {
+     "x": 309,
+     "w": 14
+    },
+    {
+     "x": 330,
+     "w": 14
+    },
+    {
+     "x": 344,
+     "w": 14
+    },
+    {
+     "x": 358,
+     "w": 14
+    }
+   ],
+   "y": 661.6404,
+   "h": 14.279999999999973,
+   "right": true,
+   "item": {
+    "label": "B. Switch 1 – Amount (boxes after \"units / RM\")",
+    "kind": "text"
+   },
+   "key": "q_b_switch_1_amount_boxes_after_units_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 436.5,
+     "w": 14
+    },
+    {
+     "x": 450.5,
+     "w": 14
+    }
+   ],
+   "y": 661.6404,
+   "h": 14.279999999999973,
+   "item": {
+    "label": "B. Switch 1 – To Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_b_switch_1_to_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 60,
+     "w": 14
+    },
+    {
+     "x": 74,
+     "w": 14
+    }
+   ],
+   "y": 640.0404,
+   "h": 14.159999999999968,
+   "item": {
+    "label": "B. Switch 2 – From Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_b_switch_2_from_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 144.5,
+     "w": 14
+    },
+    {
+     "x": 158.5,
+     "w": 14
+    },
+    {
+     "x": 172.5,
+     "w": 14
+    },
+    {
+     "x": 193.5,
+     "w": 14
+    },
+    {
+     "x": 207.5,
+     "w": 14.5
+    },
+    {
+     "x": 222,
+     "w": 13.5
+    }
+   ],
+   "y": 640.0404,
+   "h": 14.159999999999968,
+   "right": true,
+   "item": {
+    "label": "B. Switch 2 – Amount (boxes before \"units / RM\")",
+    "kind": "text"
+   },
+   "key": "q_b_switch_2_amount_boxes_before_units_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 281,
+     "w": 14
+    },
+    {
+     "x": 295,
+     "w": 14
+    },
+    {
+     "x": 309,
+     "w": 14
+    },
+    {
+     "x": 330,
+     "w": 14
+    },
+    {
+     "x": 344,
+     "w": 14
+    },
+    {
+     "x": 358,
+     "w": 14
+    }
+   ],
+   "y": 640.0404,
+   "h": 14.159999999999968,
+   "right": true,
+   "item": {
+    "label": "B. Switch 2 – Amount (boxes after \"units / RM\")",
+    "kind": "text"
+   },
+   "key": "q_b_switch_2_amount_boxes_after_units_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 436.5,
+     "w": 14
+    },
+    {
+     "x": 450.5,
+     "w": 14
+    }
+   ],
+   "y": 640.0404,
+   "h": 14.159999999999968,
+   "item": {
+    "label": "B. Switch 2 – To Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_b_switch_2_to_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 63.5,
+     "w": 14
+    },
+    {
+     "x": 77.5,
+     "w": 14
+    }
+   ],
+   "y": 493.8804,
+   "h": 14.159999999999968,
+   "item": {
+    "label": "C. 2(a) Top-up 1 – Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_1_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 148,
+     "w": 14
+    },
+    {
+     "x": 162,
+     "w": 14
+    },
+    {
+     "x": 176,
+     "w": 14
+    },
+    {
+     "x": 197,
+     "w": 14
+    },
+    {
+     "x": 211,
+     "w": 14
+    },
+    {
+     "x": 225,
+     "w": 14
+    }
+   ],
+   "y": 493.8804,
+   "h": 14.159999999999968,
+   "right": true,
+   "item": {
+    "label": "C. 2(a) Top-up 1 – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_1_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 63.5,
+     "w": 14
+    },
+    {
+     "x": 77.5,
+     "w": 14
+    }
+   ],
+   "y": 474.80039999999997,
+   "h": 14.160000000000025,
+   "item": {
+    "label": "C. 2(a) Top-up 2 – Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_2_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 148.5,
+     "w": 14
+    },
+    {
+     "x": 162.5,
+     "w": 14
+    },
+    {
+     "x": 176.5,
+     "w": 14
+    },
+    {
+     "x": 197.5,
+     "w": 14
+    },
+    {
+     "x": 211.5,
+     "w": 14
+    },
+    {
+     "x": 225.5,
+     "w": 14
+    }
+   ],
+   "y": 474.80039999999997,
+   "h": 14.160000000000025,
+   "right": true,
+   "item": {
+    "label": "C. 2(a) Top-up 2 – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_2_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 64,
+     "w": 14
+    },
+    {
+     "x": 78,
+     "w": 14
+    }
+   ],
+   "y": 455.7204,
+   "h": 14.160000000000025,
+   "item": {
+    "label": "C. 2(a) Top-up 3 – Fund Type (F)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_3_fund_type_f"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 148,
+     "w": 14
+    },
+    {
+     "x": 162,
+     "w": 14
+    },
+    {
+     "x": 176,
+     "w": 14
+    },
+    {
+     "x": 197,
+     "w": 14
+    },
+    {
+     "x": 211,
+     "w": 14
+    },
+    {
+     "x": 225,
+     "w": 14
+    }
+   ],
+   "y": 455.7204,
+   "h": 14.160000000000025,
+   "right": true,
+   "item": {
+    "label": "C. 2(a) Top-up 3 – Amount (RM)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_top_up_3_amount_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 360,
+     "w": 14
+    },
+    {
+     "x": 374,
+     "w": 14
+    },
+    {
+     "x": 388,
+     "w": 14
+    },
+    {
+     "x": 409,
+     "w": 14
+    },
+    {
+     "x": 423,
+     "w": 14
+    },
+    {
+     "x": 437,
+     "w": 14
+    }
+   ],
+   "y": 455.7204,
+   "h": 14.160000000000025,
+   "right": true,
+   "item": {
+    "label": "C. 2(a) Total Addition (RM)",
+    "kind": "text"
+   },
+   "key": "q_c_2_a_total_addition_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 142,
+     "w": 14
+    },
+    {
+     "x": 156,
+     "w": 14.5
+    },
+    {
+     "x": 170.5,
+     "w": 14
+    },
+    {
+     "x": 191.5,
+     "w": 14
+    },
+    {
+     "x": 205.5,
+     "w": 14
+    },
+    {
+     "x": 219.5,
+     "w": 14
+    }
+   ],
+   "y": 181.8804,
+   "h": 14.879999999999995,
+   "right": true,
+   "item": {
+    "label": "C. 2(b)(v) Other annual income amount (RM) – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_v_other_annual_income_amou_17t6ez9"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 361.5,
+     "w": 14
+    },
+    {
+     "x": 375.5,
+     "w": 14.5
+    },
+    {
+     "x": 390,
+     "w": 13.5
+    },
+    {
+     "x": 411,
+     "w": 14
+    },
+    {
+     "x": 425,
+     "w": 14
+    },
+    {
+     "x": 439,
+     "w": 14
+    }
+   ],
+   "y": 181.8804,
+   "h": 14.879999999999995,
+   "right": true,
+   "item": {
+    "label": "C. 2(b)(v) Other annual income amount (RM) – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_v_other_annual_income_amou_tqrj8x"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 457,
+     "w": 14
+    },
+    {
+     "x": 471,
+     "w": 14
+    },
+    {
+     "x": 485,
+     "w": 14
+    },
+    {
+     "x": 499,
+     "w": 14
+    },
+    {
+     "x": 513,
+     "w": 14
+    }
+   ],
+   "y": 131.12040000000002,
+   "h": 14.159999999999997,
+   "right": true,
+   "item": {
+    "label": "D. Inclusion of GSR Yearly Premium – RM",
+    "kind": "text"
+   },
+   "key": "q_d_inclusion_of_gsr_yearly_premium_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 534,
+     "w": 14
+    },
+    {
+     "x": 548,
+     "w": 14
+    }
+   ],
+   "y": 131.12040000000002,
+   "h": 14.159999999999997,
+   "item": {
+    "label": "D. Inclusion of GSR Yearly Premium – sen",
+    "kind": "text"
+   },
+   "key": "q_d_inclusion_of_gsr_yearly_premium_sen"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 457,
+     "w": 14
+    },
+    {
+     "x": 471,
+     "w": 14
+    },
+    {
+     "x": 485,
+     "w": 14
+    },
+    {
+     "x": 499,
+     "w": 14
+    },
+    {
+     "x": 513,
+     "w": 14
+    }
+   ],
+   "y": 81.56016,
+   "h": 14.159999999999997,
+   "right": true,
+   "item": {
+    "label": "D. Cancellation of GSR Yearly Premium – RM",
+    "kind": "text"
+   },
+   "key": "q_d_cancellation_of_gsr_yearly_premium_rm"
+  },
+  {
+   "extra": true,
+   "type": "comb",
+   "page": 2,
+   "cells": [
+    {
+     "x": 534,
+     "w": 14
+    },
+    {
+     "x": 548,
+     "w": 14
+    }
+   ],
+   "y": 81.56016,
+   "h": 14.159999999999997,
+   "item": {
+    "label": "D. Cancellation of GSR Yearly Premium – sen",
+    "kind": "text"
+   },
+   "key": "q_d_cancellation_of_gsr_yearly_premium_sen"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 96.19800000000001,
+   "y": 279.84839999999997,
+   "size": 7.1039999999999965,
+   "when": "Payout",
+   "item": {
+    "label": "A. Dividend Disbursement method (F29)",
+    "kind": "choice",
+    "options": [
+     "Payout",
+     "Reinvest"
+    ]
+   },
+   "key": "q_a_dividend_disbursement_method_f29"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 1,
+   "x": 96.19800000000001,
+   "y": 261.72839999999997,
+   "size": 7.1039999999999965,
+   "when": "Reinvest",
+   "item": {
+    "label": "A. Dividend Disbursement method (F29)",
+    "kind": "choice",
+    "options": [
+     "Payout",
+     "Reinvest"
+    ]
+   },
+   "key": "q_a_dividend_disbursement_method_f29"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 39.948,
+   "y": 742.9284,
+   "size": 7.1039999999999965,
+   "when": "IPA & ILES",
+   "item": {
+    "label": "B. Switching applies to account",
+    "kind": "choice",
+    "options": [
+     "IPA & ILES",
+     "TUPA"
+    ]
+   },
+   "key": "q_b_switching_applies_to_account"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 39.996,
+   "y": 721.7964,
+   "size": 7.007999999999993,
+   "when": "TUPA",
+   "item": {
+    "label": "B. Switching applies to account",
+    "kind": "choice",
+    "options": [
+     "IPA & ILES",
+     "TUPA"
+    ]
+   },
+   "key": "q_b_switching_applies_to_account"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 60.948,
+   "y": 594.3684000000001,
+   "size": 7.1039999999999965,
+   "when": "Payout",
+   "item": {
+    "label": "B. Dividend Disbursement method (Lion Dividend Fund RM-Unhedged)",
+    "kind": "choice",
+    "options": [
+     "Payout",
+     "Reinvest"
+    ]
+   },
+   "key": "q_b_dividend_disbursement_method_l_17qlon6"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 145.448,
+   "y": 594.3684000000001,
+   "size": 7.1039999999999965,
+   "when": "Reinvest",
+   "item": {
+    "label": "B. Dividend Disbursement method (Lion Dividend Fund RM-Unhedged)",
+    "kind": "choice",
+    "options": [
+     "Payout",
+     "Reinvest"
+    ]
+   },
+   "key": "q_b_dividend_disbursement_method_l_17qlon6"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 129.84199999999998,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "No Income",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 198.84199999999998,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "8,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 248.34199999999998,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "15,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 301.842,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "30,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 129.89,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "50,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 198.89,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "75,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 248.39,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "100,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 301.89,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "200,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 129.84199999999998,
+   "y": 186.2124,
+   "size": 6.816000000000009,
+   "when": "Other amount",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Life Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__9y0myw"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 349.342,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "No Income",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 418.342,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "8,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 467.842,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "15,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 521.342,
+   "y": 238.4124,
+   "size": 6.816000000000009,
+   "when": "30,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 349.39,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "50,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 418.39,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "75,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 467.89,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "100,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 521.39,
+   "y": 214.8804,
+   "size": 6.720000000000005,
+   "when": "200,000",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 349.342,
+   "y": 186.2124,
+   "size": 6.816000000000009,
+   "when": "Other amount",
+   "item": {
+    "label": "C. 2(b)(v) Annual Earned Income (RM) up to – Policyowner / Assured",
+    "kind": "choice",
+    "options": [
+     "No Income",
+     "8,000",
+     "15,000",
+     "30,000",
+     "50,000",
+     "75,000",
+     "100,000",
+     "200,000",
+     "Other amount"
+    ]
+   },
+   "key": "q_c_2_b_v_annual_earned_income_rm__tfbz4u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 30.341999999999995,
+   "y": 137.4924,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "D. Inclusion of Great Saver Rider (GSR) Yearly Premium",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_d_inclusion_of_great_saver_rider_4wddc9"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 39.85,
+   "y": 110.85,
+   "size": 6.800000000000001,
+   "when": "Medical Repricing",
+   "item": {
+    "label": "D. Inclusion of GSR – purpose",
+    "kind": "choice",
+    "options": [
+     "Medical Repricing",
+     "Policy Sustainability"
+    ]
+   },
+   "key": "q_d_inclusion_of_gsr_purpose"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 243.89000000000001,
+   "y": 111.32016,
+   "size": 6.7199999999999935,
+   "when": "Policy Sustainability",
+   "item": {
+    "label": "D. Inclusion of GSR – purpose",
+    "kind": "choice",
+    "options": [
+     "Medical Repricing",
+     "Policy Sustainability"
+    ]
+   },
+   "key": "q_d_inclusion_of_gsr_purpose"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 30.841999999999995,
+   "y": 87.93216,
+   "size": 6.816000000000009,
+   "when": "Yes",
+   "item": {
+    "label": "D. Cancellation of Great Saver Rider (GSR) Yearly Premium",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_d_cancellation_of_great_saver_ri_nixxek"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 39.842,
+   "y": 61.41215999999999,
+   "size": 6.815999999999997,
+   "when": "Medical Repricing",
+   "item": {
+    "label": "D. Cancellation of GSR – purpose",
+    "kind": "choice",
+    "options": [
+     "Medical Repricing",
+     "Policy Sustainability"
+    ]
+   },
+   "key": "q_d_cancellation_of_gsr_purpose"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 2,
+   "x": 243.84199999999998,
+   "y": 59.73215999999999,
+   "size": 6.8160000000000025,
+   "when": "Policy Sustainability",
+   "item": {
+    "label": "D. Cancellation of GSR – purpose",
+    "kind": "choice",
+    "options": [
+     "Medical Repricing",
+     "Policy Sustainability"
+    ]
+   },
+   "key": "q_d_cancellation_of_gsr_purpose"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 712.5323999999999,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Employment related income e.g. salary, commission, bonus, EPF, pension",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_1nzeie5"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 689.3724,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Business income e.g. profits",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_92g60w"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 667.2923999999999,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Investment income e.g. shares, bonds, unit trust, rental income",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_4hpn5h"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 641.6124,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Savings or deposit",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_11o0k5u"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 616.5323999999999,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Policy claims, maturity or surrender",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_2fxb49"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 592.6524,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.1 Source of funds for the premium – Others e.g. inheritance, gift, allowance, loan etc.",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_1_source_of_funds_for_the_prem_1ev3jr7"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.34199999999996,
+   "y": 514.1723999999999,
+   "size": 6.816000000000077,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Employment related income e.g. salary, commission, bonus, EPF, pension",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_1v2altu"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 491.13239999999996,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Business income e.g. profits",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_figy05"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.39000000000001,
+   "y": 469.0404,
+   "size": 6.719999999999982,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Investment income e.g. shares, bonds, unit trust, rental income",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_ddoxww"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 443.37239999999997,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Savings or deposit",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_19d3ilz"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.39000000000001,
+   "y": 418.2804,
+   "size": 6.719999999999982,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Policy claims, maturity or surrender",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_80d2jy"
+  },
+  {
+   "extra": true,
+   "type": "check",
+   "page": 3,
+   "x": 53.342000000000006,
+   "y": 394.4124,
+   "size": 6.815999999999986,
+   "when": "Yes",
+   "item": {
+    "label": "E.2 How your wealth was accumulated – Others e.g. inheritance, gift, allowance, loan etc.",
+    "kind": "choice",
+    "options": [
+     "Yes"
+    ]
+   },
+   "key": "q_e_2_how_your_wealth_was_accumula_icnuke"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246,
+   "y": 231,
+   "w": 50,
+   "size": 9,
+   "item": {
+    "label": "A. Total (%) – must add up to 100",
+    "kind": "text"
+   },
+   "key": "q_a_total_must_add_up_to_100"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 496.95,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F01 Lion Balanced Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f01_lion_balanced_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 477.35,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F02 Lion Growth Fund* (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f02_lion_growth_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 458.45,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F03 Dana Restu* (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f03_dana_restu_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 439.85,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F04 Lion Fixed Income Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f04_lion_fixed_income_fund_l_p_wv2v6h"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 420.55,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F05 Lion Progressive Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f05_lion_progressive_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 401,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F06 Dana Sejati (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f06_dana_sejati_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 381.2,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F09 Lion Strategic Fund** (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f09_lion_strategic_fund_l_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 361.4,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F21 Lion Advanced Strategic Fund (L) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f21_lion_advanced_strategic_fu_1rrlmox"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 341.6,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F27 Lion Equity Global Sustainability Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f27_lion_equity_global_sustain_1oe3xag"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 246.7,
+   "y": 321.8,
+   "w": 48.60000000000002,
+   "size": 9,
+   "item": {
+    "label": "A. F29 Lion Dividend Fund (RM-Unhedged) (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f29_lion_dividend_fund_rm_unhe_ils9wp"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 496.95,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F10 Lion US-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f10_lion_us_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 477.35,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F11 Lion UK-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f11_lion_uk_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 458.45,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F12 Lion AU-i Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f12_lion_au_i_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 439.85,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F16 Lion Asia Pac Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f16_lion_asia_pac_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 420.55,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F17 Lion Enhanced Equity Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f17_lion_enhanced_equity_fund__je5sqd"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 401,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F18 Dana Gemilang (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f18_dana_gemilang_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 381.2,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F22 Lion Small Mid Cap (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f22_lion_small_mid_cap_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 361.4,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F26 Lion ASEAN Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f26_lion_asean_fund_f_percentage"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 1,
+   "x": 486.5,
+   "y": 341.6,
+   "w": 43.39999999999998,
+   "size": 9,
+   "item": {
+    "label": "A. F28 Lion Physical Gold Fund (F) – Percentage (%)",
+    "kind": "text"
+   },
+   "key": "q_a_f28_lion_physical_gold_fund_f__w810rz"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 126.2,
+   "y": 356.95,
+   "w": 216.40000000000003,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(i) Occupation – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_i_occupation_life_assured"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 348.6,
+   "y": 356.95,
+   "w": 213,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(i) Occupation – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_i_occupation_policyowner_assured"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 126.2,
+   "y": 333.54999999999995,
+   "w": 216.40000000000003,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(ii) Exact nature of work – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_ii_exact_nature_of_work_li_ffvhkn"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 348.6,
+   "y": 333.54999999999995,
+   "w": 213,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(ii) Exact nature of work – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_ii_exact_nature_of_work_po_yupxcf"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 126.2,
+   "y": 306.95,
+   "w": 216.40000000000003,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iii) Nature of Business – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iii_nature_of_business_lif_12op7v0"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 348.6,
+   "y": 306.95,
+   "w": 213,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iii) Nature of Business – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iii_nature_of_business_pol_u07eca"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 126.2,
+   "y": 282.45,
+   "w": 216.40000000000003,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iv) Employer / Business name & address (line 1) – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iv_employer_business_name__1nzogsz"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 348.6,
+   "y": 282.45,
+   "w": 213,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iv) Employer / Business name & address (line 1) – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iv_employer_business_name__593oz7"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 126.2,
+   "y": 260,
+   "w": 216.40000000000003,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iv) Employer / Business name & address (line 2) – Life Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iv_employer_business_name__bcaj9w"
+  },
+  {
+   "extra": true,
+   "type": "text",
+   "page": 2,
+   "x": 348.6,
+   "y": 260,
+   "w": 213,
+   "size": 9,
+   "item": {
+    "label": "C. 2(b)(iv) Employer / Business name & address (line 2) – Policyowner / Assured",
+    "kind": "text"
+   },
+   "key": "q_c_2_b_iv_employer_business_name__5rkk0i"
+  }
+ ]
+}
