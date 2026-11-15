@@ -217,34 +217,6 @@ $('#fields').addEventListener('click', e => {
 });
 $('#upper').onchange = redraw;
 
-// ---------- retrieve a policy's details from the policy summary workbook ----------
-async function retrievePolicy(no, { quiet = false } = {}) {
-  const status = $('#lookupStatus');
-  no = String(no || '').replace(/\D/g, '');
-  if (no.length < 8) { if (!quiet) toast('Enter the policy number first.', true); return; }
-  status.textContent = 'Looking up…';
-  try {
-    const { customer, info } = await api('/api/policy/' + no);
-    // With a form open, take only the details that form asks for.
-    const keys = Object.keys(customer).filter(k => !state.form || state.used.has(k));
-    for (const k of keys) state.customer[k] = customer[k];
-    $('#lookupNo').value = no;
-    writeFields(); redraw();
-    const skipped = Object.keys(customer).length - keys.length;
-    status.textContent = `Found ${customer.laName}${info.premiumStatus ? ' · ' + info.premiumStatus : ''}. Filled ${keys.length} detail(s)${skipped ? `; ${skipped} not used on this form` : ''}. NRIC and email are not in the file — type them in.`;
-    toast(`Policy ${no}: filled ${keys.length} detail(s) for ${customer.laName}. Please check them.`);
-  } catch (e) {
-    status.textContent = '';
-    if (!quiet || e.status !== 404) toast(e.message, true);
-  }
-}
-$('#lookupBtn').onclick = () => retrievePolicy($('#lookupNo').value);
-$('#lookupNo').addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); retrievePolicy(e.target.value); } });
-// typing a policy number into the form's own Policy No. field retrieves it too
-$('#fields').addEventListener('change', e => {
-  if (e.target.dataset.key === 'policyNo' && /^\d{10}$/.test(e.target.value.replace(/\D/g, ''))) retrievePolicy(e.target.value, { quiet: true });
-});
-
 // ---------- fill from pasted text or an uploaded picture / PDF ----------
 function applyDetails(text, source) {
   const found = parseDetails(text);
@@ -383,6 +355,5 @@ const saveAgent = () => { try { localStorage.setItem(AGENT_STORE, JSON.stringify
   if (!STATIC) { try { defaults = (await import('./agent-defaults.js')).default || {}; } catch {} }
   try { saved = JSON.parse(localStorage.getItem(AGENT_STORE) || '{}'); } catch {}
   for (const k of agentKeys) { const v = saved[k] || defaults[k]; if (v) state.customer[k] = v; }
-  if (STATIC) { const l = document.querySelector('.lookup'); if (l) l.innerHTML = '<b>Retrieve from policy summary</b><div class="upload-status">Only on the computer version (it reads the policy Excel on that computer). Here, upload the policy enquiry picture / PDF instead.</div>'; }
 }
 loadForms().catch(e => toast('Could not reach the Form Filler server: ' + e.message, true));

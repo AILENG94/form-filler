@@ -8,7 +8,6 @@ Double-click **`Start Form Filler.bat`**. The app opens at http://localhost:3456
 
 ## Daily use
 1. **Form**: pick the form type and form first.
-2. **Retrieve by policy number (most reliable):** type the Policy No. in the **Retrieve from policy summary** box (or in the form's own Policy No. field). The app reads `Individual Policy Summary - 03 Nov 2026.xlsx` from iCloud Drive (Policy Summary folder) and fills the policyholder, life assured, date of birth, gender, mobile, address, bank and nominees. NRIC and email are not in that file, so type them in. To use a newer file, change `POLICY_FILE` in `policy-lookup.js`.
 3. **Upload a picture or PDF:** photos (tilted, shadowed, sideways) are cleaned up and read on this computer; GE "Policy Summary" PDFs are read column by column (name, gender, date of birth, mobile, address lines, postcode/town, nominees). Always glance over the populated fields — a number printed wrongly in the source (e.g. a mobile with no prefix) is copied as it is.
 3. **Or customer details from a picture / PDF:** (less reliable, always check) upload a picture or PDF of the customer's details (IC, proposal, form, screenshot), or type / paste them on the right.
    Only the details the chosen form uses are taken from the document; the rest are ignored (tick **Show all details** to take everything).
@@ -38,8 +37,7 @@ All 34 forms have a saved layout (green **Saved layout** status). Each one fills
 
 ## Web version (GitHub Pages)
 
-The `docs/` folder is a static copy of the app (no server). It reads pictures / PDFs in your browser, fills the forms and downloads the PDF; nothing is uploaded. Differences from the computer version: no **Retrieve from policy summary** (it needs the Excel file on your computer), and the agent's details are typed once and remembered on that device only.
+The `docs/` folder is a static copy of the app (no server). It reads pictures / PDFs in your browser, fills the forms and downloads the PDF; nothing is uploaded. Differences from the computer version: the agent's details are typed once and remembered on that device only.
 
 Rebuild it after changing the app, forms or layouts: `node tools/build-site.js`, then commit and push.
 
-Local-only files that are never published (see `.gitignore`): `public/agent-defaults.js` (your agent details), `policy-file.txt` (path of the policy Excel).

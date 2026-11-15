@@ -3,7 +3,6 @@ import http from 'http';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { lookupPolicy, POLICY_FILE } from './policy-lookup.js';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const FORMS = path.join(ROOT, 'Forms');
@@ -79,14 +78,6 @@ const server = http.createServer(async (req, res) => {
 
     if (p === '/api/forms') return send(res, 200, listForms());
 
-    if (p.startsWith('/api/policy/')) {
-      try {
-        const found = await lookupPolicy(p.slice(12));
-        return found ? send(res, 200, found) : send(res, 404, { error: `Policy ${p.slice(12)} was not found in the policy summary.` });
-      } catch (e) {
-        return send(res, 500, { error: e.code === 'ENOENT' ? `The policy summary file was not found: ${POLICY_FILE}` : e.message });
-      }
-    }
 
     if (p.startsWith('/forms/')) {
       const f = inside(FORMS, p.slice(7));
