@@ -434,6 +434,84 @@ function fixLine(line) {
   return `${label}: ${m[2]}`;
 }
 
+// ---- Nomination information only: nominees 1-4 and trustees 1-2 from a screenshot / PDF / pasted text ----
+const REL_WORDS = /\b(wife|husband|spouse|son|daughter|father|mother|parents?|brother|sister|grand ?(?:son|daughter|father|mother|child|children)|uncle|aunt|nephew|niece|friend|fianc[eé]e?|isteri|suami|anak|ayah|ibu|abang|kakak|adik|abang ipar|kawan|child|children|sibling|in-?law|cousin|partner)\b/i;
+const NOM_FIELD = /^(nominee|trustee)\d/;
+const NOM_HEAD = /^(nominee|trustee|penama|beneficiary|pemegang amanah)s?\b[^:=\d]*?\s*\(?\s*([1-4])?\s*\)?\s*(details?|particulars)?\s*[:\-]?\s*$/i;
+
+function nominationsOnly(found) {
+  const r = {};
+  for (const k of Object.keys(found)) if (NOM_FIELD.test(k)) r[k] = found[k];
+  return r;
+}
+const nameCase = s => s.toLowerCase().replace(/(^|[\s'’(\/-])([a-z])/g, (_, a, b) => a + b.toUpperCase());
+
+export function parseNominations(text) {
+  // 1. Text that already says "NOMINEE 1: ... TRUSTEE 1: ..." (or any labelled form of it).
+  let found = nominationsOnly(parseDetails(text));
+  if (Object.keys(found).some(k => /(Name|Nric)$/.test(k))) return found;
+
+  const lines = String(text).split(/\r?\n/).map(l => l.replace(/[|_\[\]~]+/g, ' ').replace(/\s+/g, ' ').trim()).filter(Boolean);
+  const counts = { nominee: 0, trustee: 0 };
+  let role = 'nominee', blocks = [];
+
+  // 2. Table rows: "1  KHAW LEE LEE  870102-02-5678  Malaysian  Sister  100%" (name above or beside the NRIC).
+  lines.forEach((raw, i) => {
+    const hd = raw.match(NOM_HEAD);
+    if (hd && !NRIC_RE.test(raw)) { role = /trustee|pemegang/i.test(raw) ? 'trustee' : 'nominee'; return; }
+    const m = raw.match(NRIC_RE);
+    const id = m && nric(m[0]);
+    if (!id) return;
+    if (/trustee|pemegang amanah/i.test(raw)) role = 'trustee';
+    else if (/nominee|penama|beneficiar/i.test(raw)) role = 'nominee';
+    const before = raw.slice(0, m.index).replace(/^\s*\(?\d{1,2}[.)]?\s+/, '').replace(/\b(nominee|trustee|penama|name|nama|nric|ic)\b\s*\d?\s*[:\-]?/gi, ' ');
+    const after = raw.slice(m.index + m[0].length);
+    let name = before.replace(/[^A-Za-z@'’.\/\- ]/g, ' ').replace(/\s+/g, ' ').trim();
+    if (name.length < 3 && i > 0) name = lines[i - 1].replace(/\b(nominee|trustee|penama|name|nama)\b\s*\d?\s*[:\-]?/gi, ' ').replace(/[^A-Za-z@'’.\/\- ]/g, ' ').replace(/\s+/g, ' ').trim();
+    // Details may sit beside the NRIC or on the lines that follow it (up to the next NRIC / "Name" line).
+    let tail = after;
+    for (let j = i + 1; j < lines.length && j <= i + 6 && !NRIC_RE.test(lines[j]) && !/^(full )?(nominee |trustee )?(name|nama)\s*[:=]/i.test(lines[j]) && !NOM_HEAD.test(lines[j]); j++) tail += ' ' + lines[j];
+    const rel = (tail.match(/relationship\s*[:=]?\s*([A-Za-z\- ]{2,20})/i) || [])[1]?.trim().match(REL_WORDS)?.[0] || (tail.match(REL_WORDS) || [])[0];
+    const sh = tail.match(/(\d{1,3}(?:\.\d+)?)\s*%/) || tail.match(/(?:share|percentage|bahagian)[^\d\n]{0,15}(\d{1,3})\b/i);
+    const nat = /malaysia|warganegara|\bWN\b/i.test(tail) ? 'Malaysian' : '';
+    // A picture is often read twice (two OCR passes): the same person is kept once, with the fuller details.
+    const dup = blocks.find(b => b.id === id && b.role === role);
+    if (dup) { dup.name = dup.name.length >= name.length ? dup.name : name; dup.rel = dup.rel || rel; dup.share = dup.share || (sh && sh[1]); dup.nat = dup.nat || nat; return; }
+    blocks.push({ role, name, id, rel, share: sh && sh[1], nat });
+  });
+
+  if (blocks.length) {
+    const txt = blocks.map(b => {
+      const n = Math.min(++counts[b.role], b.role === 'nominee' ? 4 : 2);
+      return [`${b.role.toUpperCase()} ${n}:`, b.name && b.name.length >= 3 ? `NAME: ${b.name.toUpperCase()}` : '', `NRIC: ${b.id}`,
+        b.nat && `NATIONALITY: ${b.nat}`, b.rel && `RELATIONSHIP: ${nameCase(b.rel)}`, b.share && b.role === 'nominee' && `PERCENTAGE: ${b.share}%`].filter(Boolean).join('\n');
+    }).join('\n');
+    found = nominationsOnly(parseDetails(txt));
+    if (Object.keys(found).length) return found;
+  }
+
+  // 3. Labelled lines with no headings ("Name: ... NRIC: ..." repeated): a new person starts at each repeated "Name".
+  const out = []; let seenName = false, cur = null;
+  role = 'nominee'; counts.nominee = counts.trustee = 0;
+  for (const raw of lines) {
+    const hd = raw.match(NOM_HEAD);
+    if (hd && !/[:=]\s*\S/.test(raw)) { role = /trustee|pemegang/i.test(raw) ? 'trustee' : 'nominee'; seenName = false; cur = null; continue; }
+    const lab = raw.match(/^([A-Za-z \/().%]{2,30}?)\s*[:=]\s*\S/);
+    const isName = lab && /^(full |nominee |trustee )?(name|nama)( of (nominee|trustee))?$/i.test(lab[1].trim());
+    if (isName && (seenName || !cur)) {
+      if (seenName) { /* next person */ }
+      const n = Math.min(++counts[role], role === 'nominee' ? 4 : 2);
+      cur = [`${role.toUpperCase()} ${n}:`]; out.push(cur); seenName = true;
+    }
+    if (cur) cur.push(raw);
+  }
+  if (out.length) {
+    found = nominationsOnly(parseDetails(out.map(b => b.join('\n')).join('\n')));
+    if (Object.keys(found).length) return found;
+  }
+  return {};
+}
+
 export function parseDetails(text) {
   const out = {};
   const set = (key, raw) => {

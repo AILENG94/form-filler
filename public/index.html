@@ -39,11 +39,18 @@
         <span>Picture (IC, form, screenshot) or PDF — click, drag here, or Ctrl+V a screenshot</span>
         <small>Read on this computer only; nothing is uploaded online.</small>
       </label>
+      <label class="drop nom" id="dropNom" hidden>
+        <input type="file" id="uploadNomFile" accept="image/*,.pdf,application/pdf" hidden>
+        <b>Upload nomination information</b>
+        <span>Screenshot or PDF of the nominees (up to 4) and trustees (up to 2) — click or drag here. Only nominee / trustee details are filled.</span>
+        <small>Read on this computer only; nothing is uploaded online.</small>
+      </label>
       <div class="upload-status" id="uploadStatus" aria-live="polite"></div>
       <details class="paste" open>
         <summary>Paste or check details</summary>
         <textarea id="pasteBox" rows="5" placeholder="Name: Tan Mei Ling&#10;NRIC: 900101-07-1234&#10;Mobile: 012-345 6789&#10;Policy No: 0123456789"></textarea>
         <button id="pasteApply" class="primary">Populate details</button>
+        <button id="pasteNomApply" class="ghost" hidden title="Fill only the nominee / trustee details from this text">Populate nominees / trustees only</button>
       </details>
       <form id="fields" class="fields" autocomplete="off">
         <div class="empty"><h2>Choose a form type and form on the left</h2><p>The details and questions that form asks for will appear here, in the same order as the form.</p></div>
