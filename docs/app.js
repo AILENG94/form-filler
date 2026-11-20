@@ -1,7 +1,7 @@
 import * as pdfjsLib from './lib/pdf.mjs';
 import * as PDFLib from './lib/pdf-lib.esm.js';
 import { FIELDS, FIELD_BY_KEY } from './fields.js';
-import { readDocument, parseDetails, parseNominations } from './extract.js';
+import { readDocument, parseDetails } from './extract.js';
 import { detectLayout } from './detect.js';
 import { fillPdf, valueFor, boxChars, formatNric, formatMobile } from './fill.js';
 
@@ -168,9 +168,6 @@ function inputFor(o) {
 function renderFields() {
   const list = orderedFields();
   state.used = new Set(list.map(o => o.key));
-  // The nomination upload box only appears on forms that have nominee / trustee details.
-  const hasNom = list.some(o => /^(nominee|trustee)\d/.test(o.key));
-  $('#dropNom').hidden = !hasNom; $('#pasteNomApply').hidden = !hasNom;
   const box = $('#fields');
   if (!list.length) { box.innerHTML = '<div class="empty"><p>This form has nothing for you to fill in.</p></div>'; return; }
   let page = 0;
@@ -221,8 +218,8 @@ $('#fields').addEventListener('click', e => {
 $('#upper').onchange = redraw;
 
 // ---------- fill from pasted text or an uploaded picture / PDF ----------
-function applyDetails(text, source, nominationsOnly = false) {
-  const found = nominationsOnly ? parseNominations(text) : parseDetails(text);
+function applyDetails(text, source) {
+  const found = parseDetails(text);
   // With a form open, take only the details that form asks for.
   const all = Object.keys(found);
   const keys = (state.form ? all.filter(k => state.used.has(k)) : all).filter(k => !/SameAddress$/.test(k));
@@ -248,40 +245,33 @@ function applyDetails(text, source, nominationsOnly = false) {
   if (keys.length) toast(`Filled ${keys.length} field(s) from ${source}: ${keys.map(k => (FIELD_BY_KEY[k]?.label || k).replace(/\.$/, '')).join(', ')}.${note} Please check them.`);
   else if (sameNote.includes('(same as life assured)')) toast(sameNote.trim());
   else if (skipped) toast(`None of the details found in ${source} are used on this form.${note}`, true);
-  else if (nominationsOnly) toast(`No nominee or trustee details recognised in ${source}. Check the text shown under "Paste or check details", write it as "NOMINEE 1:" then Name / NRIC / Nationality / Relationship / Percentage lines, and click "Populate details".`, true);
   else toast(`No customer details recognised in ${source}. You can correct the text and click "Populate details".`, true);
 }
 $('#pasteApply').onclick = () => applyDetails($('#pasteBox').value, 'the text');
 
-// nominationsOnly: the "Upload nomination information" box - fills nominee / trustee details only, never the customer's own.
-async function handleUpload(file, nominationsOnly = false) {
+async function handleUpload(file) {
   if (!file) return;
   if (!/^image\/|pdf$/.test(file.type) && !/\.(pdf|png|jpe?g|webp|bmp|gif)$/i.test(file.name)) return toast('Please choose a picture (JPG, PNG) or a PDF.', true);
   const status = $('#uploadStatus');
-  const box = $(nominationsOnly ? '#dropNom' : '#drop');
-  box.classList.add('busy');
+  $('#drop').classList.add('busy');
   try {
     const text = await readDocument(file, pdfjsLib, msg => (status.textContent = msg));
     $('#pasteBox').value = text.trim();
     $('.paste').open = true;
     status.textContent = `Read ${file.name}. The text found is shown under "Paste or check details".`;
-    applyDetails(text, file.name, nominationsOnly);
+    applyDetails(text, file.name);
   } catch (e) {
     console.error(e); status.textContent = ''; toast('Could not read the file: ' + e.message, true);
-  } finally { box.classList.remove('busy'); $('#uploadFile').value = ''; $('#uploadNomFile').value = ''; }
+  } finally { $('#drop').classList.remove('busy'); $('#uploadFile').value = ''; }
 }
 $('#uploadFile').onchange = e => handleUpload(e.target.files[0]);
-$('#uploadNomFile').onchange = e => handleUpload(e.target.files[0], true);
-for (const [el, nom] of [[$('#drop'), false], [$('#dropNom'), true]]) {
-  ['dragenter', 'dragover'].forEach(t => el.addEventListener(t, e => { e.preventDefault(); el.classList.add('over'); }));
-  ['dragleave', 'drop'].forEach(t => el.addEventListener(t, e => { e.preventDefault(); el.classList.remove('over'); }));
-  el.addEventListener('drop', e => handleUpload(e.dataTransfer.files[0], nom));
-}
-$('#pasteNomApply').onclick = () => applyDetails($('#pasteBox').value, 'the text', true);
+const drop = $('#drop');
+['dragenter', 'dragover'].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.add('over'); }));
+['dragleave', 'drop'].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.remove('over'); }));
+drop.addEventListener('drop', e => handleUpload(e.dataTransfer.files[0]));
 addEventListener('paste', e => {
   const img = [...(e.clipboardData?.files || [])].find(f => f.type.startsWith('image/'));
-  // A screenshot pasted while a nomination form is open goes to the nomination box when it is the one being pointed at.
-  if (img) { e.preventDefault(); handleUpload(img, !$('#dropNom').hidden && $('#dropNom').matches(':hover')); }
+  if (img) { e.preventDefault(); handleUpload(img); }
 });
 
 // ---------- form preview (hidden unless asked for) ----------
